@@ -498,8 +498,8 @@ twikoo:
 # https://giscus.app/
 giscus:
   repo: zizhuspot/haojia
-  repo_id:
-  category_id:
+  repo_id: R_kgDOJ9Z6cw
+  category_id: DIC_kwDOJ9Z6c84CX_tx
   theme:
     light: light
     dark: dark

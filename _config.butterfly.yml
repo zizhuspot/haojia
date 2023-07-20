@@ -232,7 +232,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 发现未知、拓展思维、超越想象
+    description: 视觉特效、影视技术、艺术设计
     button:
       enable: true
       icon: fab fa-github

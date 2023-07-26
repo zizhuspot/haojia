@@ -1,0 +1,72 @@
+---
+title: 细腻毛发特效解析
+date: 发布时间（格式：2023-07-26 18:26:39）
+categories:
+  -  特效教程
+tags:
+  -  视觉特效
+  -  特效解析
+  -  UV贴图
+  -  毛发特效教程
+description: 如何实现细腻的毛发特效，如何使用贴图进行惊艳的着色，本文可以回答你
+cover: https://s2.loli.net/2023/07/26/Xzogax6FvhJbWAs.png
+---
+# 细腻毛发特效解析
+**最终效果展示**
+
+![最终效果](https://s2.loli.net/2023/07/26/Xzogax6FvhJbWAs.png)
+
+我们将进行局部效果讲解
+
+![毛发细节赏析](https://s2.loli.net/2023/07/26/JrYKbsSvXDN7eAg.png)
+
+
+## *羽毛如何进行着色？*
+
+羽毛本身不是具体的建模，不能直接剥离UV绘制贴图，需要结合Yeti、Arnold一些属性与节点，再加上颜色贴图才能呈现出栩栩如生的羽毛效果。
+
+## 羽毛的着色方式——转换羽毛属性模拟毛发
+![](https://s2.loli.net/2023/07/26/hHQonyqeI7WkdRZ.png)
+
+创建属性节点自定义羽毛UV
+
+![](https://s2.loli.net/2023/07/26/5YplS3maKtBQ6DP.png)
+
+自定义了羽毛的UV后，把羽毛位移X轴0.5，这个红色框就是一个UV格子，里面的紫色框就是羽毛的UV范围了。
+
+![](https://s2.loli.net/2023/07/26/ZnJohqgvdC2b5Y3.png)
+
+
+在材质里把贴图导进来，将自定义的U和V坐标赋予给贴图坐标。
+
+![](https://s2.loli.net/2023/07/26/v1yzrticjGAVuxC.png)
+
+这种方式做出来的羽毛花纹就十分规整不会拉伸，也不会受到羽毛形状改变而影响。
+
+![UV示例1](https://s2.loli.net/2023/07/26/2oDMQE75IbZJyXt.png)
+
+![UV示例2](https://s2.loli.net/2023/07/26/hXtwjlyVeFqKHko.png)
+
+身上羽毛有多种颜色变化，而且在同一个大纲的，可以调用switch节点属性来记录多种不同的颜色。
+
+![鸟类的羽毛有很多颜色](https://s2.loli.net/2023/07/26/YrzHWkoiv3OyS5m.png)
+
+把Groom里面创建好的属性继承到instance
+
+![](https://s2.loli.net/2023/07/26/CXvkx6KHLsdVAM4.png)
+
+把属性代入Switch节点里调用材质
+
+![](https://s2.loli.net/2023/07/26/AxBfYr7HdhM9Fia.png)
+
+Switch节点颜色渐变和颜色分区效果：
+
+![羽毛颜色分区示例](https://s2.loli.net/2023/07/26/yuAwLOfl2v1ns6b.png)
+
+## *总结制作方案*
+
+制作羽毛除了掌握了以上节点用法之外还要分析好制作鸟类Yeti节点大纲和Groom的分配，配合材质就可以做出不同颜色和形态的羽毛变化。
+
+
+
+

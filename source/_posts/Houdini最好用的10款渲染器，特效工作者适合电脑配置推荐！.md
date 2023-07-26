@@ -7,7 +7,7 @@ tags:
   - Houdini渲染
   - Houdini渲染器
   - Houdini电脑推荐
-description: Houdini十款最佳渲染器推荐，视效工作者电脑配置推荐。
+description: Houdini最好用的10款渲染器，特效工作者适合电脑配置推荐。
 
 cover: （https://s2.loli.net/2023/07/26/67dXvmPRzelp8Mq.png）
 

@@ -1,5 +1,5 @@
 ---
-title: HOUDINI特效师最常用的8个技巧，你知道吗？
+title: HOUDINI特效师最常用的7个技巧，你知道吗？
 date: 2023-05-24 18:14:36
 categories:
   - HOUDINI
@@ -12,7 +12,7 @@ description: 7个特效师必会的节省时间技巧，学完节省您的工作
 cover: (https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png)
 
 ---
-# HOUDINI特效师最常用的8个技巧，你知道吗？
+# HOUDINI特效师最常用的7个技巧，你知道吗？
 
 ## 优化缓存和属性
 houdini是总部设在多伦多的sidefx开发的3d动画软件应用程序，是一个软件工具集，由prisms程序重组。程序工具用于产生各种效果，如复杂的反射、动画和粒子系统。一些程序特征自1987年以来一直存在。

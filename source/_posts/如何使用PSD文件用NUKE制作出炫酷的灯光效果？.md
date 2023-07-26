@@ -8,10 +8,10 @@ tags:
   -  灯光环境
   -  PSD
   -  灯光特效
-description: 使用NUKE软件使用PSD文件制作逼真的灯光效果，大大提高工作效率
+description: PSD文件使用NUKE制作出逼真的灯光效果，大大提高工作效率
 cover: https://s2.loli.net/2023/07/26/qWuQtOEC73rUJ1e.png
 ---
-# 如何使用PSD文件用NUKE制作出炫酷的灯光效果？
+# PSD文件如何用NUKE制作出炫酷的灯光效果？
 
 大家都知道，NUKE可以导入模型，abc、fbx、obj、.....的文件类型，但如果没有模型……，只用美术提供的psd图，如何实现三维灯光模拟效果？
 ## 1.搭建环境

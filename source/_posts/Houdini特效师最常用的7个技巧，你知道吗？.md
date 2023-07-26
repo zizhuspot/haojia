@@ -1,12 +1,12 @@
 ---
-title: HOUDINI特效师最常用的7个技巧，你知道吗？
+title: Houdini特效师最常用的7个技巧，你知道吗？
 date: 2023-05-24 18:14:36
 categories:
-  - HOUDINI
+  - Houdini
 tags:
-  - HOUDINI使用技巧
-  - HOUDINI模拟
-  - HOUDINI渲染
+  - Houdini使用技巧
+  - Houdini模拟
+  - Houdini渲染
 description: 7个特效师必会的节省时间技巧，学完节省您的工作时间，提高效率。
 
 cover: (https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png)
@@ -24,7 +24,7 @@ houdini是总部设在多伦多的sidefx开发的3d动画软件应用程序，�
 
 ## 了解网络文件夹
 
-网络文件夹是存在于 Houdini 中的节点类型。如果您仍然不知道每个节点是什么以及它的作用，那么就很难传达您是如何创建某些东西或找到您需要的特定节点的。
+网络文件夹是存在于 Houdini中的节点类型。如果您仍然不知道每个节点是什么以及它的作用，那么就很难传达您是如何创建某些东西或找到您需要的特定节点的。
 
 Houdini 有十种主要的文件夹类型。主要有 SOP、DOP、VOP、CHOP、ROP、COP、CVEX、SHOP 和 Objects。例如，SOP 是表面水平操作符。SOP 存在于对象内部，并管理在模拟表面上所做的任何更改。如果您希望更改几何形状或属性，或者希望保存模拟，则必须使用 SOP。了解每个节点的作用，以便您知道使用什么以及何时使用！
 

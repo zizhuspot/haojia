@@ -1,5 +1,5 @@
 ---
-title: AI作图神器，与Chatgpt完美配合，小白如何从零开始使用Midjourney?
+title: AI作图神器，小白如何从零开始使用Midjourney?
 date: 2023-06-21 15:32:14
 categories:
   - AI绘图
@@ -12,7 +12,7 @@ description: 如何从零开始使用Midjourney，这篇文章手把手教你使
 cover: （https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png）
 
 ---
-# AI作图神器，与Chatgpt完美配合，小白如何从零开始使用Midjourney?
+# AI作图神器，小白如何从零开始使用Midjourney?
 
 第 1 步：确保您有 [Discord](https://discord.com/) 登录名。Midjourney 完全在 Discord 上运行，因此您需要在那里有一个帐户才能使用它。如果您还没有注册 Discord，也是免费的。
 

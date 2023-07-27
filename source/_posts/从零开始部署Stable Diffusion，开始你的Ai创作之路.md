@@ -20,7 +20,7 @@ cover: https://s2.loli.net/2023/07/27/cn157qIGZH9wEOm.png
 
 目前比较权威、可以在工作中使用的AI绘画软件只有两种。一种称为Midjourney（简称MJ），另一种称为[Stable Diffusion](https://stablediffusionweb.com/)（简称SD）。 MJ需要付费使用，而SD是开源免费的，但是入门难度和学习成本稍高，而且对于电脑配置（显卡、内存）来说非常昂贵。
 
-与SD和Midjourney相比，Stable Diffusion最大的优势是开源，这意味着Stable Diffusion潜力巨大，发展迅速。
+SD和Midjourney相比，Stable Diffusion最大的优势是开源，这意味着Stable Diffusion潜力巨大，发展迅速。
 
 ![](https://s2.loli.net/2023/07/27/cn157qIGZH9wEOm.png)
 

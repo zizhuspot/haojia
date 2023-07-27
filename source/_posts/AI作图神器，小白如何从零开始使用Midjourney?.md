@@ -9,7 +9,7 @@ tags:
   - AI绘图
   - 创意艺术
 description: 如何从零开始使用Midjourney，这篇文章手把手教你使用这款Ai神器！
-cover: （https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png）
+cover: https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png
 
 ---
 # AI作图神器，小白如何从零开始使用Midjourney?

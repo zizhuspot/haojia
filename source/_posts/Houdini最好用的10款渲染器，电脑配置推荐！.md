@@ -12,7 +12,6 @@ description: Houdini最好用的10款渲染器，电脑配置推荐。
 cover: https://s2.loli.net/2023/07/26/67dXvmPRzelp8Mq.png
 
 ---
-# Houdini最好用的10款渲染器，电脑配置推荐！
 
 ## SideFX Houdini的最佳渲染器
 

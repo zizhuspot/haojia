@@ -13,7 +13,6 @@ description: Stable Diffusion模型选择与模型推荐，让你的工作效率
 cover: https://s2.loli.net/2023/07/27/X28Y5kEWjsAOnau.jpg
 
 ---
-#  Stable Diffusion模型选好了，让你的创作事半功倍
 
 “选择合适的模型，随便出图，比打一堆提示词要好。”
 

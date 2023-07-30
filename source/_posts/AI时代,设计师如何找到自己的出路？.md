@@ -18,31 +18,31 @@ cover: https://s2.loli.net/2023/07/30/bOzCPk8sQMNDIiu.png
 
 ![](https://s2.loli.net/2023/07/30/9AbrSoq14RKzpL3.png)
 
-让色彩理论真正帮助设计师运用于实际设计。它是帮你测试和探索不同色彩的有效工具。
+色彩搭配与合理地适用建议，让你的作品更具艺术感与商业价值。
 
 ### 2 - [Fontjoy](https://fontjoy.com/)
 
 ![](https://s2.loli.net/2023/07/30/MjwfPKs6hOxpmJF.png)
 
-选择字体搭配可能是一件麻烦事儿。Fontjoy 利用深度学习来帮你挑选字体组合。不过这款工具在判断美观与否上，并没有办法做到很突出（这些事情通常很难「算」出来），所以意见也大多作为一种参考。
+作品的字体如何选择？这个网站能够帮助你更好的选择字体用来搭配你的作品，但是最好不要全盘使用，只是一个建议。
 
 ### 3 - [Google autodraw](https://www.autodraw.com/)
 
 ![](https://s2.loli.net/2023/07/30/rso1qGPenxjZIWt.png)
 
-这个工具同样非常简单有趣，它可以用来快速生成插画，AutoDraw 会尝试去理解在页面上的涂鸦，并匹配已有的符号，而不是依赖于关键词搜索。
+这个工具可以让设计师的图文作品更丰富，合理的插画而不是简简单单的关键字搭配，生成的作品更具细节。
 
 ### 4 - [Brandmark](https://brandmark.io/)
 
 ![](https://s2.loli.net/2023/07/30/QUtAZ58ITO4YVma.png)
 
-Brandmark 是使用深度学习来创建LOGO，它可以帮你将公司的名称和相应的属性特征组合到一起，来创建LOGO，也许它不会帮你创造一款永恒经典的设计，但是它可以帮你更好地构思，快速搭建基础的LOGO设计。
+你还在为LOGO的选择而烦恼吗？这个网站可以让你对于LOGO的选择更简单，LOGO的使用搭配不仅仅是用于商业用途，更多的是便于消费者更好的在脑海中找到与你公司更好定位，它可以更好的帮助你。
 
 ### 5 - [Adobe sensei](https://www.adobe.com/sensei.html)
 
 ![](https://s2.loli.net/2023/07/30/lrLoupWQIwM5vVH.png)
 
-这是 Adobe 旗下的产品，在人工智能和机器学习的驱动下，帮你省去以往需要手工来制作的一些环节，帮你更好的专注于创造。
+Adobe公司旗下的产品，它可以让你在创作中更专注于自己的事情，而不是被琐事浪费时间。
 
 ## 深度学习分析
 

@@ -2,7 +2,7 @@
 title: 从零开始部署Stable Diffusion，开始你的Ai创作之路
 date: 2023-05-21 08:20:32
 categories:
-  - Ai作图
+  - Ai绘图
 tags:
   - Stable Diffusion
   - 创意艺术

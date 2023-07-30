@@ -8,7 +8,7 @@ tags:
   - Stable Diffuse插件
   - Stable Diffuse
   - Stable Diffuse安装
-  - Ai作图
+  - Ai绘图
 
 description: 本文详细的介绍了安装/更新/卸载Stable Diffusion插件，让零基础的从业者也能从容不迫的进行工具更新与使用。
 

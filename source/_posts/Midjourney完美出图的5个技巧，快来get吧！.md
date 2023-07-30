@@ -11,7 +11,7 @@ description: 5个Midjourney出图实用技巧，学会它让你的创作如鱼�
 cover: https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png
 
 ---
-# Midjourney完美出图的5个技巧，快来get吧！
+
 ai制作的作品虽然视觉效果很好，但很容易出现任何人都会遇到的问题：脑海中预想的效果和ai制作的效果往往会有很大差异，虽然反复重复了很多次，但仍然得不到想要的效果。
 
 ![](https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png)

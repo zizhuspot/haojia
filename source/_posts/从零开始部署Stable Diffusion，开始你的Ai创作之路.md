@@ -6,7 +6,7 @@ categories:
 tags:
   - Stable Diffusion
   - 创意艺术
-  - Ai作图
+  - Ai绘图
   - 安装Stable Diffusion
   
 description: 从零开始教授你如何部署Stable Diffusion，开始你的绘画创作之路，后面附赠汉化教程。

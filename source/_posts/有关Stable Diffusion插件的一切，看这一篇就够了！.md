@@ -15,7 +15,6 @@ description: 本文详细的介绍了安装/更新/卸载Stable Diffusion插件�
 cover: https://s2.loli.net/2023/07/27/IRDMANqGWBtxHiv.png
 
 ---
-# 有关Stable Diffusion插件的一切，看这一篇就够了！
 
 ![](https://s2.loli.net/2023/07/27/IRDMANqGWBtxHiv.png)
 

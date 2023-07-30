@@ -2,11 +2,11 @@
 title: Stable Diffusion模型选好了，让你的创作事半功倍
 date: 2023-05-19 15:26:47
 categories:
-  - Ai作图
+  - Ai绘图
 tags:
   - Stable Diffusion
   - Stable Diffusion模型
-  - Ai作图
+  - Ai绘图
   - 艺术创作
 description: Stable Diffusion模型选择与模型推荐，让你的工作效率与工作质量更高。
 

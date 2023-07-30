@@ -12,7 +12,6 @@ description: C4D与Maya全面对比分析，本文全方位对比分析让你对
 cover: https://s2.loli.net/2023/07/26/5KXawpAizx7OYHs.png
 
 ---
-# C4D与Maya全面对比分析，哪一个更适合你？
 
 Maxon Cinema Autodesk4D和Maya是最著名的两种。 3D软件、艺术家和工作室经常在很多领域使用它们。它们都有不同的功能。在这篇文章中，让我们比较它们。我们将试图总结它们之间的主要区别以及它们之间的功能。
 

@@ -2,10 +2,10 @@
 title: Stable Diffusion如何使用C站模型，制作一个卡通版本公仔
 date: 2023-07-27 18:24:49
 categories:
-  - Ai作图
+  - Ai绘图
 tags:
   - Stable Diffusion
-  - Ai作图
+  - Ai绘图
   - Stable Diffusion模型
   - Stable Diffusion实战
   

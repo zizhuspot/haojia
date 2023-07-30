@@ -2,11 +2,11 @@
 title: Midjourney出图实战案例与超实用关键词分享
 date: 2023-06-02 17:24:13
 categories:
-  - Ai作图
+  - Ai绘图
 tags:
   - Midjourney
   - 创意艺术
-  - Ai作图
+  - Ai绘图
   - Midjourney 咒语
   - Midjourney 关键词
 description: 本文使用Midjourney进行实战出图，后文对Midjourney常用咒语和材质关键词进行分享。

@@ -14,7 +14,6 @@ description: 本文介绍了使用Stable Diffusion下载C站模型，实战创�
 cover: https://s2.loli.net/2023/07/27/rezFAto3pB7VPCm.jpg
 
 ---
-# Stable Diffusion如何使用C站模型，制作一个卡通版本公仔
 
 ## Step 1: 模型下载与装载
 

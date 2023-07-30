@@ -13,7 +13,6 @@ description: 8个Houdini渲染技巧，让你的渲染效率更高更快。
 cover: https://s2.loli.net/2023/07/26/oVTDp4ZF7HQuqvX.png
 
 ---
-# 8个Houdini渲染技巧，让你的渲染速度快上加快
 Houdini是sidefx公司开发的一款软件。3d建模，动画，绑定，合成，模拟和渲染的强大工具…胡迪尼支持大部分流行的系统/操作系统，包括windows 、linux和macos。Houdini是电影和游戏中最常用的视觉特效软件。pixar、梦工厂动画工作室、沃尔特迪斯尼动画工作室、frame store、method studios等主要vfx公司都在使用。
 
 Houdini有自己的渲染引擎mantra。但是，随着houdini用户对mantra的反应花费时间的抱怨，项目工作流程变得缓慢，如何在houdini中减少渲染的时间？按照下面8个小贴士在houdini加快渲染吧!

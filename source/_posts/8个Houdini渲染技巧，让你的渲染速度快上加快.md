@@ -2,11 +2,11 @@
 title: 8个Houdini渲染技巧，让你的渲染速度快上加快
 date: 2023-05-14 19:23:48
 categories:
-  - HOUDINI
+  - Houdini
 tags:
-  - HOUDINI渲染
-  - HOUDINI技巧
-  - HOUDINI热键
+  - HoudiniI渲染
+  - Houdini技巧
+  - Houdini热键
 
 description: 8个Houdini渲染技巧，让你的渲染效率更高更快。
 

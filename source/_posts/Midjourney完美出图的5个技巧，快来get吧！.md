@@ -2,11 +2,11 @@
 title: Midjourney完美出图的5个技巧，快来get吧！
 date: 2023-05-17 24:02:47
 categories:
-  - Ai作图
+  - Ai绘图
 tags:
   - Midjourney
   - 艺术创意
-  - Ai作图
+  - Ai绘图
 description: 5个Midjourney出图实用技巧，学会它让你的创作如鱼得水。
 cover: https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png
 

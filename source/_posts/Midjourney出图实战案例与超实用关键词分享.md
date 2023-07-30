@@ -14,7 +14,6 @@ description: 本文使用Midjourney进行实战出图，后文对Midjourney常�
 cover: https://s2.loli.net/2023/07/27/8HiUmzMhVexWS7Z.jpg
 
 ---
-# Midjourney出图实战案例与超实用关键词分享
 
 Midjourney大家都很熟悉，但目前很多人还是用它来制作海报、运营banner、IP等图像，那么UI设计在工作流程中如何使用MJ呢？我最近一直在探索这方面。目前背景和图标已经可以成熟的应用到工作流程中。下面我就来说说我的经历。
 

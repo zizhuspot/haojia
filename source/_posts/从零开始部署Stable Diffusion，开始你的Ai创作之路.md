@@ -14,7 +14,6 @@ description: 从零开始教授你如何部署Stable Diffusion，开始你的绘
 cover: https://s2.loli.net/2023/07/27/cn157qIGZH9wEOm.png
 
 ---
-# 从零开始部署Stable Diffusion，开始你的Ai创作之路
 
 ## 一、Step 1:部署Stable Diffusion之前
 

@@ -14,6 +14,8 @@ tags:
   - 艺术创作
   - 人工智能
   - 艺术设计
+  - C站模型
+  - 参数设置
   
 description: 本文介绍了使用Stable Diffusion下载C站模型，实战创作一个卡通公仔，对于AIGC整个创作流程更具体化
   。

@@ -2,10 +2,10 @@
 title: AI作图神器，小白如何从零开始使用Midjourney?
 date: 2023-06-21 15:32:14
 categories:
-  - AI绘图
+  - Ai绘图
 tags:
   - Midjourney
-  - AI
+  - Ai
   - Ai绘图
   - 创意艺术
   - Ai工具

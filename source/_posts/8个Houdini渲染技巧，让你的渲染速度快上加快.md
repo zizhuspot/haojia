@@ -4,12 +4,13 @@ date: 2023-05-14 19:23:48
 categories:
   - Houdini
 tags:
-  - HoudiniI渲染
+  - Houdini渲染
   - Houdini技巧
   - Houdini热键
   - 特效软件
   - 视觉设计
   - 艺术设计
+  - 特效师
 
 description: 8个Houdini渲染技巧，让你的渲染效率更高更快。
 

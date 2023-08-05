@@ -31,7 +31,7 @@ cover: https://s2.loli.net/2023/08/05/SRpuAG3b15qzCmM.png
 
 ![](https://s2.loli.net/2023/08/05/ibUNxEcuMTK9YkP.png)
 
-例如，如果您在业务中专业使用 AI智能图像生成器，您可能需要像 Midjourney 这样的工具来提供一致、可靠和高质量的输出。
+例如，如果您在业务中专业使用 AI智能图像生成器，您可能需要像 [Midjourney](https://www.midjourney.com/showcase/recent/) 这样的工具来提供一致、可靠和高质量的输出。
 
 ![](https://s2.loli.net/2023/08/05/MxquWAOFcKe3tJN.png)
 

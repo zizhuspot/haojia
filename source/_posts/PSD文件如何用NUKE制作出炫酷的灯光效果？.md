@@ -2,7 +2,7 @@
 title: PSD文件如何用NUKE制作出炫酷的灯光效果？
 date: 2023-07-25 17:39:22
 categories:
-  -  特效制作
+  -  特效教程
 tags:
   -  NUKE
   -  灯光环境

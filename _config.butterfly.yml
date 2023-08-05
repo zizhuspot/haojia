@@ -42,10 +42,10 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://s2.loli.net/2023/08/05/Sg26s71bVYDEqPc.png
+favicon: https://s2.loli.net/2023/08/05/hIiL8m6TVqlM2dk.png
 # Avatar (頭像)
 avatar:
-  img: https://s2.loli.net/2023/08/05/Sg26s71bVYDEqPc.png
+  img: https://s2.loli.net/2023/08/05/hIiL8m6TVqlM2dk.png
   effect: true
 
 # Disable all banner image
@@ -53,7 +53,6 @@ disable_top_img: false
 
 # The banner image of home page
 index_img: https://s2.loli.net/2023/08/05/gnaLJXqI8VSzH5l.jpg
-
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://s2.loli.net/2023/07/17/leDBhzw8xEnOmS6.png
 

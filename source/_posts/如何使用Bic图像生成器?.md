@@ -11,7 +11,7 @@ tags:
   - 使用教程
   - Bic
   - bing image creator
-  - dell-e 2
+  - dall-e 2
   - openai
   - chatgpt
   - 人工智能

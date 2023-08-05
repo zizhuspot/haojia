@@ -7,6 +7,12 @@ tags:
   - C4D
   - MAYA
   - 渲染器
+  - 特效工具
+  - 工业特效软件
+  - 软件分析
+  - 特效师
+  - 视觉设计
+  - 创意艺术
 description: C4D与Maya全面对比分析，本文全方位对比分析让你对这两款软件的使用场景更加了解。
 
 cover: https://s2.loli.net/2023/07/26/5KXawpAizx7OYHs.png

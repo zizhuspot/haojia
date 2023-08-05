@@ -7,6 +7,12 @@ tags:
   -  NUKE
   -  灯光环境
   -  搭建灯光
+  -  特效师
+  -  特效制作
+  -  艺术设计
+  -  特效实战
+  -  创意艺术
+  -  视觉设计
 description: PSD文件使用NUKE制作出逼真的灯光效果，大大提高工作效率
 cover: https://s2.loli.net/2023/07/26/qWuQtOEC73rUJ1e.png
 ---

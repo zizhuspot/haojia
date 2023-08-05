@@ -8,6 +8,12 @@ tags:
   - 创意艺术
   - Ai绘图
   - 安装Stable Diffusion
+  - Stable Diffusion模型
+  - Stable Diffusion实战
+  - Ai工具
+  - 艺术创作
+  - 人工智能
+  - 艺术设计
   
 description: 从零开始教授你如何部署Stable Diffusion，开始你的绘画创作之路，后面附赠汉化教程。
 

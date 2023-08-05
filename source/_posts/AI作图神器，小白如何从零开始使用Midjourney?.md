@@ -14,6 +14,7 @@ tags:
   - 艺术创作
   - 人工智能
   - 艺术设计
+  - Discord
 description: 如何从零开始使用Midjourney，这篇文章手把手教你使用这款Ai神器！
 cover: https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png
 

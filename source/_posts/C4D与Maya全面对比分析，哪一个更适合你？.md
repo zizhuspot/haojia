@@ -2,7 +2,7 @@
 title: C4D与Maya全面对比分析，哪一个更适合你？
 date: 2023-05-12:45：31
 categories:
-  - 视效软件
+  - 3D软件
 tags:
   - C4D
   - MAYA
@@ -13,6 +13,10 @@ tags:
   - 特效师
   - 视觉设计
   - 创意艺术
+  - 计算机图形设计
+  - 3D软件
+  - 艺术建模
+  - 艺术设计
 description: C4D与Maya全面对比分析，本文全方位对比分析让你对这两款软件的使用场景更加了解。
 
 cover: https://s2.loli.net/2023/07/26/5KXawpAizx7OYHs.png

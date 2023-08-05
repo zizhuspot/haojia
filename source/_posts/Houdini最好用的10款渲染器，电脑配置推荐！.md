@@ -7,6 +7,9 @@ tags:
   - Houdini渲染
   - Houdini渲染器
   - Houdini电脑推荐
+  - 特效软件
+  - 视觉设计
+  - 艺术设计
 description: Houdini最好用的10款渲染器，电脑配置推荐。
 
 cover: https://s2.loli.net/2023/07/26/67dXvmPRzelp8Mq.png

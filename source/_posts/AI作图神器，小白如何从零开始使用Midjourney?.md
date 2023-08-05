@@ -5,12 +5,15 @@ categories:
   - Ai绘图
 tags:
   - Midjourney
-  - Ai
-  - Ai绘图
   - 创意艺术
+  - Ai绘图
+  - Midjourney 咒语
+  - Midjourney 关键词
+  - 艺术创意
   - Ai工具
-  - 创意设计
+  - 艺术创作
   - 人工智能
+  - 艺术设计
 description: 如何从零开始使用Midjourney，这篇文章手把手教你使用这款Ai神器！
 cover: https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png
 

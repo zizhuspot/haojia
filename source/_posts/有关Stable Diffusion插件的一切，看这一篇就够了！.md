@@ -5,10 +5,16 @@ date: 2023-05-16 18:19:25
 categories:
   - Stable Diffuse插件
 tags:
-  - Stable Diffuse插件
-  - Stable Diffuse
-  - Stable Diffuse安装
+  - Stable Diffusion
   - Ai绘图
+  - Stable Diffusion模型
+  - Stable Diffusion实战
+  - 创意艺术
+  - 艺术创意
+  - Ai工具
+  - 艺术创作
+  - 人工智能
+  - 艺术设计
 
 description: 本文详细的介绍了安装/更新/卸载Stable Diffusion插件，让零基础的从业者也能从容不迫的进行工具更新与使用。
 

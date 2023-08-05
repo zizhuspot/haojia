@@ -238,7 +238,7 @@ aside:
       link: https://github.com/zizhuspot/haojia
   card_announcement:
     enable: true
-    content: A simple and elegant blog
+    content: Ai创造永恒艺术
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

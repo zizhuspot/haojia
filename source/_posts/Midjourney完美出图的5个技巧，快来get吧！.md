@@ -7,6 +7,10 @@ tags:
   - Midjourney
   - 艺术创意
   - Ai绘图
+  - Ai工具
+  - 艺术创作
+  - 人工智能
+  - 艺术设计
 description: 5个Midjourney出图实用技巧，学会它让你的创作如鱼得水。
 cover: https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png
 

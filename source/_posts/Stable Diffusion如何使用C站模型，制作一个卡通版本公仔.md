@@ -8,6 +8,12 @@ tags:
   - Ai绘图
   - Stable Diffusion模型
   - Stable Diffusion实战
+  - 创意艺术
+  - 艺术创意
+  - Ai工具
+  - 艺术创作
+  - 人工智能
+  - 艺术设计
   
 description: 本文介绍了使用Stable Diffusion下载C站模型，实战创作一个卡通公仔，对于AIGC整个创作流程更具体化
   。

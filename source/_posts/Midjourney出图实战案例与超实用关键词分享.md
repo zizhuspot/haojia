@@ -14,6 +14,10 @@ tags:
   - 艺术创作
   - 人工智能
   - 艺术设计
+  - Midjourney模式
+  - Midjourney常用指令
+  - Midjourney常用后缀
+  - 图标设计
 description: 本文使用Midjourney进行实战出图，后文对Midjourney常用咒语和材质关键词进行分享。
 
 cover: https://s2.loli.net/2023/07/27/8HiUmzMhVexWS7Z.jpg

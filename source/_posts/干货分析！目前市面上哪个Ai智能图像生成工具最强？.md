@@ -43,13 +43,13 @@ cover: https://s2.loli.net/2023/08/05/SRpuAG3b15qzCmM.png
 
 | Ai智能图像生成器       | 价格 |         出图速度 |  运行环境  |   主要特点|   
 | --------- | -- | ----------- |-------|------- | 
-| **Bing Image Creator** |  免费 | 快| 互联网| 由 DALL-E 提供支持，可通过必应聊天工具和浏览器访问，使用简单快捷  |   |
-| **DALL-E 2 by OpenAI**   | 免费+资格|快 | 互联网| 精确描绘，详细输入，每个资格生成四个图像 |    
-| **DreamStudio by Stability AI** | 免费+资格| 快 |互联网| 可轻松完全定制的高质量效果图  |    
-| **Dream by WOMBO** |  免费+订阅  |快| 移动网络+电脑 | 逼真再现、多种模板、混搭你自己的图像  |    
-| **Craiyon** |  免费  | 慢 | 互联网| 无限制提示，界面简单明了 |    
-| **Midjourney** |  8美元/月  | 快 |互联网| 最高质量的照片，Discord 社区，创作各种用途的艺术作品 |    
-| **MyHeritage's AI Time Machine** | 免费 | 慢 |互联网| 为您创建历史肖像，输出精确，非常适合制作个人资料照片表  | 
+| **Bing Image Creator** |  免费 | 快| WEB| 由 DALL-E 提供支持，可通过必应聊天工具和浏览器访问，使用简单快捷  |   |
+| **DALL-E 2 by OpenAI**   | 免费+资格|快 | WEB| 精确描绘，详细输入，每个资格生成四个图像 |    
+| **DreamStudio by Stability AI** | 免费+资格| 快 |WEB| 可轻松完全定制的高质量效果图  |    
+| **Dream by WOMBO** |  免费+订阅  |快| 手机+桌面 | 逼真再现、多种模板、混搭你自己的图像  |    
+| **Craiyon** |  免费  | 慢 | WEB| 无限制提示，界面简单明了 |    
+| **Midjourney** |  8美元/月  | 快 |WEB| 最高质量的照片，Discord 社区，创作各种用途的艺术作品 |    
+| **MyHeritage's AI Time Machine** | 免费 | 慢 |WEB| 为您创建历史肖像，输出精确，非常适合制作个人资料照片表  | 
 
 ## 关于Ai智能图像生成器，你需要知道这些...
 

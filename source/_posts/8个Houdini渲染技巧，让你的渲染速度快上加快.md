@@ -7,6 +7,9 @@ tags:
   - HoudiniI渲染
   - Houdini技巧
   - Houdini热键
+  - 特效软件
+  - 视觉设计
+  - 艺术设计
 
 description: 8个Houdini渲染技巧，让你的渲染效率更高更快。
 

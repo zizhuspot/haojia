@@ -33,8 +33,7 @@ cover: https://s2.loli.net/2023/08/05/yk1V4IOwgpumALR.webp
 
 dall-e 2图像生成器与使用chatgpt一样，访问[openai](https://openai.com/)的网站，用户在文本区域输入提示后，等待使用ai创建图像。
 
-然而，bing image creator和 dall-e 2 的工作方式有一些很大的不同，我们将研究它们的不同之处。
-以及利用人工智能创造艺术的最值得一试的工具
+然而，bing image creator和 dall-e 2 的工作方式有一些很大的不同，我们将研究它们的不同之处，以及利用人工智能创造艺术的最值得一试的工具
 
 首先让我们学习如何使用新的bing image creator。
 

@@ -2,7 +2,7 @@
 title: C4D与Maya全面对比分析，哪一个更适合你？
 date: 2023-05-12:45：31
 categories:
-  - 3D软件
+  - 设计师工具
 tags:
   - C4D
   - MAYA

@@ -7,6 +7,11 @@ tags:
   - Houdini使用技巧
   - Houdini模拟
   - Houdini渲染
+  - 特效软件
+  - 视觉设计
+  - 艺术设计
+  - 特效师
+  - 特效制作
 description: 7个特效师必会的节省时间技巧，学完节省您的工作时间，提高效率。
 
 cover: https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png

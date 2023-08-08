@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://haojia.netlify.app/sitemap.xml
+Sitemap: https://www.touzi87.top//sitemap.xml

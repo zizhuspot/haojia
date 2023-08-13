@@ -23,6 +23,8 @@ cover: https://s2.loli.net/2023/08/13/UPNYsk7ptnMV2GO.png
 
 使用方法也异常简单，不用学习如何安装Stable Diffusion xl，不用学习如何使用咒语和关键词搭配（例如最高画质、杰作、大师作品、4k、超高分辨率……），就能轻松生成下载高质量图片，可谓是小白神器！
 
+网址直接戳进去：[https://js.design/ai-muses/create?source=uisdc&plan=wz16](https://js.design/ai-muses/create?source=uisdc&plan=wz16)
+
 直接上公式：**主体元素 + 风格/绘画类型/艺术流派 = 生成图片**
 
 例如，下面将展示如何生成各类风格的Ai图片：

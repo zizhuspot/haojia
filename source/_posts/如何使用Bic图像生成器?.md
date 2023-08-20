@@ -80,7 +80,7 @@ dall-e 2图像生成器与使用chatgpt一样，访问[openai](https://openai.co
 
 ***FAQ：***
 
-1. 我可以使用新的必应聊天工具创建图片吗？
+1.  我可以使用新的必应聊天工具创建图片吗？
 使用必应图片创建工具有两种方法。您可以访问 Bing.com/Create（如上所述）生成图片，也可以通过必应聊天工具直接创建图片。
 
 ![](https://s2.loli.net/2023/08/05/3ugsi9JHZVp4DAN.webp)
@@ -101,7 +101,7 @@ dall-e 2图像生成器与使用chatgpt一样，访问[openai](https://openai.co
 
 DALL-E 2 是 OpenAI 开发的人工智能语言模型，可以根据文字描述生成图像。它是 2021 年 1 月首次推出的 DALL-E 模型的第二个版本。该模型能够根据各种输入，包括动物、物体甚至抽象概念，创建独特而有创意的图像。
 
-3.bard和bing chat孰强孰弱？
+3. bard和bing chat孰强孰弱？
 
 Bard 和 Bing Chat 都是聊天机器人平台，各有优缺点。
 

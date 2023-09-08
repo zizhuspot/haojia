@@ -19,18 +19,18 @@ description: 如何从零开始使用Midjourney，这篇文章手把手教你使
 cover: https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png
 
 ---
+## 如何使用midjourney？
+第1步：确保您有 [Discord](https://discord.com/) 登录名。Midjourney 完全在 Discord 上运行，因此您需要在那里有一个帐户才能使用它。如果您还没有注册 Discord，也是免费的。
 
-第 1 步：确保您有 [Discord](https://discord.com/) 登录名。Midjourney 完全在 Discord 上运行，因此您需要在那里有一个帐户才能使用它。如果您还没有注册 Discord，也是免费的。
-
-第 2 步：访问 [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) 网站。在这里，选择加入测试版。这将自动将您带到 Discord 邀请。
+第2步：访问 [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) 网站。在这里，选择加入测试版。这将自动将您带到 Discord 邀请。
 
 ![](https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png)
 
-第 3 步：接受 Discord 的 Midjourney 邀请。
+第3步：接受 Discord 的 Midjourney 邀请。
 
 ![](https://s2.loli.net/2023/07/26/OSJFULkdh7ZfqpB.png)
 
-第 4 步：您的 Discord 应用程序不会自动打开。当它出现时，在左侧菜单中选择类似船的Midjourney图标。
+第4步：您的 Discord 应用程序不会自动打开。当它出现时，在左侧菜单中选择类似船的Midjourney图标。
 
 第5步：在中途频道中，找到新人房间。通常会有很多新手房间开放，名称如“xiaobai-054”。您可以选择其中任何一个来开始。
 
@@ -59,3 +59,30 @@ cover: https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png
 第10步：如果您打算经常使用Midjourney，您可以使用Midjourney的Discord中的任何机器人频道并输入“/订阅”。这将创建一个链接，您可以点击该链接来支付订阅费用。
 
 那些真正认真长期使用 Midjourney 的人还需要查看手册，其中将为您提供更多命令列表以及有关如何创建图像的一些建议。
+
+## midjourney有什么优势与劣势？
+
+### Midjourney具有以下优势：
+
+1. 高质量的旅行信息和目的地建议：Midjourney可以提供丰富多样的旅行信息和目的地建议，帮助旅行者更好地规划他们的旅行计划。
+
+2. 智能推荐功能：Midjourney的智能推荐功能可以根据旅行者的个人偏好和历史记录提供个性化的建议，帮助旅行者获得更舒适的旅行体验。
+
+3.实时更新信息：Midjourney可以实时更新旅行信息，确保旅行者能够获取到最新、最准确的旅行资讯。
+
+4.审美在线：Midjourney在建模时可能使用了艺术家团队进行反馈标注，训练出审美度高的模型，体现其在审美方面的优势。
+
+5.有风格化能力：Midjourney具有丰富的风格化词语，这也是其专业且丰富能力的一个表现。
+
+6.高效：Midjourney在生成画面时，对输入的依赖很弱，且完成度高。
+
+### Midjourney也存在一些劣势：
+
+1.文字生成无法控制：Midjourney的文字生成和图像生成并非来自同一个模型结构，这导致其无法同时控制文字和图像的生成。
+
+2.中国或跨文化差异相关的内容呈现能力有限：Midjourney的训练数据可能大多来自西方国家，这导致其对中国或跨文化差异相关的内容呈现能力有限，比如在生成中餐图像时可能没有西餐图像的完成度高。
+
+3.存在刻板印象：Midjourney在跨文化内容生成时仍然存在刻板印象，比如在描述人物特征时可能会偏向西方人的审美。
+
+4.修改难度大：Midjourney生成的画面往往首图便是最佳呈现，越修改画面完成度越差，尤其是在修改时的元素融合会过于生硬，不如重新生成一个。
+

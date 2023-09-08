@@ -72,4 +72,9 @@ SD开源地址：[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](
 
 6.	点击界面最上方的黄色按钮"**Apply settings**"，再点击右侧的"**Reload UI**"即可完成汉化
 
+## 关于我使用stable diffusion的感受是什么？
+
+Stable Diffusion是一种非常流行的扩散模型，它在多种应用领域中都有着广泛的应用，例如金融、气候、生物医学等。使用Stable Diffusion的感受可以用以下关键词来概括：
+
+Stable Diffusion模型在处理大规模复杂数据集时非常有效。它能够考虑到各种因素的影响，如时间、空间、物质等，通过建立数学模型，对数据进行拟合和预测。
 

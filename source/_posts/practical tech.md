@@ -1,5 +1,5 @@
 ---
-title:Three Practical Refactoring Techniques to Improve Your Code
+title: Three Practical Refactoring Techniques to Improve Your Code
 
 date: 2023-09-15 08:10:17
 

@@ -1,5 +1,3 @@
-Nine Super Useful Javascript Tips Property Selectors
-
 ## Preface
 
 In the process of actual development work, I have accumulated some common and super useful Javascript tricks and code snippets, including other great compilation of JS tips.

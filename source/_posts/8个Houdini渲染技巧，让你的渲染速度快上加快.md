@@ -2,7 +2,7 @@
 title: 8个Houdini渲染技巧，让你的渲染速度快上加快
 date: 2023-05-14 19:23:48
 categories:
-  - Houdini
+  - 设计师工具
 tags:
   - Houdini渲染
   - Houdini技巧
@@ -11,6 +11,7 @@ tags:
   - 视觉设计
   - 艺术设计
   - 特效师
+  - 设计师工具
 
 description: 8个Houdini渲染技巧，让你的渲染效率更高更快。
 

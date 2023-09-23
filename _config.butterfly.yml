@@ -230,15 +230,14 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 编程技术，开发工具，技术分享
-    button:
+    description: Programming techniques, development tools, artificial intelligence (AI)
       enable: true
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/zizhuspot/www.touzi87.top
   card_announcement:
     enable: true
-    content: 技术改变世界
+    content: Artificial intelligence is changing the world.
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

@@ -17,11 +17,11 @@ cover: https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png
 
 ---
 
-ai制作的作品虽然视觉效果很好，但很容易出现任何人都会遇到的问题：脑海中预想的效果和ai制作的效果往往会有很大差异，虽然反复重复了很多次，但仍然得不到想要的效果。
+ai production works although the visual effect is very good, but it is very easy to appear anyone will encounter the problem: the brain envisioned the effect and the ai production effect will often be very different, although repeated many times, but still can not get the desired effect.
 
 ![](https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png)
 
-使用较长的描述，很容易让用户信服。那么，怎样才能尽可能少地解释，让人工智能知道你想要什么呢？本文就给你介绍midjourney 出图最有效的6种技巧!
+It is easy to convince the user by using longer descriptions. So how can you explain as little as possible and let the AI know what you want? In this article, we'll give you 6 of the most effective tips for midjourney out of the picture!
 
 ai production works although the visual effect is very good, but it is very easy to appear anyone will encounter the problem: the brain envisioned the effect and the ai production effect will often be very different, although repeated many times, but still can not get the desired effect.
 

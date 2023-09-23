@@ -1,83 +1,82 @@
 ---
-title: AI作图神器，小白如何从零开始使用Midjourney?
+title: How to use Midjourney from scratch?
 date: 2023-06-21 15:32:14
 categories:
-  - Ai绘图
-tags:
-  - Midjourney
-  - 创意艺术
-  - Ai绘图
-  - Midjourney 咒语
-  - Midjourney 关键词
-  - 艺术创意
-  - Ai工具
-  - 艺术创作
-  - 人工智能
-  - 艺术设计
+  - Ai drawing
+tags: 
+  - AiDrawing
+  - Creative Art
+  - Ai drawings
+  - Midjourney spell
+  - Midjourney Keywords
+  - Creative Art
+  - Ai tools
+  - Artistic creativity
+  - Artificial Intelligence
+  - Art & Design
   - Discord
-description: 如何从零开始使用Midjourney，这篇文章手把手教你使用这款Ai神器！
+Description: How to use Midjourney from scratch, this article will teach you how to use this Ai tool!
 cover: https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png
 
 ---
-## 如何使用midjourney？
-首先，你需要拥有一个[Discord](https://discord.com/)的登录账号，因为Midjourney是完全在Discord上运行的。若你还未注册Discord，别担心，它是免费的。
+## How do I use midjourney?
+First of all, you need to have a [Discord](https://discord.com/) login, because Midjourney runs entirely on Discord. If you haven't signed up for Discord yet, don't worry, it's free.
 
-访问[Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)的官方网站，点击加入测试版，你将自动收到一个Discord邀请。
+Visit the official [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) website, click Join Beta, and you will automatically receive a Discord invite.
 
-在Discord中接受Midjourney的邀请，之后你的Discord界面并不会自动打开，别担心。在左侧的菜单里找到一个像船一样的Midjourney图标，点击它。
+Accept the Midjourney invitation in Discord, after that your Discord interface will not open automatically, don't worry. Find a Midjourney icon that looks like a boat in the left menu and click on it.
 
 ![](https://s2.loli.net/2023/07/26/4NWzEOuYfBthmX2.png)
 
-进入Midjourney的应用后，在中途频道中寻找新人房间。通常会有很多新手房间供你选择，名称类似“xiaobai-054”。你可以选择任意一个开始你的创作之旅。
+Once you're in the Midjourney app, look for a newbie room in the Midway channel. There are usually many newbie rooms to choose from, with names like "xiaobai-054". You can choose any one of them to start your creative journey.
 
 ![](https://s2.loli.net/2023/07/26/OSJFULkdh7ZfqpB.png)
 
-现在你准备好开始用AI创作艺术了吗？注意一下，作为免费试用的一部分，你只能使用一定数量的提示选项。大约能创建25张免费图像，之后若想继续，你必须购买正式会员资格。如果你不想花钱，最好提前花点时间构思你想要创作的内容。
+Are you ready to start creating art in AI? Just a note, as part of the free trial, you can only use a certain number of prompt options. You'll be able to create about 25 free images, and after that, if you want to continue, you'll have to purchase a full membership. If you don't want to spend the money, it's best to spend some time ahead of time conceptualizing what you want to create.
 
 ![](https://s2.loli.net/2023/07/26/1TxOFhqG4kIts6r.png)
 
-当你做好准备后，在起始房间的Discord聊天中输入“/imagine”。它将创建一个提示字段，你可以在其中输入你希望AI创作的图像的描述。你的描述越详细，AI创作出的结果就会越好。如果你有特定的风格要求，记得在描述中提及。
+When you're ready, type "/imagine" into the Discord chat in the starting room. It will create a prompt field where you can enter a description of the image you want the AI to create. The more detailed your description, the better the results the AI will create. If you have a specific style requirement, remember to mention it in the description.
 
 ![](https://s2.loli.net/2023/07/26/zOYhQMTR4Fy6Aib.png)
 
-完成后，按下Enter键发送你的指令。给Midjourney一分钟的时间来生成图像。通常AI会根据你的描述创建几个不同版本的作品。
+When you're done, press Enter to send your instructions. Give Midjourney a minute to generate the image. Usually the AI will create several different versions based on your description.
 
-查看生成的图像下方，你会看到U和V按钮以及1到4的数字标记。这些数字对应Midjourney为你生成的四张图像。点击U可以将你选择的图像升级为更大更清晰的版本；而V则会根据你选择的当前图像创作一张全新的作品。还有一个刷新按钮，点击它将重新生成一组新的图像供你选择。记住，每进行一次操作，都会消耗你的一些免费提示次数，所以只有当你确定要继续时才进行操作。
+Look underneath the generated image and you'll see the U and V buttons and the number markers 1 through 4. These numbers correspond to the four images Midjourney generates for you. Clicking U upgrades the image you've selected to a larger, sharper version; while V creates a completely new piece of artwork based on the current image you've selected. There's also a Refresh button, and clicking it will regenerate a new set of images for you to choose from. Remember that each action consumes some of your free hints, so only proceed when you're sure you want to continue.
 
-如果你找到喜欢的图像并选择U将其放大，你将获得一组新的选项。你可以选择重新处理图像、放大到最大尺寸或者如果你觉得不满意，可以用轻微缩放重做图像等等。
+If you find an image you like and select U to enlarge it, you'll get a new set of options. You can choose to reprocess the image, zoom in to the maximum size or if you don't feel happy with it, redo the image with a slight zoom and so on.
 
 ![](https://s2.loli.net/2023/07/26/kpQIFOy4YriwBNP.png)
 
-完成你的创作后，你可以通过选择信封表情符号并将其添加到聊天中，将你的作品直接私信给自己。这使你可以随时保存和下载你的作品。
+Once you've finished your creation, you can private message your work directly to yourself by selecting the envelope emoticon and adding it to the chat. This allows you to save and download your creations whenever you want.
 
-如果你打算频繁使用Midjourney，你可以在Midjourney的Discord中的任意机器人频道输入“/订阅”。这将创建一个链接，你只需点击该链接即可完成订阅付费。
+If you plan on using Midjourney frequently, you can type "/subscribe" into any bot channel in Midjourney's Discord. This will create a link that you can simply click on to complete the subscription payment.
 
-对于那些打算长期使用Midjourney的朋友们，你们还可以查看手册获取更多命令列表以及有关如何创作图像的建议。
+For those of you who plan on using Midjourney for the long term, you can also check out the manual for a list of additional commands and advice on how to create images.
 
-## midjourney有什么优势与劣势？
+## What are the advantages and disadvantages of midjourney?
 
-### Midjourney具有以下优势：
+### Midjourney has the following advantages:
 
-探索梦想目的地：Midjourney凭借其丰富的旅行信息和个性化推荐功能，为旅行者绘制出最佳的探险蓝图。
+Explore dream destinations: Midjourney maps out the best adventures for travelers with its wealth of travel information and personalized recommendation features.
 
-打造专属旅行体验：Midjourney的智能推荐功能以旅行者的个人口味和历史行程为基础，打造独一无二的旅行体验。
+Create a unique travel experience: Midjourney's intelligent recommendations are based on the traveler's personal tastes and historical itinerary to create a one-of-a-kind travel experience.
 
-信息实时更新：Midjourney为你实时刷新旅行信息，保证你掌握最新、最准确的旅行资讯。
+Real-time information updates: Midjourney refreshes your travel information in real-time, ensuring you have the most up-to-date and accurate travel information.
 
-艺术家的创作秘诀：Midjourney在模型的训练过程中，融入了艺术家团队的独特见解，为你呈现别具一格的美学视角。
+Artist's secret: Midjourney incorporates the unique insights of a team of artists in the training process of the model, presenting you with a unique aesthetic perspective.
 
-多元风格呈现：Midjourney拥有丰富的风格化语言，精准表达各种视觉风格，展现其精湛的专业能力。
+Diversified style presentation: Midjourney has a rich stylized language that accurately expresses a variety of visual styles, demonstrating its exquisite professional ability.
 
-高效创作无压力：Midjourney在生成画面时，对输入的依赖度极低，且能迅速达到高完成度，让你的创意之旅更加轻松愉快。
+Efficient and stress-free creation: Midjourney has a very low dependence on input when generating images, and can quickly achieve a high degree of completion, making your creative journey easier and more enjoyable.
 
-### Midjourney也存在一些劣势：
+### Midjourney also has some disadvantages:
 
+Dance of text and images: Midjourney is like a dancer trying to master the dance of text and images at the same time, but struggling. Its text and image generation do not come from the same model structure, which is like two dancers on the stage have difficulty in synchronizing their steps, making the audience a bit confused.
 
-文字与图像的舞蹈：Midjourney就像是一位舞者，想要同时掌控文字与图像的舞姿，但却陷入了挣扎。它的文字和图像生成并非出自同一个模型结构，这就好比两位舞者在舞台上的步调难以一致，让观众有些目不暇接。
+East meets West: Midjourney's presentation of cross-cultural content is like a child learning a new language - most of its training data comes from the Western world, which is like a child who only speaks English and is suddenly asked to speak French, which is naturally a bit of a struggle. For example, when generating images of Chinese food, its performance may be inferior to that of Western food, as if a gourmet is faced with an unknown delicacy and is unable to fully express its deliciousness.
 
-东西方大不同：Midjourney在跨文化内容的呈现上，就像是一个孩子在学习一门新的语言——它的训练数据大多来自西方世界，这就好比一个孩子只会说英语，突然让他说法语，自然会有些吃力。比如在生成中餐图像时，它的表现可能就会逊于西餐图像，仿佛一个美食家面对一道未知的佳肴，无法完全表达出它的美味。
+Stereotype Trap: Midjourney sometimes falls into the stereotype trap when describing cross-cultural content. It's like a child who only draws "dolls" with big eyes and high noses, but when he meets a real Oriental character, he may feel lost.
 
-刻板印象的陷阱：Midjourney在描述跨文化内容时，有时会掉入刻板印象的陷阱。这就好像是一个孩子只会画大眼睛、高鼻子的“洋娃娃”，当他遇到真正的东方人物时，可能会感到无所适从。
-
-修改还是重来？Midjourney的生成画面仿佛一首诗，首次呈现时总能让人眼前一亮，但若想要修改，那可就是难上加难了。越修改，画面的完成度就越差，元素之间的融合就像是在硬纸板上戳洞，格格不入。所以，如果遇到这种情况，重新生成一个或许是更好的选择。
+Midjourney's generative graphics are like a poem, always striking when first presented, but it's a lot harder to modify them. The more you modify it, the less finished it becomes, and the elements blend together like poking holes in cardboard. So, if this happens, regenerating one might be a better option.
 

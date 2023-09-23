@@ -1,22 +1,22 @@
 ---
-title: 有关Stable Diffusion插件的一切，看这一篇就够了！
+title: Everything you need to know about the Stable Diffusion plugin, just read this one!
 date: 2023-05-16 18:19:25
 
 categories:
-  - Ai工具
-tags:
+  - Ai Tools
+tags: 
   - Stable Diffusion
-  - Ai绘图
-  - Stable Diffusion模型
-  - Stable Diffusion实战
-  - 创意艺术
-  - 艺术创意
-  - Ai工具
-  - 艺术创作
-  - 人工智能
-  - 艺术设计
+  - Ai Drawing
+  - Stable Diffusion Model
+  - Stable Diffusion in action
+  - Creative Art
+  - Creative Art
+  - Ai Tools
+  - Artistic Creation
+  - Artificial Intelligence
+  - Art & Design
 
-description: 本文详细的介绍了安装/更新/卸载Stable Diffusion插件，让零基础的从业者也能从容不迫的进行工具更新与使用。
+description: This article describes the installation/update/uninstallation of the Stable Diffusion plugin in detail, so that practitioners with no basic knowledge of the tool can also be updated and used with ease.
 
 cover: https://s2.loli.net/2023/07/27/IRDMANqGWBtxHiv.png
 
@@ -24,71 +24,71 @@ cover: https://s2.loli.net/2023/07/27/IRDMANqGWBtxHiv.png
 
 ![](https://s2.loli.net/2023/07/27/IRDMANqGWBtxHiv.png)
 
-## 一、插件基础知识
+## I. Plug-in basics
 
-Stable Diffusion WebUI，这款由大神Automatic1111精心打造的开源用户界面，紧紧围绕着Stable Diffusion模型，为的就是让咱们普通用户也能免费、轻松地体验到文生图技术的魅力！只要把它安装到本地，就能马上享受到这种科技盛宴。不得不提的是，自从WebUI横空出世，吸引了一大波AI绘画爱好者基于它开发出各种插件，不断优化拓展着WebUI的功能，简直是把咱们的体验推向了高潮！
+Stable Diffusion WebUI, this open source user interface crafted by the great god Automatic1111, closely around the Stable Diffusion model, in order to let our ordinary users can also be free and easy to experience the charm of the Vincennes technology! Just install it locally and you can enjoy this technological feast right away. It must be mentioned that, since the emergence of WebUI, attracted a large wave of AI painting enthusiasts based on it to develop a variety of plug-ins, constantly optimizing and expanding the functionality of the WebUI, it is simply to push our experience to a climax!
 
-爆红的插件 Controlnet 就是其中之一.这些插件都是免费开源的，它们的程序及代码一般会托管在 [Github](https://github.com/) 平台上，供公众免费取用，这也是为什么我们下载 WebUI 插件都绕不开 Github。
+The popular plug-in Controlnet is one of them. These plug-ins are free and open source, their programs and code are generally hosted on the [Github](https://github.com/) platform for the public to access for free, which is why we download WebUI plug-ins are not bypassed Github.
 
-![](https://s2.loli.net/2023/07/27/d6gXeJBoSq4D8vy.jpg)
+That's why we can't download WebUI plugins without Github. [](https://s2.loli.net/2023/07/27/d6gXeJBoSq4D8vy.jpg)
 
-知名插件 Controlnet 的 Github 主页，[https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)。
+The Github homepage of the well-known Controlnet plugin, [https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet).
 
-在 Github 上我们可以看到插件的详细信息，包括插件概述、功能介绍、安装/使用方式、安装需求、注意事项等，插件安装下载用到的也都是这里的资源，大家在安装一款插件之前，应该仔细阅读 Github 页面的内容. 
+On Github, we can see the detailed information of the plugin, including the plugin overview, functionality, installation/usage, installation requirements, precautions, etc. Plugin installation and download are also used in the resources here, we should carefully read the contents of the Github page before installing a plugin. 
 
 ![](https://s2.loli.net/2023/07/27/oP3IlvZkY4c8NB2.jpg)
 
-插件安装后，会自动显示在 WebUI 的操作界面中.在 「**扩展-已安装**」中可以查看所有安装成功的插件，并进行更新操作；插件对应的源文件都保存在 SD WebUI 根目录的 「*Extensions*」文件夹中，这个文件夹也是我们管理插件的重要途径之一。
+After the plugin is installed, it will be automatically displayed in the WebUI interface. In "**Extensions-Installed**", you can view all successfully installed plugins and update them; the corresponding source files of the plugins are stored in the "*Extensions*" folder in the root directory of the SD WebUI, which is one of the most important ways for us to manage plugins.
 
-![](https://s2.loli.net/2023/07/27/qPWRTOmY1diN7AS.jpg)
+This folder is also one of the important ways for us to manage the plugins. [](https://s2.loli.net/2023/07/27/qPWRTOmY1diN7AS.jpg)
 
 ![](https://s2.loli.net/2023/07/27/tgKHF6kDclwdPmL.jpg)
 
-*以Prompt All-in-One插件为例，一一介绍安装方法，按照 Github 页面之一上的介绍进行操作。*
+* Take Prompt All-in-One plugin as an example, we will introduce the installation method one by one, and follow the instructions on one of the Github pages. *
 
-- 提示多合一插件接口：[https://github.com/physton/sd-webui-prompt-all-in-one](https://github.com/physton/sd-webui-prompt-all-in-one)
+- Prompt All-in-One plugin interface: [https://github.com/physton/sd-webui-prompt-all-in-one](https://github.com/physton/sd-webui-prompt-all-in-one)
 
-- 提示一体式插件安装概述：文档 ([physton.github.io](https://physton.github.io/sd-webui-prompt-all-in-one-assets/#/zh-cn/Installation))
+- Tip All-in-One plugin installation overview: documentation ([physton.github.io](https://physton.github.io/sd-webui-prompt-all-in-one-assets/#/zh-cn/Installation))
 
-## 二、插件更新
+## II.Plugin update
 
-插件更新的方式有 2 种，一是打开 SD WebUI，进入「*扩展-已安装*」，点击「**检查更新**」按钮，等待进度完成，然后点击「**应用并重启用户界面**」，插件更新就完成了。
+There are 2 ways to update the plugin, one is to open SD WebUI, go to "*Extension-Installed*", click "**Check for Updates**" button, wait for the progress to be completed, then click "**Apply and restart the UI**", the plugin update will be completed.
 
 ![](https://s2.loli.net/2023/07/27/XJPv5SZtNnL1z8q.jpg)
 
-如果你有幸使用由B站@秋葉 aaaki大佬亲自操刀的整合包，那么在启动WebUI之前，你只需点击启动器上的“**版本管理-拓展**”，就可以看到所有已经成功安装的插件更新状态。只要点击右上角的「**一键更新**」，一切就都搞定了！这个办法要比在WebUI里面进行更新快得多，省时又省力。而且你还可以在这里对插件进行卸载操作。偷偷告诉你，图中那两个显示“*非 Git 安装*”的插件，是因为它们是通过下载Zip压缩包的方式安装的，所以无法在这里直接更新。不过别担心，这并不影响你享受其他插件带来的便捷和乐趣！
+If you are lucky enough to be using the integration pack personally handled by @Akiba aaaki bigwig from B station, then before launching WebUI, you just need to click on "**Version Management-Expansion**" on the launcher, and you will be able to see the update status of all the plugins that have been successfully installed. Just click "**One Click Update**" in the upper right corner and everything is done! This method is much faster than doing updates inside WebUI, saving time and effort. And you can also uninstall the plugin here. For your information, the two plugins in the picture that say "*Not Git Installed*" are installed by downloading a zip archive, so you can't update them directly from here. But don't worry, that doesn't stop you from enjoying the convenience and fun of other plugins!
 
 ![](https://s2.loli.net/2023/07/27/srEJNjObVR2opt4.jpg)
 
-## 三、插件停用/卸载
+## III. Plugin deactivation/uninstallation
 
-### - 停用插件
+### - Deactivate the plugin
 
-打开 WebUI 界面，进入「*扩展-已安装*」，在列表内找到你想要停用的插件，取消它名称前面的勾选，然后点击「**应用并重启用户界面**」,重新进入后就看不到该插件了.这种方式会让插件不显示在 WebUI 的界面中，但是文件依旧会保存在根目录的「*Extensions*」文件夹中；恢复勾选并重启用户界面，就能再次看到这个插件 了.
+Open WebUI interface, go to "*Extensions-Installed*", find the plugin you want to deactivate in the list, uncheck the checkbox in front of its name, and then click "**Apply and restart the UI**", then you can't see the plugin after re-entering. This way the plugin won't be shown in the WebUI interface, but the file will still be saved in the "*Extensions*" folder in the root directory; uncheck the checkbox and restart the UI, and you can see the plugin again.
 
 ![](https://s2.loli.net/2023/07/27/SCjx8uv2QNUlfDV.jpg)
 
-### - 卸载插件
+### - Uninstalling a plugin
 
-如果之后都不再使用某个插件，就可以打开根目录的「*Extensions*」文件夹，选中对应的插件文件夹，单击右键删除.然后重新启动 SD WebUI，插件就不存在了.如果你使用的是 B 站 @秋葉aaaki 大佬的整合包，也可以再启动器的“版本管理-拓展”中卸载对应的插件. 以上就是本次分享的Stable Diffusion WebUI插件的安装、更新、卸载方法。安装插件时，如果WebUI显示该插件已安装，则应在扩展中将其删除。首先，根目录中的一个文件夹。指定正确的文件并重新安装。
+If you don't want to use a plugin anymore, you can open the "*Extensions*" folder in the root directory, select the corresponding plugin folder, and right-click to delete it. Then restart SD WebUI and the plugin will no longer exist. If you are using the integration pack from @Akihaaaaki, you can also uninstall the corresponding plugin in the "Version Management - Extensions" section of the launcher. Above is how to install, update and uninstall Stable Diffusion WebUI plugin. When installing the plugin, if WebUI shows that the plugin is already installed, you should remove it from the extension. First, a folder in the root directory. Specify the correct file and reinstall.
 
 ![](https://s2.loli.net/2023/07/27/QfpCkLsb2qOGH79.jpg)
 
-### 关于stable diffusion,我的使用体验：
+### About stable diffusion, my experience with it:
 
-Stable Diffusion的ControlNet插件是一款强大到没朋友的工具，它的出现让Stable Diffusion这颗星辰的闪耀更加璀璨。这个插件的目的是提升算法的表现力，增加稳定性，赋予用户对算法的超精细控制权，满足形形色色的应用场景需求。下面，我将带你们探索我的使用体验哦！
+Stable Diffusion's ControlNet plugin is a powerful tool that is so powerful that it makes the star of Stable Diffusion shine even brighter. The purpose of this plugin is to enhance the expressiveness of the algorithms, increase stability, and give the user ultra-fine control over the algorithms to meet the needs of application scenarios of all shapes and sizes. Below, I will take you to explore my experience of using Oh!
 
-安装和配置ControlNet插件就像是解谜游戏，一步一步慢慢来，一切都会水到渠成。首先，你需要下载并安装Stable Diffusion算法库，这就如同找到了一本魔法书。然后，你需要把ControlNet插件的源代码当做乐高积木，与算法库进行链接搭建。在配置的过程中，你需要揭开算法的神秘面纱，指定一些参数，例如时间步长、空间步长和扩散系数等。这些参数就像是魔法咒语，根据实际需要念咒调整，就可以激发出最佳的性能和稳定性。
+Installing and configuring the ControlNet plugin is like solving a puzzle game, take it one step at a time and everything will fall into place. First, you need to download and install the Stable Diffusion algorithm library, which is like finding a magic book. Then, you need to use the source code of ControlNet plugin as Lego blocks and link it with the algorithm library to build it. During the configuration process, you need to unravel the mystery of the algorithm and specify some parameters, such as time step, space step, and diffusion coefficient. These parameters are like magic incantations, which can be recited and adjusted according to the actual needs to inspire the best performance and stability.
 
-完成了安装和配置，就像是获得了一把打开宝箱的钥匙，你可以开始畅玩ControlNet插件了！它支持多种应用场景，比如机器学习、自动控制等。在机器学习领域，ControlNet插件就像是一位神秘的法师，它可以与常见的机器学习框架如TensorFlow、PyTorch等结盟，一起施展稳定性和高效的训练魔法。
+After completing the installation and configuration, it's like getting a key to open the treasure box, and you can start playing with ControlNet plug-in! It supports a variety of application scenarios, such as machine learning and automation. In the field of machine learning, ControlNet plugin is like a mysterious mage, which can ally with common machine learning frameworks such as TensorFlow, PyTorch, etc., and work together to cast the magic of stability and efficient training.
 
-在自动控制领域，ControlNet插件就像是控制大师，它可以创作出精细的控制策略，随心所欲地控制系统行为。
+In the field of automation, the ControlNet plugin is like a control master, which can create fine-grained control strategies to control system behavior at will.
 
-在实际的应用中，我发现了ControlNet插件的几大优势：
+In practice, I have discovered several advantages of the ControlNet plug-in:
 
-它的稳定性简直逆天！ControlNet插件利用先进的稳定性理论来提升算法的稳定性，从而有效地降低了对计算资源的需求。
-它性能爆棚！通过优化的算法和并行计算，ControlNet插件可以轻松处理大规模的数据集，而且计算速度飞快！
-怎么样？是不是心动了？一起来体验这个强大的魔法世界吧！
+Its stability is simply unbelievable! ControlNet plug-in utilizes advanced stability theory to enhance the stability of the algorithm, thus effectively reducing the demand for computing resources.
+It is bursting with performance! With optimized algorithms and parallel computing, the ControlNet plug-in can easily handle large-scale datasets with blazing fast computation speeds!
+How about it? Isn't it tantalizing? Come together to experience this powerful magic world!
 
 
 

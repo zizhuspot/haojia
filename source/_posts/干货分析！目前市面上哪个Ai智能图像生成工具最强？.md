@@ -44,9 +44,9 @@ The table below provides a comprehensive comparison of the leading Ai Smart Imag
 
 ![](https://s2.loli.net/2023/08/05/nwkmDWMVEgGhvi5.png)
 
-| Ai Smart Image Generator | If you want to... | Ai
+| Ai Smart Image Generator | If you want to... | Ai |
 | --------- | -- |
-| **Bing Image Creator** | Best AI Art Generator. If you have access to Bing Chat, you can fulfill all your art generation needs while chatting with a bot and getting all your questions answered. The art generator is reliable, fast and easy to use. |The art generator is reliable, fast and easy to use.
+| **Bing Image Creator** | Best AI Art Generator. If you have access to Bing Chat, you can fulfill all your art generation needs while chatting with a bot and getting all your questions answered. The art generator is reliable, fast and easy to use. |The art generator is reliable, fast and easy to use. |
 | **DALL-E 2 by OpenAI** | The best AI art generator that combines accuracy, speed and cost-effectiveness. It allows users to generate high quality images quickly and easily and is the ideal tool for artists, designers and anyone who wants to create unique and original content.  |It is the ideal tool for artists, designers and anyone who wants to create unique and original content.
 | **DreamStudio by Stability AI** | The best customizable AI art generator, including tools in the UI that make it easy to get the exact version you need. Fields include Size, Style, Negative Tips, Image Tips and more.  |
 | **Dream by WOMBO** | The best AI art generator for cell phones with multiple templates, realistic reproductions and a mobile app. It also has a free limited access version, perfect for those who don't want to spend too much money.  |Craiyon

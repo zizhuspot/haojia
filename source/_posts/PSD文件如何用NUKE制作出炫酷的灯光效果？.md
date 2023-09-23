@@ -1,63 +1,63 @@
 ---
-title: PSD文件如何用NUKE制作出炫酷的灯光效果？
+title: How to make cool lighting effects with NUKE in PSD files?
 date: 2023-07-25 17:39:22
 categories:
-  -  特效教程
-tags:
-  -  NUKE
-  -  灯光环境
-  -  搭建灯光
-  -  特效师
-  -  特效制作
-description: PSD文件使用NUKE制作出逼真的灯光效果，大大提高工作效率
+  - Special Effects Tutorial
+tags: 
+  - NUKE
+  - Lighting environment
+  - Lighting setup
+  - Special Effects Artist
+  - special effects production
+description: PSD file for creating realistic lighting effects with NUKE.
 cover: https://s2.loli.net/2023/07/26/qWuQtOEC73rUJ1e.png
 ---
 
-NUKE的魔法世界不仅仅是导入模型，它还能够识别各种文件格式，例如abc、fbx、obj等，让我们可以轻松地将设计带入到三维空间中。但设想一下，如果没有这些预设模型，我们是否还能够继续这场视觉盛宴呢？答案是肯定的！让我们揭开这个美妙的秘密：NUKE如何仅凭美术提供的psd图，就实现三维灯光模拟效果？这简直就像是在无中生有中寻找无穷无尽的可能！
+The magical world of NUKE goes beyond just importing models; it recognizes a variety of file formats such as abc, fbx, obj, etc., allowing us to easily bring our designs into 3D space. But imagine if we could continue this visual feast without these preset models? The answer is yes! Let's reveal this wonderful secret: how does NUKE achieve 3D lighting simulation effects with only psd drawings provided by the art? It's like looking for endless possibilities out of nothing!
 
-## 1.搭建环境
+## 1. Build the environment
 
 **STEP 1**
 
-搭建nuke三维空间基础节点“Camera、Scene、ScanlineRender”
+Build the nuke 3D space base node "Camera, Scene, ScanlineRender".
 
 ![](https://s2.loli.net/2023/07/26/qWuQtOEC73rUJ1e.png)
 
 **STEP 2**
 
-新建球体模型“Sphere”将psd贴入球体上，中间再增加Project3D，链接到场景；为了方便后续灯光调整，需要在球体模型下方增加“TransformGeo”，调整球体空间位置，使得推远一点。
+Create a new sphere model "Sphere", paste the psd into the sphere, and add Project3D in the middle to link to the scene; in order to facilitate the subsequent adjustment of lighting, you need to add "TransformGeo" below the sphere model, and adjust the spatial position of the sphere to make it push and pull the sphere. Adjust the spatial position of the sphere to push it farther away.
 
-![](https://s2.loli.net/2023/07/26/duoOfXEqlW6iTDL.png)
+[]()[](https://s2.loli.net/2023/07/26/duoOfXEqlW6iTDL.png)
 
 ![](https://s2.loli.net/2023/07/26/buMDwp6jXZ73YSO.png)
 
-效果如图，这样出来的图与原本psd的图就一致了，可以进行第二步增加灯光动画
+The effect is as shown in the picture, so that out of the figure and the original psd figure is consistent, you can carry out the second step to increase the lighting animation
 
-![](https://s2.loli.net/2023/07/26/ZVYo1aUABc2OMTq.png)
+You can do the second step to increase the lighting animation! [](https://s2.loli.net/2023/07/26/ZVYo1aUABc2OMTq.png)
 
-## 2.增加灯光动画
+## 2. Increase lighting animation
 
 **STEP 1**
 
-把灯光“Light”添加到“scene”场景中；如图：
+Add the light "Light" to the "scene" scene; as shown:
 
 ![](https://s2.loli.net/2023/07/26/CTHVB4gDRU1EiLc.png)
 
-![](https://s2.loli.net/2023/07/26/p1Gn89UtmqLOV6u.png)
+Add the light "Light" to the "scene", as shown in the following picture: ! [](https://s2.loli.net/2023/07/26/p1Gn89UtmqLOV6u.png)
 
 **STEP 2**
 
-调整灯光动画，调整到自己觉得合适的位置；这里做了两个灯，分别为主灯、副灯；然后根据画面要求设定主次。
+Adjust the lighting animation to the position you feel is appropriate; two lights are made here, the main light and the secondary light; then set the primary and secondary according to the requirements of the screen.
 ![](https://s2.loli.net/2023/07/26/yRSjNmuqrpLEsQB.png)
 
 ![](https://s2.loli.net/2023/07/26/bKcreYowjq93OdS.png)
 
 
-## 3. 最后的补充工作
+## 3. Final additions
 
 **STEP 1**
 
-赋予模型红绿蓝三通道，使用“HueShift”节点中的“hue rotation”调节红绿蓝通道变化。如图：
+Give the model red, green and blue channels, use the "hue rotation" in the "HueShift" node to adjust the red, green and blue channel changes. As shown in the figure:
 
 ![](https://s2.loli.net/2023/07/26/fRlNoQbuE268qZO.png)
 
@@ -65,77 +65,77 @@ NUKE的魔法世界不仅仅是导入模型，它还能够识别各种文件格�
 
 **STEP 2**
 
-优化通道；调整“Grade”、“keyer”、“blur”，使得“Alpha通道”达到需求效果；
+Optimize the channel; adjust "Grade", "keyer" and "blur" to make the "Alpha channel" reach the desired effect. " to achieve the desired effect;
 
 ![](https://s2.loli.net/2023/07/26/Po3CEKNUJXxg7yq.png)
 
 **STEP 3**
 
-调色，使用“grade”节点提亮；
+Tone the color, use the "grade" node to highlight;
 
 ![](https://s2.loli.net/2023/07/26/5ZDjO7cWbFuQ2n3.png)
 
-## **总结与拓展资料**：
+## **Summary and extended information**:
 
-这次我们将用NUKE来制作一场视觉盛宴，那炫酷的灯光效果绝非等闲之辈。它的奥秘何在呢？那就是要巧妙地调节颜色通道。这是一项需要你熟练掌握技能，而且需要你在日常工作实践中不断总结经验。记住，只有不断磨砺自己的基本功，才能在这个充满奇幻的特效师职业中脱颖而出，走得更快，走得更远。
+This time we will use NUKE to create a visual feast, that cool lighting effect is by no means idle. What is the secret of it? That is to skillfully adjust the color channel. This is a skill that you need to master, and you need to summarize your experience in daily work practice. Remember, only by constantly sharpening your basic skills can you stand out, go faster, and go farther in this fantastical career as a special effects artist.
 
-- *NUKE的优势*
+- **The NUKE Advantage**
 
-NUKE的神秘技术和独特特技在影视界横扫千军，成为无数节目的得力助手。从核综合训练的视角，它的视觉魔法主要展现在以下几面：
+NUKE's mysterious technology and unique stunts have swept through the film and television world, becoming the right-hand man for countless programs. From the perspective of nuclear synthesis training, its visual magic is mainly displayed in the following aspects:
 
-一，面对复杂的合成图像挑战，关键在于搭配合适的工具并掌握其特性。否则，可能得费力地剪裁剪辑以获取理想效果，而这种尝试往往暗藏破坏生产流程和信誉的风险。
+One, the key to facing the challenge of complex synthesized images lies in matching the right tools and mastering their characteristics. Otherwise, one may have to painstakingly cut clips to get the desired effect, and such attempts often carry the implicit risk of damaging the production process and credibility.
 
-二，NUKE的强大工具包配备了一系列功能强大的类似NUKE的工具，它们能应对各种工作挑战，包括震撼的视觉效果和合成系统。这是整个工作中的一大挑战：为各个场景扩展并合成到特定场景中。
+Second, NUKE's powerful toolkit comes with a range of powerful NUKE-like tools that can handle a variety of work challenges, including stunning visual effects and compositing systems. This was one of the major challenges of the entire job: expanding and compositing for individual scenes into specific scenes.
 
-三，NUKE的版本控制功能让电影合成工作变得轻而易举。NUKE作为一种功能强大的合成器，可以轻松驾驭大量处理任务，而核能的魔力在于它能在多个处理器上疾速运行。
+Third, NUKE's version control makes movie compositing a breeze, and NUKE is a powerful compositor that can handle a lot of processing with ease, while the magic of nuclear energy lies in its ability to run on multiple processors at breakneck speeds.
 
-贴心小提示：在CG和真实拍摄的结合中，一个在三维软件中渲染的小元素可以分层多达几十层，一个镜头甚至可能包含几百层甚至几百层。在AE中处理这种复杂的合成并不那么方便。而NUKE的运作流程图则非常清晰明了，让你在创作过程中一目了然。
+*Thoughtful tip*: In the combination of CG and real shooting, a small element rendered in 3D software can be layered with as many as dozens of layers, and a single shot may even contain hundreds or even hundreds of layers. It is not so convenient to deal with this kind of complex compositing in AE. NUKE's operational flowchart, on the other hand, is very clear and concise, allowing you to see at a glance what's going on in the creative process.
 
-- *NUKE与AE的对比*
+- **NUKE vs. AE**.
 
-让我们一起来深度探索一下After Effects（AE）和Nuke的奥秘：
+Let's explore the mysteries of After Effects (AE) and Nuke in depth:
 
-首先，AE和Nuke在操作方式上有着显著的区别。AE是基于“图层”的操作，就像Photoshop一样，用户可以方便地通过图层叠加的方式进行视觉效果的制作。然而，Nuke采用的是节点式的操作方式，这与传统软件有所区别，仿佛每个节点都是一个小型的传送带，负责传递和改变功能属性。
+First of all, there is a significant difference between AE and Nuke in the way they operate: *AE is based on "layers"*, just like Photoshop, where users can easily create visual effects by stacking layers on top of each other. Nuke, on the other hand, uses a node-based approach, which differs from traditional software in that each node is a small conveyor belt that passes and changes functional attributes.
 
-再来看这两款软件的定位。Nuke将自己定位在高端影视制作领域，它的专业性和复杂性使得它成为特效制作人员的首选。而AE的定位则相对复杂一些，它可以在低端、中端和高端各个领域都有所应用，但遇到复杂的文件处理任务时可能会让使用者感到有些吃力。
+Looking at the positioning of these two programs, Nuke positions itself in the high-end film and television production field, and its professionalism and complexity make it the first choice of special effects producers. AE, on the other hand, is a bit more complex. It can be used in low-end, mid-end and high-end areas, but it can be a bit overwhelming when it comes to complex file processing tasks.
 
-说到素材整合能力，AE表现出很强的包容性。它接纳并可以处理多种格式的素材，包括psd、ai、swf、gif、wav等等，仿佛在告诉世界：“来，无论什么格式，我都能搞定！”相比之下，Nuke在格式支持上略显“挑食”，目前仅支持图片序列和mov的格式。但别小看它的这种专一，基于通道的合成软件Nuke，可是单镜头画面超高级vfx特效合成的专业户，最多可支持1023条通道信息的合成，这可是它的独门绝技。
+*When it comes to the ability to integrate materials*, AE shows great inclusiveness. It accepts and can handle a variety of formats, including psd, ai, swf, gif, wav, etc., as if telling the world: "Come on, no matter what format, I can handle it!" In contrast, Nuke in the format support is slightly "picky", currently only supports picture sequences and mov format. But don't underestimate it's this kind of specialization, channel-based synthesis software Nuke, but the single-shot picture of ultra-high-level vfx effects synthesis of professional households, up to 1023 channel information to support the synthesis, which is it's unique skills.
 
-AE的优点在于它强大的素材整合能力。不仅各种格式的素材都能当作素材文件使用，而且非常适合处理大小各异的多镜头整体合成。而Nuke的优点则在于处理三维vfx合成的能力更佳，而且处理视频的最高分辨率支持达到4k以上，这无疑使它成为影视制作中的一把利器。
+The advantage of AE lies in its powerful material integration ability. Not only can all formats of material be used as material files, but it is also very suitable for dealing with multi-camera compositing of different sizes. Nuke's advantage lies in the ability to deal with three-dimensional vfx compositing better, and the highest resolution of the video processing support to reach more than 4k, which undoubtedly makes it a sharp tool in film and television production.
 
-总的来说，AE和Nuke各有各的特点和优点，选择哪款软件，关键在于你的具体需求和工作流程。
+Overall, AE and Nuke have their own characteristics and advantages, which software to choose, the key lies in your specific needs and workflow.
 
-## *如何提高自己的NUKE水平？*
+## **How can I improve my NUKE? **
 
-让我们一起来揭开NUKE的神秘面纱，探索五个助力你成为NUKE大师的技巧：
+Let's take the mystery out of NUKE and explore five tips that will help you become a NUKE master:
 
-每天的秘密武器：没有什么比实践更能磨炼你的NUKE技能了。尝试将它纳入你的日常工作中，即使是几分钟的简单练习也会带来巨大的收获。让NUKE成为你每天的得力助手，熟悉它的每个角落和特性。
+Everyday Secret Weapon: There's no better way to hone your NUKE skills than practice. Try to incorporate it into your daily routine; even a few minutes of simple practice can pay huge dividends. Make NUKE your daily right-hand man and familiarize yourself with its every nook and cranny.
 
-网络上的知识宝藏：互联网上有很多NUKE的资源等待你发掘。从教程到论坛，再到社交媒体群组，你可以从中汲取营养，向他人学习。与其他NUKE大师的交流会让你开阔眼界，学习他们的经验和技巧。
+A treasure trove of knowledge on the Web: The Internet is full of NUKE resources waiting to be discovered. From tutorials to forums to social media groups, you can draw from them and learn from others. Networking with other NUKE gurus will open your eyes to their experiences and techniques.
 
-保持同步：NUKE就像一个不断成长的智慧树，定期会推出新功能和更新。保持对最新版本的关注，利用新推出的功能，让你的NUKE技能与时俱进。
+*Stay in sync: NUKE is like a growing tree of wisdom that regularly rolls out new features and updates. Stay on top of the latest releases and take advantage of newly introduced features to keep your NUKE skills up to date.*
 
-拥抱创新：不要害怕在NUKE中尝试新事物和不同的技术。你可能会发现一种全新的工作流程或技术，这会帮助你获得更好的效果。勇于尝试，让你的创作更加丰富多元。
+Embrace innovation: don't be afraid to try new things and different techniques in NUKE. You may discover a whole new workflow or technique that will help you get better results. Be open to experimentation to make your creations richer and more diverse.
 
-回馈的力量：分享你的作品并向他 人征求反馈。这不仅可以帮助你找出需要改进的地方，还可以获得如何在NUKE中实现更好效果的提示。让反馈成为你前进道路上的指引灯塔。
+The power of feedback: Share your work and ask for feedback. This will not only help you identify areas for improvement, but also give you tips on how to achieve better results in NUKE. Let feedback be a beacon of guidance along the way.
 
-掌握这些技巧，NUKE将成为你创作旅程中的得力伙伴，助你激发无限创意！
+With these tips in hand, NUKE will be a great partner in your creative journey, helping you to inspire unlimited creativity!
 
-## *如何提高自己的AE水平？*
+## **How to improve your AE? **
 
-提升你的Adobe After Effects（AE）技能，你可以从以下几个方面进行：
+To improve your Adobe After Effects (AE) skills, you can do the following:
 
-熟练掌握基础知识：要成功驾驭AE，首先你需要对它的基础操作了如指掌。从导入你的第一个视频片段，到理解和应用关键帧、遮罩、跟踪等核心功能，都是必不可少的步骤。同时，你也需要熟悉和掌握AE的界面，包括菜单、合成窗口、时间线、效果和预设面板等，让它们成为你的得力工具。
+Master the basics: To successfully navigate AE, you first need to know its basic operations like the back of your hand. From importing your first video clip to understanding and applying core features such as keyframing, masking, and tracking are essential steps. You also need to familiarize yourself with and master AE's interface, including the menus, compositing window, timeline, effects and presets panels, making them your handy tools.
 
-掌握高级技巧：一旦你对AE的基础操作驾轻就熟，就可以开始探索它的高级功能了。例如，利用3D图层制作立体效果，用摄像机跟踪实现真实世界的视角追踪，或是创建粒子特效带来视觉冲击力。这些都是AE的强大之处，通过学习和实践，你可以让自己的作品更上一层楼。
+Mastering advanced techniques: Once you are comfortable with the basics of AE, you can start exploring its advanced features. For example, *use 3D layers to create three-dimensional effects*, use camera tracking to achieve real-world perspective tracking, or create particle effects for visual impact. These are all powerful aspects of AE, and by learning and practicing, you can take your work to the next level.
 
-提升设计感和创意：AE是一个真正的创意和设计工具，因此，提升你的设计和创意能力也是提高水平的关键。学习色彩搭配、排版设计、动画原理等知识，可以让你对视觉美学有更深的理解。多看、多听、多想，可以让你的创意如泉涌，为你的作品注入更多生命力。
+*Enhance your design sense and creativity: AE is a truly creative and design tool, so enhancing your design and creative skills is also key to improving. Learning about color matching, typography, animation principles, etc. can give you a deeper understanding of visual aesthetics. Seeing, listening and thinking more can make your creativity spring forth and inject more life into your work.*
 
-勇于实践并探索新技巧：真正的技能提升，离不开大量的实践。尝试为不同的项目制作特效和动画，挑战自己的极限。同时，不要害怕尝试新的技巧和方法。看看别人的作品，学习他们的经验和技巧，都可以帮助你开阔视野，提高水平。
+Be willing to practice and explore new techniques: real skill enhancement cannot be achieved without a lot of practice. Try your hand at creating special effects and animations for different projects and push your limits. At the same time, don't be afraid to try new techniques and approaches. Looking at other people's work and learning from their experiences and techniques can all help you broaden your horizons and improve.
 
-持续学习和更新知识：由于Adobe After Effects是一个不断发展和更新的软件，因此保持学习的习惯和关注最新的功能和插件也是非常重要的。参加在线培训课程，阅读最新的教程书籍，关注AE的最新动态，都可以帮助你保持竞争力并持续提升自己的技能。
+Keep learning and updating your knowledge: Since Adobe After Effects is a constantly evolving and updating software, it's also important to keep up with your study habits and keep an eye on the latest features and plug-ins. Taking online training courses, reading the latest tutorial books, and keeping up with the latest developments in AE can help you stay competitive and continue to improve your skills.
 
-总的来说，提升Adobe After Effects水平需要的是持之以恒的学习和实践，以及对新知识的热爱和追求。只要你不停的探索和学习，你的AE技能一定能够达到新的高度！
+Overall, what it takes to improve Adobe After Effects is consistent learning and practice, as well as a love and pursuit of new knowledge. As long as you keep exploring and learning, your AE skills are sure to reach new heights!
 
 
 

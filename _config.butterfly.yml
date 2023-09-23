@@ -230,7 +230,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 视觉特效、Ai绘图、艺术设计
+    description: 编程技术，开发工具，技术分享
     button:
       enable: true
       icon: fab fa-github
@@ -238,7 +238,7 @@ aside:
       link: https://github.com/zizhuspot/www.touzi87.top
   card_announcement:
     enable: true
-    content: Ai创造永恒艺术
+    content: 技术改变世界
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

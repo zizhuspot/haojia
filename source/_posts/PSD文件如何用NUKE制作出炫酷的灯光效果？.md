@@ -2,7 +2,7 @@
 title: How to make cool lighting effects with NUKE in PSD files?
 date: 2023-07-25 17:39:22
 categories:
-  - Special Effects Tutorial
+  - Special Effects Tutorials
 tags: 
   - NUKE
   - Lighting environment

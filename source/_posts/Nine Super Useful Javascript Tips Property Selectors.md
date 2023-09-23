@@ -1,3 +1,22 @@
+---
+title:Nine Super Useful Javascript Tips Property Selectors
+date: 2023-08-05 08:14:48
+
+categories:
+
+  - javascript
+  
+tags:
+  - javascript
+  - code snippets
+  - program
+  - JavaScript tips
+  
+description: Nine Super Useful Javascript Tips Property Selectors,Make your programming skills more accessible.
+
+cover: https://s2.loli.net/2023/09/23/snhiB9vfQlMzSj6.png
+
+---
 ## Preface
 
 In the process of actual development work, I have accumulated some common and super useful Javascript tricks and code snippets, including other great compilation of JS tips.

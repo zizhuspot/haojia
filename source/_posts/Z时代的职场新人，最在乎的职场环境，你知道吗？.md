@@ -16,14 +16,14 @@ tags:
   
 description: How do newcomers to the workplace in Era Z adapt to the trends of the times, and what are their requirements for the work environment?
 
-cover: https://s2.loli.net/2023/08/20/tzMXnyC6bSxGYrm.png
+cover:https://s2.loli.net/2023/09/23/NzDM4Ck2rvPbUQc.jpg
 
 ---
 
 
-## zWhat is a newcomer to the workplace of our time?
+## z gen is a newcomer to the workplace of our time?
 
-![](https://s2.loli.net/2023/08/20/lrDZnMCw6zmRH85.png)
+![](https://s2.loli.net/2023/09/23/NzDM4Ck2rvPbUQc.jpg)
 
 In 2023, a new generation is about to enter the workplace, the Generation Z, born after 2000, who will take over from Baby Boomers and become the mainstay of corporate employees in the next 10-20 years. Growing up with tablets, smartphones and social media, this generation has a flamboyant personality, is extremely sensitive to change and is able to hold their own in a rapidly changing environment.
 

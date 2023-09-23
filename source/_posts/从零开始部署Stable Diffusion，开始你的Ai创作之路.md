@@ -1,92 +1,92 @@
 ---
-title: 从零开始部署Stable Diffusion，开始你的Ai创作之路
+title: Deploying Stable Diffusion from Scratch to Start Your Ai Authoring Journey
 date: 2023-05-21 08:20:32
 categories:
-  - Ai绘图
-tags:
+  - Ai Drawing
+tags: 
   - Stable Diffusion
-  - 创意艺术
-  - Ai绘图
-  - 安装Stable Diffusion
-  - Stable Diffusion模型
-  - Stable Diffusion实战
-  - Ai工具
-  - 艺术创作
-  - 人工智能
-  - 艺术设计
+  - Creative Art
+  - Ai Drawing
+  - Installation of Stable Diffusion
+  - Stable Diffusion Model
+  - Stable Diffusion in action
+  - Ai Tools
+  - Artistic Creation
+  - Artificial Intelligence
+  - Art & Design
   
-description: 从零开始教授你如何部署Stable Diffusion，开始你的绘画创作之路，后面附赠汉化教程。
+description: Teach you how to deploy Stable Diffusion from scratch, and start your way to create paintings, with Chinese tutorials in the back.
 
 cover: https://s2.loli.net/2023/07/27/cn157qIGZH9wEOm.png
 
 ---
 
-## 一、Step 1:部署Stable Diffusion之前
+## I. Step 1: Before deploying Stable Diffusion
 
-目前比较权威、可以在工作中使用的AI绘画软件只有两种。一种称为Midjourney（简称MJ），另一种称为[Stable Diffusion](https://stablediffusionweb.com/)（简称SD）。 MJ需要付费使用，而SD是开源免费的，但是入门难度和学习成本稍高，而且对于电脑配置（显卡、内存）来说非常昂贵。
+There are only two types of AI painting software that are authoritative and can be used at work. One is called Midjourney (MJ for short) and the other is called [Stable Diffusion](https://stablediffusionweb.com/) (SD for short). MJ requires payment for use, while SD is open source and free, but is slightly more difficult to get started and learn, and is very expensive for computer configurations (video card, RAM).
 
-SD和Midjourney相比，Stable Diffusion最大的优势是开源，这意味着Stable Diffusion潜力巨大，发展迅速。
+The biggest advantage of Stable Diffusion over SD and Midjourney is that it is open source, which means that Stable Diffusion has a lot of potential and is growing rapidly.
 
 ![](https://s2.loli.net/2023/07/27/cn157qIGZH9wEOm.png)
 
-由于开源、免费的属性，SD获得了大量的活跃用户，开发者社区为此提供了大量免费、高质量的外部预训练模型（[fine-tune](https://www.finetuneus.com/)）和插件目的，并不断维护和更新它们。在第三方插件和模型的支持下，SD比Midjourney拥有更丰富的个性化功能。经过用户调优后，可以生成更接近需求的图片。甚至在AI视频特效、AI音乐生成领域，Stable Diffusion也占据了一席之地。
+Due to its open-source and free attributes, SD has gained a large number of active users, for which the developer community provides a large number of free, high-quality external pre-trained models ([fine-tune](https://www.finetuneus.com/)) and plug-in purposes, and constantly maintains and updates them. With the support of third-party plugins and models, SD has richer personalization features than Midjourney. After user tuning, it can generate images that are closer to the needs. Even in the field of AI video effects and AI music generation, Stable Diffusion occupies a place.
 
-稳定扩散是一种潜在扩散模型，能够从文本描述生成详细图像。它还可以用于图像修复、图像绘画、文本到图像和图像到图像等任务。简单来说，我们只需要给出所需图像的文字描述并提及稳定扩散即可生成符合您要求的逼真图像！
+Stable Diffusion is a potential diffusion model that can generate detailed images from text descriptions. It can also be used for tasks like image restoration, image painting, text to image and image to image. In simple words, all we need to do is to give a textual description of the desired image and mention Stable Diffusion to generate a realistic image that meets your requirements!
 
-## 二、Step 2:电脑配置
+## Step 2: Computer Configuration
 
-电脑配置的核心要点：看显卡、看内存、看硬盘、看CPU。最重要的之一就是看显卡。 [Nvida英伟达](https://zh.wikipedia.org/zh-hans/%E8%8B%B1%E4%BC%9F%E8%BE%BE)独立显卡为首选，效率远高于集成显卡/AMD/Intel显卡和CPU渲染，最低10系列起步，体验更好用40系列，最低显存4G，6G合格，没有上限；内存最小8G，16G及格，无上限；硬盘可用空间最好有500G以上，固态最好。
+The core points of the computer configuration: look at the graphics card, look at the memory, look at the hard disk, look at the CPU. one of the most important is to look at the graphics card. [Nvida Nvidia](https://zh.wikipedia.org/zh-hans/%E8%8B%B1%E4%BC%9F%E8%BE%BE) independent graphics card is preferred, the efficiency is much higher than the integrated graphics card / AMD / Intel graphics card and CPU rendering, a minimum of 10 series to start, the experience is better with the 40 series, the lowest Video memory 4G, 6G qualified, no upper limit; memory minimum 8G, 16G pass, no upper limit; hard disk available space is best to have more than 500G, solid state is best.
 
-系统要求：支持Win10/Win11/macOS（仅限Apple Silicon，Intel版Mac无法调用Radeon显卡）和Linux系统，Apple版SD兼容插件较少，功能不如Windows和Linux电脑。
+System requirements: support for Win10/Win11/macOS (Apple Silicon only, Intel version of the Mac can not call the Radeon graphics card) and Linux systems, Apple version of the SD-compatible plug-ins are fewer, the function is not as good as Windows and Linux computers.
 
 ![](https://s2.loli.net/2023/07/27/wprb4uiGfMKENZL.jpg)
 
-从图中可以看出，Nvidia 的 GPU 提供了比 AMD 或英特尔的任何产品都优越的性能，有时甚至有很大优势。在 Torch 的 DLL 修复到位后，使用 xformers 时 RTX 4090 的性能比 RTX 3090 Ti 高 50%，不使用 xformers 时高 43%。生成每张图像只需要三秒多一点的时间。
+As you can see from the graph, Nvidia's GPUs offer superior performance to anything AMD or Intel has to offer, sometimes by a wide margin. With Torch's DLL fix in place, the RTX 4090 outperforms the RTX 3090 Ti by 50 percent with xformers and 43 percent without. It takes a little over three seconds to generate each image.
 
-## 三、Step 3:安装方法
+## Step 3: Installation method
 
-SD开源地址：[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)
-目前应用广泛的Stable Diffusion Web UI是一个发布在开源程序分享网站[Github](https://github.com/)上的Python项目。它与通常的软件安装方法不同。它不是一个下载安装后就可以立即使用的软件。需要准备不同操作系统的执行环境和编译源代码。
+SD open source address: [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki )
+Currently widely used Stable Diffusion Web UI is a Python project released on the open source program sharing website [Github](https://github.com/). It differs from the usual method of installing software. It is not a software that can be used immediately after downloading and installing. It requires preparation of execution environments for different operating systems and compilation of source code.
 
-## 四、Step 4:启动Stable Diffusion
+## Step 4: Starting Stable Diffusion
 
-![](https://s2.loli.net/2023/07/27/dBG8qZtTrIFEHVx.jpg)
+! [](https://s2.loli.net/2023/07/27/dBG8qZtTrIFEHVx.jpg)
 
-进入SD安装文件夹，双击**webui-user.bat**，加载后使用浏览器Chrome登录默认加载IP：*http://127.0.0.1:7860/*
+Enter the SD installation folder, double click **webui-user.bat**, load it and use Chrome to log in with the default loaded IP:*http://127.0.0.1:7860/*.
 
-## 五、Step 5:汉化Stable Diffusion
+## V. Step 5: Chinese Stable Diffusion
 
-如果需要中文语言包，可以下载如下中文语言包扩展，下载界面网址为： [https://github.com/VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)
+If you need Chinese language pack, you can download the following Chinese language pack extension, the download interface URL: [https://github.com/VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/) stable-diffusion-webui-chinese)
 
-***方法 ：通过 WebUI 拓展进行安装***
+***Method: Installation via WebUI extension*** 1.
 
-1.	打开 stable diffusion webui，进入"**Extensions**"选项卡
+1. Open stable diffusion webui and go to "**Extensions**" tab. 2.
 
-2.	点击"**Install from URL**"，注意"URL for extension's git repository"下方的输入框
+2. Click "**Install from URL**" and note the input box under "URL for extension's git repository". 3.
 
-3.	粘贴或输入本 Git 仓库地址 [https://github.com/VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)
+3. Paste or type in the address of this Git repository [https://github.com/VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui -chinese)
 
-4.	点击下方的黄色按钮"**Install**"即可完成安装，然后重启 WebUI(点击"Install from URL"左方的"**Installed**"，然后点击黄色按钮"Apply and restart UI"网页下方的"**Reload UI**"完成重启)
+4. Click the yellow button below "**Install**" to complete the installation, and then restart the WebUI (click "**Installed**" on the left of "Install from URL", and then click "**Reload UI**" at the bottom of the page with the yellow button "Apply and restart UI" to complete the reboot).
 
-5.	点击"**Settings**"，左侧点击"**User interface**"界面，在界面里最下方的"Localization (requires restart)"，选择"**Chinese-All**"或者"**Chinese-English**"
+5. Click "**Settings**", left side click "**User interface**" interface, in the interface of the bottom of the "Localization (requires restart)", select "**Chinese-All**" or "**Chinese-English**".
 
-6.	点击界面最上方的黄色按钮"**Apply settings**"，再点击右侧的"**Reload UI**"即可完成汉化
+6. Click the yellow button "**Apply settings**" at the top of the interface, and then click "**Reload UI**" on the right side to complete the localization.
 
-## 关于我使用stable diffusion的感受是什么？
+## What are my feelings about using stable diffusion?
 
-Stable Diffusion是一种特殊的扩散模型，在多个领域都有广泛的应用，包括计算机图形学、统计学、经济学等。以下是我个人在使用Stable Diffusion模型时的一些感想和体验：
+Stable Diffusion is a special kind of diffusion model that has a wide range of applications in several fields, including computer graphics, statistics, economics, and so on. Here are some of my personal thoughts and experiences in using Stable Diffusion model:
 
-理解与实现：首先，理解Stable Diffusion模型需要一定的数学和物理基础。该模型基于Fokker-Planck方程，涉及到概率论、微分方程等相关知识。因此，对相关背景有一定了解会更有帮助。另外，实现该模型也需要编程能力，这需要对相关编程语言和库有一定的了解。
+UNDERSTANDING AND IMPLEMENTATION: First of all, understanding the Stable Diffusion model requires some mathematical and physical foundation. The model is based on the Fokker-Planck equation, which involves probability theory, differential equations and other related knowledge. Therefore, it is more helpful to have some understanding of the related background. In addition, the implementation of the model also requires programming skills, which requires some knowledge of relevant programming languages and libraries.
 
-用途广泛：Stable Diffusion模型在多个领域都有应用。例如，在计算机图形学中，可以用该模型模拟物质的扩散过程；在经济学中，可以用该模型模拟股票价格的波动等。这表明该模型具有广泛的应用前景。
+Versatile: The Stable Diffusion model has applications in several fields. For example, in computer graphics, the model can be used to simulate the diffusion process of substances; in economics, the model can be used to simulate the fluctuation of stock prices and so on. This shows that the model has a wide range of application prospects.
 
-稳定性分析：Stable Diffusion这个名称中的“稳定”指的是其概率分布是稳定的，即对于任意的实数a和b，都有aX+bY是X的稳定分布。其中Y是X的独立复制品。这意味着对稳定扩散过程取任意数量的独立复制品，其分布仍然保持稳定。这种稳定的性质使得Stable Diffusion在处理大量数据时更加可靠。
+Stability analysis: Stable Diffusion in this name means that its probability distribution is stable, that is, for any real numbers a and b, there is aX + bY is a stable distribution of X. Y is an independent copy of X, where Y is a stable distribution. where Y is an independent copy of X. This means that take any number of independent replicas of the stable diffusion process and the distribution remains stable. This stabilizing property makes Stable Diffusion more reliable when dealing with large amounts of data.
 
-细节处理：在使用Stable Diffusion模型时，需要注意一些细节。例如，模型的初始条件、边界条件、时间步长、数值求解方法等都会影响到模拟的结果。因此，需要仔细设定这些参数，以保证模拟结果的准确性。
+Handling of details: When using the Stable Diffusion model, some details need to be taken care of. For example, the initial conditions of the model, boundary conditions, time step, numerical solution method, etc. will affect the simulation results. Therefore, these parameters need to be set carefully to ensure the accuracy of the simulation results.
 
-局限性：虽然Stable Diffusion模型在很多情况下都能够取得较好的效果，但也存在一些局限性。例如，该模型假设扩散过程是稳定的，但在某些情况下，这个假设可能不成立。此外，该模型的求解方法通常需要大量的计算资源，对于大规模问题可能会面临计算效率的挑战。
+Limitations: although the Stable Diffusion model is able to achieve better results in many cases, there are some limitations. For example, the model assumes that the diffusion process is stable, but in some cases this assumption may not hold. In addition, the solution method of the model usually requires a large amount of computational resources, and may face the challenge of computational efficiency for large-scale problems.
 
-未来发展：随着科学技术的发展，Stable Diffusion模型在未来可能会得到进一步的发展和改进。例如，可以开发更高效的数值求解方法，或者将该模型与其他模型进行结合，以适应更多复杂的情况。
+FUTURE DEVELOPMENT: With the development of science and technology, the Stable Diffusion model may be further developed and improved in the future. For example, more efficient numerical solution methods can be developed, or the model can be combined with other models to adapt to more complex situations.
 
-总之，Stable Diffusion模型是一种非常重要的数学工具，在理解和实现过程中需要一定的数学和物理基础，但在多个领域都有广泛的应用前景。未来随着科学技术的发展，相信Stable Diffusion模型会得到更广泛的应用和发展。
+In conclusion, the Stable Diffusion model is a very important mathematical tool that requires certain mathematical and physical foundations in its understanding and implementation, but has a wide range of applications in several fields. In the future, with the development of science and technology, it is believed that the Stable Diffusion model will be more widely used and developed.
 

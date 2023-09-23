@@ -1,5 +1,5 @@
 ---
-title : Nine Super Useful Javascript Tips Property Selectors
+title: Nine Super Useful Javascript Tips Property Selectors
 date: 2023-08-05 08:14:48
 
 categories:

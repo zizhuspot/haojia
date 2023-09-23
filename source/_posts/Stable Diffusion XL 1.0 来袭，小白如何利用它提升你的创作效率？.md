@@ -1,7 +1,7 @@
 ---
 title: Stable Diffusion XL 1.0 is coming, how to use it to improve your creative efficiency?
 date: 2023-08-13 17:05:29
-categories：
+categories :
   - Ai Drawing
 tags: 
   - Ai drawing

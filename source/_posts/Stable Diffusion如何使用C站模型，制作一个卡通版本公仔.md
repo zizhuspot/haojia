@@ -1,104 +1,104 @@
 ---
-title: Stable Diffusion如何使用C站模型，制作一个卡通版本公仔
+title: Stable Diffusion How to make a cartoon version of a doll using C models
 date: 2023-07-27 18:24:49
 categories:
-  - Ai绘图
+  - Ai Drawing
 tags:
   - Stable Diffusion
-  - Ai绘图
-  - 创意艺术
-  - 艺术创意
-  - Ai工具
+  - Ai Drawing
+  - Creative Art
+  - Creative Art
+  - Ai Tools
   
-description: 这篇文章将带您领略如何使用Stable Diffusion来下载C站的模型，并通过实际创作一个可爱的卡通公仔来将AIGC的整个创作流程具体化。
+description: This article will show you how to use Stable Diffusion to download a model of Station C and materialize the whole process of AIGC creation by actually creating a cute cartoon doll.
 cover: https://s2.loli.net/2023/07/27/rezFAto3pB7VPCm.jpg
 
 ---
 
-## Step 1: 模型下载与装载
+## Step 1: Model Download and Loading
 
-**条件**：Stable Diffusion在本地已经部署成功。
+**Conditions**: Stable Diffusion has been successfully deployed locally.
 
-**所需模型**：Checkpoint 模型（ReV Animated），Lora 模型（Blindbox）
+**Required Models**: Checkpoint model (ReV Animated), Lora model (Blindbox)
 
-- 下载 LoRA 模型： [https://civitai.com/models/25995/blindbox?modelVersionId=32988](https://civitai.com/models/25995/blindbox?modelVersionId=32988)（存放至本地 Lora 模型文件夹 /stable-diffusion-webui/models/Lora）
+- Download the LoRA model: [https://civitai.com/models/25995/blindbox?modelVersionId=32988](https://civitai.com/models/25995/blindbox? modelVersionId=32988) (to local Lora model folder /stable-diffusion-webui/models/Lora)
 
-- 下载 Checkpoint 模型： [https://civitai.com/models/7371?modelVersionId=46846](https://civitai.com/models/7371?modelVersionId=46846)（放至本地 Checkpoint 模型文件夹 /stable-diffusion-webui/models/Stable-diffusion）
+- Download Checkpoint model: [https://civitai.com/models/7371?modelVersionId=46846](https://civitai.com/models/7371?modelVersionId=46846) (local) Checkpoint model folder /stable-diffusion-webui/models/Stable-diffusion)
 
-## Step 2:设置参数与提示词
+## Step 2: Setting Parameters and Prompt Words
 
-除了手动输入提示词，设置参数外，还有一个比较简便的方式：直接从 CivitiAI 作品图中一键复制参数至 WebUI 中，再进行调整。
+Besides manually inputting prompt words and setting parameters, there is an easier way: directly copy parameters from CivitiAI artwork to WebUI with one click, and then adjust them.
 
 ![](https://s2.loli.net/2023/07/27/py2MabrNl37KRSV.jpg)
 
 ![](https://s2.loli.net/2023/07/27/WXaoYDLrkqfedNO.jpg)
 
-***提示词与参数设置：***
+***Prompts and Parameter Settings:***
 
-**Pompt**：(masterpiece), (best quality), (ultra-detailed), (full body:1.2), (simple background, white background:1.3), chibi, simple body, melting heart, purple leaves, purple hat, vivid color
+**Pompt** : (masterpiece), (best quality), (ultra-detailed), (full body:1.2), (simple background, white background:1.3), chibi, simple body, melting heart, purple leaves, purple hat, vivid color
 
-**Negative Prompt**：(worst quality, low quality:1.4), lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+**Negative Prompt**: (worst quality, low quality:1.4), lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality:1.2), (simple background, white background:1.3), chibi, simple body, melting heart, purple leaves, purple hat, vivid color cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
 
-*Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7.5, Size: 512x768*
+*Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7.5, Size: 512x768*, Size: 512x768*, Sampler: DPM++ SDE Karras, CFG scale: 7.5, Size: 512x768
 
-## Step 3: 设置ControlNet，定制公仔专属形象
+## Step 3: Setting up ControlNet to customize the bobblehead's image
 
-在这个实例中，我们要把一个平面卡通形象制作成一个 3D 公仔形象，因此需要通过[ControlNet](https://stablediffusionweb.com/ControlNet)的 lineart 和 depth 模型，构建公仔轮廓，再叠加盲盒模型定制出专属公仔形象。
+In this example, we want to make a 3D bobble head doll from a flat cartoon, so we need to use the lineart and depth model of [ControlNet](https://stablediffusionweb.com/ControlNet) to build the bobble head's outline, and then overlay the blind box model to customize the bobble head doll. image.
 
-![](https://s2.loli.net/2023/07/27/rezFAto3pB7VPCm.jpg)
+The model is then superimposed on the blind box model to customize the figurine. [](https://s2.loli.net/2023/07/27/rezFAto3pB7VPCm.jpg)
 
-## 总结：
+## Summary:
 
-通过亲手制作一个可爱的卡通公仔，相信大家已经对如何使用模型有了一个直观的了解。只有亲自动手尝试，才能真正掌握整个工作流程是如何实现的。希望大家都能从中学习到更多有关AI艺术创作的知识！
+By making a cute cartoon doll with your own hands, I believe you have gained an intuitive understanding of how to work with models. Only by trying your hand can you really grasp how the whole workflow is realized. I hope you all can learn more about AI art creation from this!
 
-下面来聊一聊AI绘图的一些应用领域吧！
-数据可视化：AI绘图能够轻松将大量数据以图表形式呈现出来，使得数据更加一目了然，便于理解。例如，我们可以使用AI绘图来生成折线图、柱状图、散点图等，帮助我们更好地了解数据的趋势、分布等信息。
+Let's talk about some of the application areas of AI drawing!
+Data visualization: AI drawing can easily present a large amount of data in the form of charts and graphs, making the data more visible and easy to understand. For example, we can use AI drawing to generate line graphs, bar charts, scatter plots, etc., to help us better understand the trend of the data, distribution and other information.
 
-AI绘图还能生成各种类型的图像，包括自然景观、人物肖像、艺术作品等。通过训练模型，AI可以学习和模仿各种绘画风格，从而生成极富艺术性的精美图像哦！
+AI mapping can also generate various types of images, including natural landscapes, portraits, artworks, and more. By training the model, AI can learn and mimic various painting styles, thus generating extremely artistic and beautiful images oh!
 
-此外，AI绘图在设计和创意领域也大放异彩。它可以用于绘制平面设计、插图、标志、海报等，根据用户的需求和输入参数，生成符合要求的设计图案，为你的创作事业添砖加瓦！
+In addition, AI drawing also shines in the design and creative fields. It can be used to draw graphic design, illustrations, logos, posters, etc. According to the user's needs and input parameters, it generates a design pattern that meets the requirements and adds to your creative endeavors!
 
-最后，AI绘图还是一款强大的辅助绘图工具。它可以帮助艺术家、设计师等快速生成草图、线稿等初步构思，从而提高创作效率。总之，AI绘图在许多领域都能发挥它的神奇作用，帮助人们更好地表达和展示信息，提高创作效率和创意水平！
+Finally, AI Drawing is also a powerful auxiliary drawing tool. It can help artists, designers, etc. to quickly generate sketches, line drawings and other preliminary ideas, thus improving creative efficiency. In short, AI drawing can work its magic in many fields, helping people to better express and present information, and improve creative efficiency and creativity!
 
-- *AI与设计可以合作吗？*
+## * Can AI and design work together? *
 
-没错，人工智能确实可以用于设计，而且它的应用已经遍布各个领域。想象一下，从徽标到网页布局，再到时尚设计，人工智能的潜力真是无穷无尽！它像一个不知疲倦的助手，自动执行重复性任务，帮助设计师轻松地分析数据，找出隐藏在其中的模式和洞察力。
+Yes, AI can indeed be used for design, and it's already being used in a variety of fields. Imagine everything from logos to web layouts to fashion design, the potential of AI is truly endless! It acts like a tireless assistant, automating repetitive tasks and helping designers easily analyze data to find hidden patterns and insights.
 
-不仅如此，人工智能还能为设计师带来全新的设计理念。例如，有了人工智能算法的帮助，设计师可以根据用户的行为数据，创造出更加直观、更具吸引力的用户界面。
+Not only that, but AI can also bring new design ideas to designers. For example, with the help of AI algorithms, designers can create more intuitive and attractive user interfaces based on user behavioral data.
 
-当然，人工智能并不是万能的。虽然它可以帮助设计师生成独特的设计，但它绝不能替代人类的创造力和直觉。不过，正如一把利器在能人之手才能发挥出威力，人工智能只有在设计师的巧妙运用下，才能展现出它的最大潜力。所以，让我们一起拥抱这个充满无限可能的新时代，让人工智能成为我们设计的得力助手吧！
+Of course, AI is not a panacea. While it can help designers generate unique designs, it can never replace human creativity and intuition. However, just as a sharp weapon can only be powerful in the hands of a capable person, AI can only show its maximum potential when skillfully utilized by designers. So, let's embrace this new era full of infinite possibilities and let AI become our right-hand man in design!
 
-- *现在主流的Ai设计工具都有哪些呢？*
+## * What are the mainstream Ai design tools now? *
 
-目前有几种主流的人工智能设计工具。下面是一些例子：
+There are several mainstream AI design tools available. Here are some examples:
 
-- Canva：在图形设计领域，Canva是一款广受欢迎的工具。它利用人工智能根据用户输入来推荐设计元素和布局，让你不再为设计烦恼。
+- Canva: Canva is a popular tool in the graphic design field. It utilizes artificial intelligence to recommend design elements and layouts based on user input, taking the hassle out of designing.
 
-- Adobe Sensei：Adobe Sensei是设计师的天堂！这个人工智能平台提供了许多神器，比如自动图像标记、内容感知填充和字体识别等，为你的设计工作带来无限可能。
+- Adobe Sensei: Adobe Sensei is a designer's paradise! This AI platform offers a number of wonders such as automatic image markup, content-aware fills, and font recognition that open up endless possibilities for your design work.
 
-- Sketch：Sketch是设计师的得力助手。它提供了各种插件，利用人工智能自动执行重复性任务，让你专注于创造美丽的布局和设计。
+- Sketch: Sketch is a designer's right-hand man. It offers a variety of plugins that utilize artificial intelligence to automate repetitive tasks, allowing you to focus on creating beautiful layouts and designs.
 
-- Figma：Figma是一款云端设计工具，它利用人工智能提供自动布局等功能，让你的设计工作变得更加轻松。无论何时何地，都能轻松创建出响应式设计。
+- Figma: Figma is a cloud-based design tool that utilizes artificial intelligence to provide automated layouts and other features to make your design work easier. Easily create responsive designs whenever and wherever you want.
 
-- Autodesk Dreamcatcher：Autodesk Dreamcatcher是一款神奇的生成式设计工具，它利用人工智能根据用户输入的标准来生成各种设计选项，让你探索无尽的设计可能性。
+- Autodesk Dreamcatcher: Autodesk Dreamcatcher is an amazing generative design tool that utilizes artificial intelligence to generate a variety of design options based on user-entered criteria, allowing you to explore endless design possibilities.
 
-以上只是冰山一角，人工智能在设计领域的运用正蓬勃发展。让我们一起期待更多创新工具和功能的问世，它们将为设计师的工作带来更多的效率和创意！
+The above is just the tip of the iceberg; the use of AI in design is booming. Let's look forward to more innovative tools and features that will bring more efficiency and creativity to designers' work!
 
-## 如何提高自己使用Stable diffusion的使用水平?
+## How can I improve my use of Stable diffusion?
 
-提升Stable Diffusion使用水平，你可以考虑以下几个步骤：
+There are several steps you can take to improve your use of Stable Diffusion:
 
-首先，了解Stable Diffusion的“内心世界”。在开始你的冒险之前，首先需要深入了解它的功能和使用方法。这就像是学习一项新的技能，你需要先了解它的基本原理和操作方法。例如，你需要知道如何调整模型的参数，如何使用正则化来防止过拟合，甚至如何通过扩容或剪枝模型来提高模型的精度和训练速度。
+First, get to know the "inner workings" of Stable Diffusion. Before you start your adventure, you need to have a deep understanding of what it does and how to use it. It's like learning a new skill, you need to understand the basics and how it works. For example, you need to know how to tune the parameters of the model, how to use regularization to prevent overfitting, and even how to improve the accuracy and training speed of the model by expanding or pruning it.
 
-其次，理解数据和模型的内在联系。当你开始使用Stable Diffusion时，你需要清楚地了解你正在研究的现象或问题，并将其转化为数学模型。这就像是科学家通过观察自然现象，提出并验证理论的过程。你需要设计出合适的模型，并进行优化以提高它的精度和泛化能力。
+Next, understand the intrinsic connection between the data and the model. When you start using Stable Diffusion, you need to have a clear understanding of the phenomenon or problem you are studying and translate it into a mathematical model. This is like the process by which scientists propose and validate theories by observing natural phenomena. You need to design a suitable model and optimize it to improve its accuracy and generalization.
 
-然后，放手去实践并勇敢探索。通过实践，你可以不断提高自己的使用水平。你可以尝试使用不同的模型和参数进行训练和预测，然后分析结果，了解不同参数和模型对结果的影响。你也可以探索Stable Diffusion的其他功能和应用，比如进行图生成等。在这个过程中，你可能会有新的发现和收获。
+Then, let go of practice and explore bravely. By practicing, you can keep improving your usage. You can try to use different models and parameters for training and prediction, and then analyze the results to understand how different parameters and models affect the results. You can also explore other features and applications of Stable Diffusion, such as performing graph generation. In the process, you may make new discoveries and gains.
 
-此外，不要忘记学习和深化相关知识。为了更深入地了解Stable Diffusion的原理和应用，你可以学习相关的知识和技术，例如深度学习、概率图模型等。这就像是拓展你的知识视野，了解更多的技术和科学原理，这将有助于你更好地理解和使用Stable Diffusion。
+In addition, don't forget to learn and deepen your knowledge. In order to understand the principles and applications of Stable Diffusion more deeply, you can learn related knowledge and techniques, such as deep learning, probabilistic graph models, and so on. This is like expanding your knowledge horizons to learn more about technical and scientific principles, which will help you better understand and use Stable Diffusion.
 
-最后，参与社区，分享经验并寻求帮助。你可以参与Stable Diffusion的社区活动，与其他使用者交流心得和体验，并从中获得帮助和支持。在这个过程中，你不仅可以分享你的经验，也可以从别人的经验中学习和成长。
+Finally, get involved in the community, share your experiences and ask for help. You can participate in Stable Diffusion's community to share your tips and experiences with other users and get help and support from them. In the process, you can not only share your experience, but also learn and grow from others' experience.
 
-总的来说，提高Stable Diffusion的使用水平需要不断的努力和学习。通过熟悉功能、理解数据和模型、实践和探索、学习相关知识和技术以及参与社区活动等方式，你将逐步提升你的使用水平并拓展你的应用领域。让我们一起在这个充满挑战和机遇的旅程中不断前行！
+Overall, improving your use of Stable Diffusion requires continuous effort and learning. By familiarizing yourself with the features, understanding the data and models, practicing and exploring, learning related knowledge and techniques, and participating in community activities, you will gradually improve your usage and expand your application areas. Let's move forward together on this journey full of challenges and opportunities!
 
 
 

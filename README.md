@@ -1,6 +1,6 @@
-# 家豪的博客
+# Jiahao's Blog
 
-> 欢迎来到家豪的博客！这是一个专注于编程技术、软件开发、的专业平台。在这里，您可以获得最新的编程技术和工具推荐，学习各种软件开发最佳实践，了解IT产业的最新发展趋势。此外，我们还提供一个程序员社区，让您能够结识同道中人，交流学习心得，提升技术水平和职业发展。
+> Welcome to Jiahao's blog! This is a professional platform focusing on programming technology and software development. Here you can get the latest programming techniques and tools recommendations, learn various software development best practices, and understand the latest trends in the IT industry. In addition, we also provide a programmer community that allows you to meet fellow programmers, exchange learning experiences, and enhance your technical skills and career development.
 
 ## 关于页面
 

@@ -2,7 +2,7 @@
 title: How to use Midjourney from scratch?
 date: 2023-06-21 15:32:14
 categories:
-  - Ai drawing
+  - Ai Drawing
 tags: 
   - AiDrawing
   - Creative Art

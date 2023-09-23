@@ -1,7 +1,8 @@
 ---
 title : AI era, how designers find their way out?
 date : 2023-07-25 18:05:37
-categories ：
+
+categories:
   - Designer Tools
 tags: 
   - AI Era

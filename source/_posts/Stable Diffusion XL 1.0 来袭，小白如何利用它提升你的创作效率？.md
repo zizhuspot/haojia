@@ -1,212 +1,212 @@
 ---
-title: Stable Diffusion XL 1.0 来袭，小白如何利用它提升你的创作效率？
+title: Stable Diffusion XL 1.0 is coming, how to use it to improve your creative efficiency?
 date: 2023-08-13 17:05:29
-categories:
-  -  Ai绘图
-tags:
-  -  Ai绘图
-  -  Stable Diffusion xl
-  -  人工智能
-  -  Ai
-  -  创意绘图
-  -  设计师工具
+categories：
+  - Ai Drawing
+tags: 
+  - Ai drawing
+  - Stable Diffusion xl
+  - Artificial Intelligence
+  - Ai
+  - Creative Drawing
+  - Designer Tools
   
-description: 让我给大家介绍一款神秘的免费AI图片生成工具网站！每天300次的生成次数限制，虽然听上去不是很多，但其实已经足够满足你日常工作的各种需求。这个网站可是那些创意高手们必备的生产力神器！赶紧去试试吧！
+description: Let me introduce you to a mysterious free AI image generation tool website! With a daily limit of 300, it may not sound like much, but it's actually enough to fulfill your daily needs. This site is a must-have productivity tool for those creative masters! Hurry up to try it!
 
 cover: https://s2.loli.net/2023/08/13/UPNYsk7ptnMV2GO.png
 
 ---
 
-## 1.如何快速上手Stable Diffusion xl?
+## 1. How to get started with Stable Diffusion xl quickly?
 
-这个神秘工具网站每天免费提供300次救命机会，无论你是初出茅庐的AI设计小菜鸟还是久经沙场的AI设计大拿，这绝对能满足你的需求。那么接下来，我将全面展示如何使用这个神奇的网站，让你的创作效率轻松突破天际线。
+This mysterious tool website offers 300 life-saving opportunities for free every day, whether you are a fledgling AI design rookie or a battle-tested AI design master, this will definitely fulfill your needs. So next, I'm going to fully demonstrate how you can use this amazing website to easily break the skyline of your creative productivity.
 
-你可能会说，这玩意儿听起来不错，但是会不会很难操作呢？放心，这个网站的易用程度简直像在UFO上玩纸牌！你无需懂得如何安装Stable Diffusion xl，无需理解那些神秘的咒语和关键词搭配（比如“最高画质”、“杰作”、“大师作品”、“4k”、“超高分辨率”等等等等），只要轻点鼠标，你就能轻松生成并下载高质量图片。这简直就是菜鸟福音！怎么样，是不是很想立刻尝试一下呢？
+You might say, this stuff sounds great, but will it be hard to use? Don't worry, this site is as easy to use as playing solitaire on a UFO! You don't need to know how to install Stable Diffusion xl, you don't need to understand all those mysterious incantations and keyword combinations (e.g., "highest quality", "masterpiece", "masterpiece", "masterpiece", "masterpiece", "masterpiece", "masterpiece", "masterpiece", "masterpiece", "masterpiece"). ", "4k", "ultra-high resolution", etc., etc.), you can easily generate and download high-quality images with just a click of the mouse. This is simply the gospel of the rookie! How about it, is not very want to try it immediately?
 
-网址直接戳进去：[https://js.design/ai-muses/create?source=uisdc&plan=wz16](https://js.design/ai-muses/create?source=uisdc&plan=wz16)
+URL direct poke in: [https://js.design/ai-muses/create?source=uisdc&plan=wz16](https://js.design/ai-muses/create?source=uisdc&plan=wz16)
 
-直接上公式：**主体元素 + 风格/绘画类型/艺术流派 = 生成图片**
+The formula: **Subject element + style/type of painting/art genre = generated image**.
 
-例如，下面将展示如何生成各类风格的Ai图片：
+For example, the following will show how to generate Ai images for various styles:
 
-**1. 步骤一：**
+**1. Step 1:**
 
-模式选择  **（通用智能 SD XL 1.0）**
+Mode Selection **(Universal Smart SD XL 1.0)**
 
-**2. 步骤二：**
+**2. Step 2: **.
 
-输入你想要生成的**主题元素**（例如一只狗）+**艺术风格**（例如梵高风格）
+Enter the **theme element** (e.g. a dog) + **art style** (e.g. Van Gogh) you want to generate.
 
-下面将详细展示具体生成的案例：
+The following will show the specific generated case in detail:
 
-- ***一只狗+[波普艺术](https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E6%99%AE%E8%97%9D%E8%A1%93)***
+- ***A Dog + [Pop Art](https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E6%99%AE%E8%97%9D%E8%A1%93)****
 
 ![](https://s2.loli.net/2023/08/13/EWg92pXmevOsyMJ.png)
 
-- ***两只狗+油画***
+- ***Two Dogs + Oil Painting***
 
 ![](https://s2.loli.net/2023/08/13/bVmo4pwGfdt2YOR.png)
 
-- ***两只狗+苏联风格海报***
+- ***Two Dogs+Soviet Style Poster***
 
 ![](https://s2.loli.net/2023/08/13/oO7UKhyfgkbSBmv.png)
 
-- ***三只狗+线条艺术***
+- ***Three Dogs + Line Art***
 
 ![](https://s2.loli.net/2023/08/13/kAQfGMZUsXHJjhR.png)
 
-- ***三只狗+复古插画***
+- ***Three Dogs + Vintage Illustrations***
 
 ![](https://s2.loli.net/2023/08/13/dDvHIZ2Jyp18XMk.png)
 
-- ***两只狗+贴纸***
+- ***Two Dogs + Stickers***
 
 ![](https://s2.loli.net/2023/08/13/zsDiAeCFGB5TP14.png)
 
-可以在描述语中加入任何你能想到的*风格、绘画类型、艺术流派 ，又或者你喜爱的艺术家的名字。*
+You can add any *style*, type of painting, school of art , aka your favorite artist's name to the descriptor. *
 
-如果你一时想不到自己要什么类型的作品，还可以 按快捷键 ***“ / ”*** 查看特性词 ，我们在这里放了 非常多可供参考、可一键添加的选项.
+If you can't think of something you want, you can also press the shortcut ***" / "*** to see the character words, where we've put a lot of options for reference and one-click additions.
 
 ![](https://s2.loli.net/2023/08/13/5eAImoG7TqWPKbl.png)
 
-但到这里，我们的方法只展示了一半，你可以选定同一主体元素，不断更换风格词，来解锁更多类型的作品 ；同样的也可以固定风格， 通过更换主体元素，来完成一系列作品的创作。
+But here, our method is only half of the show, you can select the same body elements, constantly changing the style words, to unlock more types of works; the same can also be fixed style, by changing the body elements, to complete a series of works of creation.
 
-以刚才生成的狗狗贴纸为例：
+Take the dog sticker we just generated as an example:
 
-1. 添加为***参考图***，设定参考图强度 ***[1]***
+1. add as *** reference map ***, set the intensity of the reference map *** [1]***
 
 ![](https://s2.loli.net/2023/08/13/W3YgmFk8cdpvCUh.png)
 
-2. 修改描述语：*四只老虎，贴纸*
+2. Modify the descriptor: * four tigers, stickers ***[1]*** !
 
 ![](https://s2.loli.net/2023/08/13/c8slGDtxqjdbSZr.png)
 
-类似的，你可以依照参考图的风格，生成如下图一样的十二生肖合集，看起来很不错吧？
+Similarly, you can follow the style of the reference image to generate a Chinese Zodiac collection like the one below, looks great, right?
 
 ![](https://s2.loli.net/2023/08/13/2fdS1lvhgaX9FnA.jpg)
 
-## 2.更进一步，挖掘Stable Diffusion xl 1.0的全部潜力！
+## 2. Take it a step further and explore the full potential of Stable Diffusion xl 1.0!
 
-上百款包括写实、CG、二次元、插画等类型的模型等你来挑选，的确好比一颗艺术的百宝箱，为你的AI创作之路提供了无尽便利。你只需挑选心仪的模型，便能轻松生成稳定的理想画面。
+Hundreds of models including realistic, CG, secondary, illustration and other types are waiting for you to pick, which is indeed like a treasure box of art, providing endless convenience for your AI creation path. You just need to pick the model of your choice, and then you can easily generate stable and ideal images.
 
-但当你渴望开拓一片独特的艺术领地，或者计划尝试多样化的创作风格时，“通用智能 SD XL 1.0”无疑会成为你的梦幻之选。
+However, when you are eager to open up a unique artistic territory, or plan to experiment with various creative styles, "Universal Intelligence SD XL 1.0" will undoubtedly become your dream choice.
 
-它具备化腐朽为神奇的力量，几乎可以生成任何艺术风格的高质量图像。而更重要的是，它并不会将既定的模型特性强加于你的作品，而是能够精准地呈现出你在描述词中勾勒的风格与类型。它赋予你无比的创作自由，让你的想象在艺术之海中翱翔。
+It has the power to create high-quality images in virtually any artistic style. What's more, it doesn't impose established modeling characteristics on your work, but rather accurately renders the style and type you outline in your descriptors. It gives you unparalleled creative freedom to let your imagination soar in the sea of art.
 
-- 描述词：*书法意境大师，3d，粉彩，玉石，山水，祥云，图形插画风格*
+- Descriptors: *Calligraphic mood master, 3d, pastel, jade, landscape, auspicious clouds, graphic illustration style* !
 
 ![](https://s2.loli.net/2023/08/13/Cecr6RyWUn2XF7q.png)
 
-- 描述词：*一个金发碧眼的艺术家女孩，穿着蓝色连衣裙，在太空中，用画笔、颜料和调色板绘制珊瑚星球。*
+- DESCRIPTION WORDS:* A blonde artist girl, wearing a blue dress, in space, drawing coral planets with brushes, paints and palettes. *
 
 ![](https://s2.loli.net/2023/08/13/IWqbZmM57EY9kpl.png)
 
-- 描述词：*贴纸，黑色背景，蜜蜂，花朵，花园*
+- DESCRIPTION WORDS: * stickers, black background, bees, flowers, garden * !
 
 ![](https://s2.loli.net/2023/08/13/G3Dc4IzAZV2OwKY.png)
 
-- 描述词：*柔和简约现代粉彩卧室内部，现代主义，温暖*
+- DESCRIPTION WORDS: * soft minimalist modern pastel bedroom interior, modernism, warmth* !
 
 ![](https://s2.loli.net/2023/08/13/tpdxj6Tm4rcKhQe.png)
 
-- 描述词：*cube cutout of an isometric living room, 3D 艺术、柔和的颜色、柔和的照明、高细节、Behance、概念艺术、光线追踪*
+- Descriptors: *cube cutout of an isometric living room, 3D art, pastel colors, soft lighting, high detail, Behance, concept art, raytracing*
 
 ![](https://s2.loli.net/2023/08/13/2yl9GnRcJMVkoQS.png)
 
-- 描述词：*一个人坐在书桌前，周围是书、咖啡杯和便签，在画面的顶部，有一个敞开的窗户，展示了美丽的自然景观，有树木、鸟类和晴朗的天空*
+- Descriptors:*a man sitting at a desk surrounded by books, coffee cups, and sticky notes, at the top of the image there is an open window showing a beautiful natural landscape with trees, birds, and a clear sky* !
 
 ![](https://s2.loli.net/2023/08/13/kzt6Qe2yP7sm4bd.png)
 
-- 描述词：*高山上的城堡，夜晚，海洋和雕像，像素艺术*
+- Descriptors:* Castle on a high mountain, night, ocean and statues, pixel art*
 
 ![](https://s2.loli.net/2023/08/13/9LJH7jr2lNhTwsd.png)
 
-- 描述词：*火山爆发，JoJo 的奇异冒险和 Yuko Shimizu 的风格，动画艺术，波普艺术装饰，日落，矢量设计，Erin Hanson，Skottie Young，Paul Cezanne*
+- Descriptors:* Volcanic eruption, JoJo's strange adventures and Yuko Shimizu's style, animated art, pop art decor, sunset, vector design, Erin Hanson, Skottie Young, Paul Cezanne* !
 
 ![](https://s2.loli.net/2023/08/13/OMD3Cw9dbSIJnym.png)
 
-- 描述词：*一名员工在电脑前工作，平面插图，白色背景，清晰的配色*
+- DESCRIPTION WORDS: *An employee working at a computer, flat illustration, white background, clear color scheme *
 
 ![](https://s2.loli.net/2023/08/13/k8MLF4yIOr3qRs7.png)
 
-- 描述词：*一个可爱的皮克斯女巫在皮克斯图书馆，皮克斯，阳光，暖色背景*
+- Descriptors:* A cute Pixie Witch in a Pixie Library, Pixie, sunlight, warm color background*
 
 ![](https://s2.loli.net/2023/08/13/OLyENuUdQPYtGxX.png)
 
-- 描述词：*夏天，花，湖边，明亮，天空，插图*
+- Description words:* summer, flowers, lake, bright, sky, illustration*
 
 ![](https://s2.loli.net/2023/08/13/4ZDS71zFVYBph8n.png)
 
-## 3. 从下面的方法里挖掘SDXL底层逻辑，从更多的方面质量出图。
+## 3. Mining the underlying SDXL logic from the methods below to quality out the diagram in more ways than one.
 
-瞧！这里展示的只是使用“通用智能”模型创作的部分美妙作品，这些作品的范围从人像到静物、风景，从平面到立体，就如同小小的缩影一般，让人忍不住想要探索更多。然而，篇幅的限制让我们无法尽数呈现，但你知道吗？每一个未展示的作品都是一个隐藏的宝藏，等待你用通用智能模型挖掘出更多惊人的创意。
+Voila! These are just a few of the wonderful works created using the General Intelligence model, ranging from portraits to still lifes, landscapes, flat surfaces to three-dimensional ones, like tiny microcosms that you can't help but want to explore more. However, space constraints prevent us from presenting all of them, but did you know? Every piece of work not shown is a hidden treasure waiting for you to unearth more amazing ideas with the Universal Intelligent Model.
 
-现在就是你释放无限创造力的时候！拿起你的画笔，用通用智能模型描绘出你脑海中那些生动的画面。不仅如此，你还可以解锁通用智能模型的全新功能，探索更多未知的创意领域。无论你是艺术新手还是经验丰富的画家，通用智能模型都能为你提供无限的灵感和可能性。让我们一起开启这场创意之旅吧！
+Now is the time to unleash your unlimited creativity! Grab your paintbrush and paint those vivid pictures in your mind with the Universal Intelligent Model. Not only that, you can also unlock new features of the Universal Smart Model and explore more uncharted creative territory. Whether you are a novice artist or an experienced painter, the Universal Smart Model can provide you with unlimited inspiration and possibilities. Let's start this creative journey together!
 
-1. 理解描述词并还原各种物品的空间关系
+1. Understand descriptors and restore spatial relationships of various objects
 
-比如：*海滩上，一个女孩正跑在一只狗后面，面对镜头*
+For example: *A girl is running behind a dog on the beach, facing the camera*!
 
 ![](https://s2.loli.net/2023/08/13/mFZOwRrV6hPt2vo.png)
 
-2. 识别简单的英文单词并将其融入作品中 
+2. Recognize simple English words and incorporate them into a work of art. 
 
-比如：*玻璃瓶内微型巴黎塔的特写镜头，瓶子上有“Paris”的标签。*
+For example: * Close-up of a miniature Paris tower in a glass bottle labeled "Paris". *!
 
 ![](https://s2.loli.net/2023/08/13/yRG8zMcq9jEI5gT.png)
 
-3. 融合两种已有事物 ，创造一些只存在于想象中的“神奇物品”
+3. Create "magical objects" that only exist in the imagination by combining two existing objects.
 
-比如：*鳄梨形状的扶手椅*
+For example, an armchair in the shape of an avocado.
 
 ![](https://s2.loli.net/2023/08/13/kwBYjciEzsQ4WSr.png)
 
-*一双运动鞋，灵感来自芒果*
+*A pair of sneakers inspired by mangoes.
 
 ![](https://s2.loli.net/2023/08/13/kWjvimqnRb4MxJU.png)
 
-## 4. 现实生活中永远不会生产的产品，可以借助Ai实现，效果还很不错！
+## 4. Products that will never be produced in real life can be realized with the help of Ai, and the results are pretty good!
 
-*耐克与匡威，联名运动鞋*
+*Nike and Converse, co-branded sneakers* !
 
 ![](https://s2.loli.net/2023/08/13/JvdYq2KZoGUN1sj.png)
 
-*bape与supreme，联名短袖*
+*bape and Supreme, co-branded short sleeves* !
 
 ![](https://s2.loli.net/2023/08/13/lersvVXitfcP46h.png)
 
-*可口可乐与百事可乐，联名可乐*
+*coca-cola and pepsi, co-branded coke* !
 
 ![](https://s2.loli.net/2023/08/13/9kw6nyBTcXuP4LU.png)
 
-*钢铁侠与超人，战斗，热血，科技*
+*♪ Man of Steel and Superman, battle, blood, technology ♪
 
 ![](https://s2.loli.net/2023/08/13/UPNYsk7ptnMV2GO.png)
 
-*蝙蝠侠与超级赛亚人，战斗，震撼*
+*♪ Batman and the Super Saiyan, battle, shock ♪
 
 ![](https://s2.loli.net/2023/08/13/no7FJCmG6pk2KVj.png)
 
-## 补充概念：
+## Additional Concepts:
 
-什么是[Stable Diffusion XL](https://stablediffusionxl.com/)?
+What is [Stable Diffusion XL](https://stablediffusionxl.com/)?
 
-Stable Diffusion XL，简称SDXL，是最新款的AI图像生成神器！它拥有逼真的脸部生成功能，更能在图像中清晰呈现出文字，让你的创作更上一层楼。更令人惊喜的是，SDXL能够通过更为简洁的提示，实现图像合成，让你轻松创造出丰富多彩的艺术作品。
+Stable Diffusion XL, or SDXL for short, is the latest AI image generator! It has a realistic face generation function, and it can even render text clearly in the image, so you can take your creation to the next level. Even more surprisingly, SDXL enables image compositing with more concise prompts, allowing you to create colorful artwork with ease.
 
-如同它的前代产品一样，SDXL同样具有“从图像到图像的提示”、“内绘（重新想象图像的选定部分）”以及“外绘（创建图像边界以外的新部分）”等强大的图像生成功能，让你随心所欲地操控图像的变换。
+Like its predecessor, SDXL also features powerful image generators such as "Cue from Image to Image," "Inpainting (reimagining selected parts of an image)," and "Outpainting (creating new parts outside the boundaries of an image)," and more. Powerful image-generating features such as the "Image to Image Hint", "Inpainting" (reimagining selected parts of an image) and "Outpainting" (creating new parts of an image outside its boundaries) allow you to manipulate the transformation of an image as you wish.
 
-而现在，你只需要通过DreamStudio或者其他的图像生成应用程序如NightCafe Studio和ClipDrop，就能轻松使用SDXL！而且别忘了，SDXL模型已经在HuggingFace平台全面上线，等你来下载哦！
+And now, you can easily use SDXL just through DreamStudio or other image generation applications such as NightCafe Studio and ClipDrop! And don't forget that SDXL models are fully available on the HuggingFace platform, waiting for you to download them!
 
-## stable diffusion有什么优势？
+What are the advantages of ## stable diffusion?
 
-Stable Diffusion模型在图像生成方面具有多个优势。
+The Stable Diffusion model has several advantages in image generation.
 
-首先，它可以通过逐步添加和减少噪声的方式，逐渐揭示出图像中的细节和形状，这使得生成的图像更加真实和清晰。这个特性在艺术创作、电影特效、游戏开发等领域中非常有用，它可以让创作者轻松得到令人满意的图像，充分满足用户对于完美视觉效果的要求。
+First of all, it can gradually reveal the details and shapes in an image by gradually adding and reducing noise, which makes the generated image more realistic and clear. This feature is very useful in the fields of art creation, movie effects, game development, etc., which allows creators to easily get satisfactory images and fully meet the user's requirements for perfect visual effects.
 
-其次，Stable Diffusion模型可以生成高质量的图像，包括自然景观、人脸、艺术作品等。它能够捕捉到图像的纹理、形状和细节，生成逼真的图像。这种特性使得它在图像修复和增强、图像去噪等领域中也有广泛的应用。
+Secondly, the Stable Diffusion model can generate high-quality images, including natural landscapes, human faces, artworks, etc. It can capture the texture of the image, and it can be used to create a new image. It is able to capture the texture, shape and details of an image to generate realistic images. This feature makes it widely used in the fields of image restoration and enhancement, image denoising, etc. as well.
 
-第三，Stable Diffusion模型的生成过程可以通过调整扩散参数和逆向过程来进行控制，这使得用户可以根据自己的需求和偏好来生成图像。这种特性为应用者提供了更大的灵活性。
+Third, the generation process of the Stable Diffusion model can be controlled by adjusting the diffusion parameters and the inverse process, which allows users to generate images according to their needs and preferences. This feature provides greater flexibility to the applicator.
 
-最后，Stable Diffusion还有良好的可定制性。用户可以根据自身的需求，灵活地调整和优化生成的图像。
+Finally, Stable Diffusion also has good customizability. Users have the flexibility to adjust and optimize the generated images according to their needs.
 
-总的来说，Stable Diffusion模型在图像生成方面具有真实感强、高质量、可控性高、可定制性强等优势，这使得它在艺术创作、电影特效、游戏开发等领域中具有广泛的应用前景。
+Overall, the Stable Diffusion model has the advantages of high realism, high quality, high controllability, and high customizability in image generation, which makes it have a wide range of applications in the fields of art creation, movie special effects, game development, and so on.

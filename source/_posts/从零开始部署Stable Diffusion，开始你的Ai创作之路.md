@@ -50,7 +50,7 @@ Currently widely used Stable Diffusion Web UI is a Python project released on th
 
 ## Step 4: Starting Stable Diffusion
 
-! [](https://s2.loli.net/2023/07/27/dBG8qZtTrIFEHVx.jpg)
+![](https://s2.loli.net/2023/07/27/dBG8qZtTrIFEHVx.jpg)
 
 Enter the SD installation folder, double click **webui-user.bat**, load it and use Chrome to log in with the default loaded IP:*http://127.0.0.1:7860/*.
 

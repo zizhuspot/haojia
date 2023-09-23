@@ -47,12 +47,12 @@ The table below provides a comprehensive comparison of the leading Ai Smart Imag
 | Ai Smart Image Generator | If you want to... | Ai |
 | --------- | -- |
 | **Bing Image Creator** | Best AI Art Generator. If you have access to Bing Chat, you can fulfill all your art generation needs while chatting with a bot and getting all your questions answered. The art generator is reliable, fast and easy to use. |The art generator is reliable, fast and easy to use. |
-| **DALL-E 2 by OpenAI** | The best AI art generator that combines accuracy, speed and cost-effectiveness. It allows users to generate high quality images quickly and easily and is the ideal tool for artists, designers and anyone who wants to create unique and original content.  |It is the ideal tool for artists, designers and anyone who wants to create unique and original content.
-| **DreamStudio by Stability AI** | The best customizable AI art generator, including tools in the UI that make it easy to get the exact version you need. Fields include Size, Style, Negative Tips, Image Tips and more.  |
-| **Dream by WOMBO** | The best AI art generator for cell phones with multiple templates, realistic reproductions and a mobile app. It also has a free limited access version, perfect for those who don't want to spend too much money.  |Craiyon
-| **Craiyon** | The best completely free AI art generator with unlimited tips and a simple intuitive interface.  | **Midjourney
-| **Midjourney** | The best AI art generator for high quality rendering and clear images. It has Discord community where you can share and view other users' results. |
-| **MyHeritage's AI Time Machine** | The best Artificial Intelligence self-portrait art generator. You can create accurate images regardless of your age. The wait is long, but the results are perfect for my profile picture. |
+| **DALL-E 2 by OpenAI** | The best AI art generator that combines accuracy, speed and cost-effectiveness. It allows users to generate high quality images quickly and easily and is the ideal tool for artists, designers and anyone who wants to create unique and original content.  |It is the ideal tool for artists, designers and anyone who wants to create unique and original content. |
+| **DreamStudio by Stability AI** | The best customizable AI art generator, including tools in the UI that make it easy to get the exact version you need. Fields include Size, Style, Negative Tips, Image Tips and more. |fast |
+| **Dream by WOMBO** | The best AI art generator for cell phones with multiple templates, realistic reproductions and a mobile app. It also has a free limited access version, perfect for those who don't want to spend too much money.  |fast |
+| **Craiyon** | The best completely free AI art generator with unlimited tips and a simple intuitive interface.  | fast |
+| **Midjourney** | The best AI art generator for high quality rendering and clear images. It has Discord community where you can share and view other users' results. |fast |
+| **MyHeritage's AI Time Machine** | The best Artificial Intelligence self-portrait art generator. You can create accurate images regardless of your age. The wait is long, but the results are perfect for my profile picture. |fast |
 
 ## ** - More questions? **
 

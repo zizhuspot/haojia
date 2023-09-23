@@ -1,124 +1,124 @@
 ---
-title: 8个Houdini渲染技巧，让你的渲染速度快上加快
+title: 8 Houdini Rendering Tips to Speed Up Your Renders
 date: 2023-05-14 19:23:48
-categories:
-  - 设计师工具
-tags:
-  - Houdini渲染
-  - Houdini技巧
-  - Houdini热键
-  - 特效软件
-  - 视觉设计
-  - 艺术设计
-  - 特效师
-  - 设计师工具
+categories：
+  - Designer Tools
+tags: 
+  - Houdini Rendering
+  - Houdini Tips
+  - Houdini Hotkeys
+  - Special effects software
+  - Visualization
+  - Artistic Design
+  - Special effects
+  - Designer Tools
 
-description: 8个Houdini渲染技巧，让你的渲染效率更高更快。
+description: 8 Houdini rendering tips to make your rendering more efficient and faster.
 
 cover: https://s2.loli.net/2023/07/26/oVTDp4ZF7HQuqvX.png
 
 ---
-Houdini，这是由SideFX公司精心打造的一款神奇软件，它拥有将3D建模、动画、绑定、合成、模拟以及渲染等众多功能集于一身的超能力。而它更为神奇的是，它支持大多数主流的系统和操作系统，包括我们所熟知的Windows、Linux以及MacOS。
+Houdini, which is an amazing software crafted by SideFX, has the superpower of combining 3D modeling, animation, binding, compositing, simulation, and rendering into one. What's even more amazing about it is that it supports most major systems and operating systems, including the familiar Windows, Linux, and MacOS.
 
-Houdini，这个特效巨星软件，在电影和游戏领域中广受好评，众多知名视觉特效公司如Pixar、梦工厂动画工作室、沃尔特迪斯尼动画工作室、Frame Store以及Method Studios等都对其赞不绝口，并广泛应用于实际项目中。
+Houdini, the special effects superstar software, is widely acclaimed in the field of movies and games, and many famous visual effects companies such as Pixar, DreamWorks Animation Studios, Walt Disney Animation Studios, Frame Store, and Method Studios, etc. are all very impressed by it, and widely used in actual projects.
 
-Houdini拥有一款自家研发的渲染引擎——Mantra，此款引擎功能强大，但在实际使用中，一些用户反映Mantra的渲染时间较长，影响了项目的工作流程。那么，今天我们就来聊聊如何在Houdini中采取一些小技巧，尽可能地减少渲染时间！快来跟我们一起看看吧！
+Houdini has a self-developed rendering engine - Mantra, this engine is powerful, but in actual use, some users reflect that Mantra's rendering time is longer, affecting the project workflow. So, today we will talk about how to take some tips in Houdini to minimize rendering time! Come check it out with us!
 
-## 使用Houdini Hotkeys
+## Using Houdini Hotkeys
 
-键盘快捷键或热键是在 Houdini 中更快渲染的第一个技巧。大多数 3D 艺术家都使用此解决方案。热键将增加您的整体创意工作流程时间。在几个 Houdini 的热键中，我们认为对您非常有帮助的一些热键是：
+Keyboard shortcuts or hotkeys are the first trick to faster rendering in Houdini. Most 3D artists use this solution. Hotkeys will increase your overall creative workflow time. Among several Houdini hotkeys, some of the ones we think will be very helpful for you are:
 
-***Space + G：重新定位您的视口。***
+***Space + G: Repositions your viewport. ***
 
-******左键单击 + Alt：删除关键帧。***
+****** Left Click + Alt: Delete keyframes. ***
 
-***Y + 鼠标拖动：按住并朝一个方向移动以切断节点连接。***
+***Y + Mouse Drag: Hold and move in one direction to sever node connections. ***
 
-***Ctrl + 左键单击：按下相机图标以放下相机。***
+*** Ctrl + Left click: press the camera icon to drop the camera. ***
 
 ![](https://s2.loli.net/2023/07/26/YhvDRNKcAEU8JCt.png)
 
-## 设置烘焙模式
+## Setting up bake mode
 
-"Bake"可帮助您评估模拟网络中的节点。使用此函数您可以计算当前帧中场景的状态。您应该将烘焙模式设置为手动并调整关键帧和值，而无需Houdini重新烘焙时间轴并在修改之间进行更新。调整 Houdini 的烘焙控件可以加快您的模拟时间和渲染速度……尤其是在处理繁重的项目时。
+"Bake" helps you to evaluate the nodes in the simulation network. With this function you can calculate the state of the scene in the current frame. You should set the bake mode to manual and adjust keyframes and values without Houdini re-baking the timeline and updating it between changes. Adjusting Houdini's bake controls can speed up your simulation times and rendering ...... especially when working on heavy projects.
 
-## 降低[Volume](https://en.wikipedia.org/wiki/Volume)分辨率
+## Reduce [Volume](https://en.wikipedia.org/wiki/Volume) Resolution
 
-创建更清晰的图像和模型可能会让您使用多个样本来达到目的，但这会使渲染速度直线下降。每一个新增样本都像是加载一颗沉重的石头在项目中，使得渲染速度又多延迟整整一秒。虽然有那些吹嘘渲染时间快的，但用更少的样本数却可能影响项目的质量。
+Creating sharper images and models may allow you to use multiple samples to get there, but this can cause rendering speed to plummet. Each additional sample is like loading a heavy rock into the project, causing the rendering speed to be delayed by another full second. While there are those that brag about fast render times, using a smaller number of samples can compromise the quality of your project.
 
-要在Mantra渲染中管理样本大小的步骤，您需要依次进入设置 → 渲染设置 → 采样。这些步骤宛如魔术般神奇，它们能决定最终渲染的精细度。
+To manage the sample size steps in Mantra Render, you need to go to Settings → Render Settings → Samples in turn. These steps work like magic and determine the finesse of the final render.
 
-注意：Houdini中快速渲染的解决方案适用于制作基于Web的应用程序项目，它可以让您的图像渲染速度加倍。如果您正在开发一个适用于大屏幕观看的项目，但您不这样做，那么可以考虑其他的解决方案。
+Note: The Fast Render solution in Houdini is suitable for projects that create web-based applications, and doubles the speed at which your images are rendered. If you are developing a project for large-screen viewing, but you don't, then consider other solutions.
 
 ## Motion Factor
 
-如果你希望在Houdini中渲染得更快，有一招你一定得试试！那就是调整运动因子，用更少的内存来完成你的大作。这个神奇的因子，就像是一位魔法师，能够让你的内存使用效率直线上升。
+If you wish to render faster in Houdini, there is one trick you must try! That's tweaking the Motion Factor to get your masterpiece done with less memory. This magic factor is like a wizard that can make your memory usage skyrocket.
 
-说到魔法师，那你一定知道电影《哈利·波特》里的场景吧？想象一下，在霍格沃茨魔法学校里，那些飞快的魔法粉末在空气中飘舞，是不是感觉很神奇？而这个运动因子，就像是那魔法粉末一样，让你的渲染过程变得更加神奇。
+Speaking of wizards, then you must know the scene from the movie Harry Potter, right? Imagine those flying magical powders fluttering in the air in Hogwarts School of Witchcraft and Wizardry, doesn't it feel amazing? And this motion factor, just like that magic powder, makes your rendering process even more magical.
 
-如果你在项目中用到了运动模糊或景深效果，那么你一定得试试调整这个“运动因子”值。怎么调呢？很简单，打开Mantra输出节点的“渲染”选项卡，找到“剪切”子选项卡，你就会看到这个值了。它就像是给你的渲染质量开启了一个动态开关，让你可以灵活地控制内存的使用。
+If you use motion blur or depth of field effect in your project, then you must try to adjust this "Motion Factor" value. How do you do it? Simple, open the Render tab of the Mantra Output node, find the Clipping sub-tab, and you'll see this value. It's like turning on a dynamic switch for your render quality, giving you the flexibility to control your memory usage.
 
-所以，想要更快地渲染吗？想要更有效地使用内存吗？快来调整你的运动因子吧！
+So, want to render faster? Want to use memory more efficiently? Go ahead and tweak your motion factor!
 
 ![](https://s2.loli.net/2023/07/26/oVTDp4ZF7HQuqvX.png)
 
-## Houdini渲染器如何选择？
+## How to choose a Houdini renderer?
 
-在Houdini中，有几种渲染器可供选择，包括Mantra、Karma、Arnold、Redshift等，以下是这些渲染器的简要介绍和比较：
+In Houdini, there are several renderers to choose from, including Mantra, Karma, Arnold, Redshift, etc. Below is a brief introduction and comparison of these renderers:
 
-1. Mantra：Mantra是Houdini自家的渲染引擎，它是一种高性能、高灵活性的渲染工具，适用于各种3D计算机图形领域，包括动画、视觉效果、建筑设计和工业设计。Mantra支持多通道渲染、全局照明、阴影、反射和折射，以及各种颜色管理和图像后期处理工具。它还支持分布式渲染，可以显着提高渲染速度此外Mantra还有Bridge Tools，这个工具支持比以往更多的3D应用程序包括：Houdini、Maya、Katana和Blender。
+1. Mantra: Mantra is Houdini's own rendering engine, which is a high-performance, highly flexible rendering tool for a variety of 3D computer graphics disciplines, including animation, visual effects, architectural design, and industrial design.Mantra supports multi-pass rendering, global illumination, shadows, reflections, and refractions, as well as a variety of color management and image post-processing tools. It also supports distributed rendering, which can significantly increase the rendering speed In addition, Mantra also has Bridge Tools, which supports more 3D applications than ever before including: Houdini, Maya, Katana and Blender.
 
-2. Karma：Karma是一种灵活的物理精确渲染引擎，它支持实时光线追踪和GPU加速。Karma具有无与伦比的控制和灵活性，使您可以在视窗中直观地创建复杂的效果。
+2. Karma: Karma is a flexible, physically accurate rendering engine with support for real-time ray tracing and GPU acceleration.Karma offers unparalleled control and flexibility, allowing you to create complex effects intuitively in the viewport. 3.
 
-3. Arnold：Arnold是一款由Autodesk开发的偏GPU的渲染引擎，支持物理精确的着色和光照模型，同时具有快速的渲染速度。Arnold使用一种基于采样器的方法来进行路径追踪，这种方法可以提供高质量的图像，同时保持高效的渲染速度。
+3. Arnold: Arnold is a GPU-biased rendering engine developed by Autodesk that supports physically accurate shading and lighting models with fast rendering speeds. arnold uses a sampler-based approach to path tracing, which delivers high-quality imagery while maintaining efficient rendering speeds. arnold is a GPU-based rendering engine that supports real-time raytracing and real-time lighting models.
 
-4. Redshift：Redshift也是一个基于物理的渲染引擎，由Maxwell Render开发。Redshift使用具有专利的连续时间光线追踪技术进行渲染，这种技术可以提供无与伦比的速度和准确性。Redshift具有超快的渲染速度和广泛的工具，可以处理从简单到复杂的一切场景。
+4. Redshift: Redshift is also a physics-based rendering engine developed by Maxwell Render. redshift renders using a patented continuous-time ray tracing technology that delivers unmatched speed and accuracy. redshift has ultra-fast rendering speeds and a wide range of tools that can handle everything from simple to complex scenes. Redshift has ultra-fast rendering speeds and a wide range of tools to handle everything from simple to complex scenes.
 
-以上这些渲染器各具特点，您可以根据您的需求和偏好进行选择。
+Each of these renderers has its own characteristics, so you can choose according to your needs and preferences.
 
-## 启用活动半径
+## Enable Active Radius
 
-减慢渲染时间的因素之一是项目的灯光对象。如果无法减少项目中的灯光数量，则可以启用灯光对象着色器的活动半径，这不会影响灯光对象的外半径，并且会显着减少渲染时间。
+One of the factors that slow down rendering times is the lighting objects in your project. If you are unable to reduce the number of lights in your project, you can enable the active radius of the light object shader, which does not affect the outer radius of the light objects and will significantly reduce rendering time.
 
-## 优化缓存和阴影
+## Optimize caching and shadows
 
 ![](https://s2.loli.net/2023/07/26/FHxUdsmvBGqZaK9.png)
 
-减少阴影等其他视觉效果的使用确实可以降低项目的复杂性，但同时也会导致物品容量变大以及渲染时间变长。如果这些视觉效果对您的项目没有太大影响，您可以将它们删除以简化工作内容。具体来说，您可以在照明菜单的“阴影”链接部分将阴影删除。
+Reducing the use of other visual effects such as shadows can really reduce the complexity of your project, but it can also lead to larger item sizes as well as longer render times. If these visual effects don't have much of an impact on your project, you can remove them to simplify what you're working on. Specifically, you can remove shadows in the Shadows link section of the Lighting menu.
 
-另外，为了更好地控制项目内存使用量，您可以考虑设置缓存限制。如果您在安装了不同容量的RAM的工作站上工作，例如新旧计算机混合，这个设置对您的项目就非常有用。当缓存消耗过多RAM时，可能会导致渲染速度变慢。
+Additionally, to better control your project's memory usage, you may want to consider setting a cache limit. This setting is useful for your project if you are working on workstations with different amounts of RAM installed, such as a mix of old and new computers. When the cache consumes too much RAM, it may result in slower rendering.
 
-在这种情况下，通过设置缓存限制可以有效减少内存占用。具体来说，从“渲染”选项卡中单击“渲染”子选项卡，然后单击“缓存限制”，在打开的对话框中您可以设置使用的物理内存的百分比而不是固定数量，这样可以更好地适应不同情况下的内存使用需求。
+In this case, you can effectively reduce the memory footprint by setting cache limits. Specifically, from the Rendering tab, click the Rendering sub-tab, then click Cache Limits, and in the dialog box that opens you can set the amount of physical memory used as a In the dialog box that opens, you can set the amount of physical memory to use as a percentage rather than a fixed amount, which better accommodates memory usage in different situations.
 
-## 使用GPU渲染
+## Rendering with the GPU
 
-我们都知道，GPU相比CPU就像超能英雄一样强大，它们可以让您的电脑轻松应对多项任务，从头到尾都不放松。但说到这个GPU，它可是有特别的用处，主要就是帮助加快渲染速度。因为只要用上显卡而不是传统的CPU进行渲染，效果就会立马显现。为了在Houdini中更快地进行渲染，您真的应该考虑切换到GPU渲染哦！
+We all know that GPUs are as powerful as superheroes compared to CPUs, they allow your computer to handle multiple tasks with ease, from start to finish. But when it comes to this GPU, it has a special use, mainly to help speed up rendering. That's because as soon as you render with a graphics card instead of a traditional CPU, the results are immediately apparent. You should really consider switching to GPU rendering for faster rendering in Houdini!
 
 ![](https://s2.loli.net/2023/07/26/R6o4CSPVseBtvl5.png)
 
-## 使用更强大的渲染器
+## Use a more powerful renderer
 
-Mantra，这位超级英雄般的渲染器，是Houdini世界中的默认超能英雄，以其高度先进的技术独树一帜。它允许您如同挑选三明治配料般挑选最适合您正在处理的场景。例如，如果您打算渲染一个要求真实准确光照环境的场景，那么基于物理的渲染引擎就会是您的最佳伙伴。而如果您需要呈现如云朵这种充满体积感的元素，那么基于物理的微多边形渲染引擎就会是您的得力助手。
+Mantra, the superhero renderer, is the default superhero in the Houdini world and stands out for its highly advanced technology. It allows you to pick the scene that best suits what you're working on as if you were picking the toppings of a sandwich. For example, if you're going to render a scene that requires a realistic and accurate lighting environment, then a physics-based rendering engine is the perfect partner. If you need to render volumetric elements such as clouds, then a physically-based micro-polygon rendering engine is the right partner for you.
 
-选择正确的渲染引擎如同挑选合适的跑鞋，它能助您发挥最大的可能性，以产生令人惊艳的图像。
+Choosing the right rendering engine is like picking the right running shoes - it helps you maximize your possibilities to produce stunning images.
 
-尽管Mantra Houdini对于一些追求额外优化的项目来说已经足够强大，但众多项目仍然需要寻求GPU加速渲染和更多软件功能的支持。这时，您可以考虑变身为GPU渲染的队伍，例如Arnold GPU、Redshift或V-Ray。这些强大的渲染引擎就如同给力的助手，帮助您在Houdini的世界中更快地进行渲染。
+While Mantra Houdini is powerful enough for some projects seeking additional optimizations, numerous projects still seek GPU-accelerated rendering and more software features. Consider turning to a GPU rendering team such as Arnold GPU, Redshift, or V-Ray, powerful rendering engines that act as powerful assistants to help you render faster in the world of Houdini.
 
-## 推荐一款可以胜任设计师的渲染要求的电脑配置
+## Recommend a computer configuration that can handle the rendering requirements of a designer
 
-为了满足Houdini渲染的苛刻需求，以下是一台兼具性能与性价比的电脑配置推荐：
+To meet the demanding needs of Houdini rendering, here's a recommendation for a computer that offers both performance and value for money:
 
-首先，让我们谈谈处理器。AMD R9 5950X，这是一款实力派选手，凭借其强大的多核性能和优秀的性价比，它是你进行Houdini渲染和其他多核计算任务的理想之选。当然，如果你有更高的预算需求，可以选择性能更强劲的处理器，比如Intel Core i9或者AMD Ryzen 9来获得更出色的表现。
+First, let's talk about the processor. the AMD R9 5950X, a powerhouse player, is ideal for your Houdini rendering and other multi-core computing tasks thanks to its powerful multi-core performance and excellent price/performance ratio. Of course, if you have higher budget needs, you can opt for a more powerful processor such as Intel Core i9 or AMD Ryzen 9 to get even better performance.
 
-接下来，让我们来谈谈显卡。NVIDIA RTX 3060凭借其大容量显存，它能处理高分辨率以及复杂的着色器任务，同时还能支持光线追踪渲染。如果你对性能有更高的期待，或者预算允许，你可以选择更高级别的显卡，比如NVIDIA RTX 3080或者AMD Radeon RX 6900 XT以获得更出色的表现。
+Next, let's talk about the graphics card; the NVIDIA RTX 3060 is capable of handling high resolutions as well as complex shader tasks thanks to its high-capacity video memory, and it also supports ray tracing rendering. If you expect more performance or your budget allows it, you can opt for a higher level graphics card like the NVIDIA RTX 3080 or the AMD Radeon RX 6900 XT for even better performance.
 
-内存方面，32GB DDR4 RAM足以应对大多数Houdini渲染任务。然而，如果你需要处理更大的项目或者更高精度的模型，可能需要增加内存容量到128GB以提供足够的缓存和运算空间。
+In terms of memory, 32GB of DDR4 RAM is enough to handle most Houdini rendering tasks. However, if you need to handle larger projects or higher precision models, you may need to increase the memory capacity to 128GB to provide enough cache and computing space.
 
-存储方面，1TB SSD硬盘可以轻松存储Houdini的场景文件和其他工作文件，实现快速加载和保存。如果需要更大的存储空间，你可以选择多块SSD硬盘进行RAID 0或RAID 1配置以满足不断增长的数据需求。
+For storage, a 1TB SSD hard drive makes it easy to store Houdini scene files and other work files for fast loading and saving. If you need more storage space, you can opt for multiple SSD hard disks in a RAID 0 or RAID 1 configuration to meet growing data demands.
 
-最后，其他硬件方面，为了追求更高的稳定性和可靠性，你可以选择高品质的电源、主板和其他硬件组件。
+Finally, for other hardware, you can choose high-quality power supplies, motherboards, and other hardware components in pursuit of greater stability and reliability.
 
-总的来说，以上推荐是一台基础但高效的Houdini渲染电脑配置，你可以根据自己的具体需求和预算进行调整和优化。
+Overall, the above recommendation is a basic but efficient Houdini rendering computer configuration that you can adjust and optimize according to your specific needs and budget.
 
 
 

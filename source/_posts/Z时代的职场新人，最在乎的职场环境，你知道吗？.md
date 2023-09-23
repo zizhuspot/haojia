@@ -1,109 +1,109 @@
 ---
-title: Z时代的职场新人，最在乎的职场环境，你知道吗？
+title: The workplace environment that newcomers to the workplace in Era Z care most about.
 date: 2023-07-15 17:31:48
 categories:
 
-  - 生活
+  - Life
   
-tags:
-  - Z时代
-  - 职场
-  - 沟通
-  - 合作
-  - 职场小技巧
-  - 旅游
-  - 生活
+tags: 
+  - Z-era
+  - Workplace
+  - Communication
+  - Cooperation
+  - Workplace Tips
+  - Traveling
+  - Life
   
-description: Z时代职场新人如何顺应时代潮流，他们对于工作环境有什么要求？
+description: How do newcomers to the workplace in Era Z adapt to the trends of the times, and what are their requirements for the work environment?
 
 cover: https://s2.loli.net/2023/08/20/LjgG9OpalWPizSC.png
 
 ---
 
 
-## z时代职场新人是什么？
+## zWhat is a newcomer to the workplace of our time?
 
 ![](https://s2.loli.net/2023/08/20/lrDZnMCw6zmRH85.png)
 
-2023年，新的一代人即将踏入职场，他们是2000年后出生的Z世代，他们将在未来10-20年内接替婴儿潮一代，成为企业员工的主力军。这一代人可是在平板电脑、智能手机和社交媒体陪伴下成长的，他们的个性张扬，对变化极其敏感，能够在快速变化的环境中独当一面。
+In 2023, a new generation is about to enter the workplace, the Generation Z, born after 2000, who will take over from Baby Boomers and become the mainstay of corporate employees in the next 10-20 years. Growing up with tablets, smartphones and social media, this generation has a flamboyant personality, is extremely sensitive to change and is able to hold their own in a rapidly changing environment.
 
-工作对于他们来说，不仅仅是赚钱，更重要的是能够满足他们的成就感和需求。他们不怕频繁跳槽，只要能实现自己的职业目标，他们就无所畏惧。
+For them, work is not only about making money, but also about satisfying their sense of fulfillment and needs. They are not afraid to jump from job to job as often as it takes to achieve their career goals.
 
-然而，根据人力资源软件公司Lever最近的一份报告，高达65%的Z世代专业人士打算在几个月内离职，远高于40%的平均离职率。这个数字你敢相信吗？这可真是让人大跌眼镜。
+However, according to a recent report by Lever, an HR software company, a whopping 65% of Gen Z professionals plan to leave their jobs within a few months, much higher than the average 40% turnover rate. Can you believe this number? That's a real shocker.
 
-那么，作为企业，如何吸引优秀的Z世代人才呢？答案就是满足他们对工作条件的要求。可能有些年纪大的人会对此表示不解，认为Z世代太过自我。但实际上，Z世代对工作环境的看法反映了当代社会的发展趋势。
+So how do you, as a business, attract great Gen Z talent? The answer is to meet their demands for working conditions. Some older people may balk at this, thinking that Gen Z is too self-absorbed. But in fact, Gen Z's view on working environment reflects the trend of contemporary society.
 
-所以，让我们来看看Z世代偏好的五种工作模式，并为企业如何打造吸引Z世代人才的工作环境提供建议。这些建议不仅有助于长期吸引优秀人才，还有助于让企业文化更适应未来的产业环境变化，促进跨代际合作的工作场所的形成，为公司带来更多的效益和价值。
+So let's take a look at the five work patterns preferred by Gen Z and offer suggestions on how companies can create work environments that attract Gen Z talent. These suggestions will not only help attract talented people in the long run, but also help make corporate culture more adaptable to future changes in the industrial environment, and promote the formation of workplaces with cross-generational collaboration, bringing more benefits and value to the company.
  
-## Z 世代职场新人的五种首选工作模式
+## Z Five Preferred Work Models for Generation Workplace Newcomers
 
 ![](https://s2.loli.net/2023/08/20/LjgG9OpalWPizSC.png)
 
-Z世代人群，他们对互联网和科技产品如数家珍，网络时代快节奏的工作模式也让他们如鱼得水。他们以积极拥抱变革的态度，持续挑战既有框架，并热衷于充分发挥个人的创新潜能，这使得他们的职场态度与前几代人产生了明显的差异。以下，便是他们普遍认为能让他们发挥最佳工作效能的五种工作模式。
+The Generation Z crowd, who know the Internet and technology products like the back of their hand, and the fast-paced work patterns of the network era have made them a fish out of water. Their positive embrace of change, constant challenge to established frameworks and enthusiasm to fully utilize their creative potentials have resulted in a marked difference in workplace attitudes from previous generations. Below are five workstyles that they generally recognize as allowing them to perform at their best.
 
-1. 沟通至上的办公空间
+1. Communication-oriented workspace
 
-Z世代对最新技术的掌握程度，让他们更倾向于在家中工作，或者彻底摆脱传统的办公环境。然而，COVID-19疫情期间远程工作的大趋势，却让这一代人对传统办公室的重要性有了新的认识。对于他们来说，办公室不仅仅是一个工作的地方，更是人与人之间互动、交流的空间，是同事和上级给予肯定和反馈的场所。尽管远程工作在技术和硬件方面并未给他们带来太多困扰，但他们仍然期待有机会在实体办公室与同事面对面工作，以此促进思想的碰撞和职业的成长。
+Generation Z's mastery of the latest technology makes them more inclined to work from home or get rid of the traditional office environment altogether. However, the general trend of working remotely during the COVID-19 epidemic has given this generation a new appreciation for the importance of the traditional office. For them, the office is more than just a place to work; it is a space for human interaction, communication, and a place where coworkers and superiors give affirmation and feedback. Even though remote work doesn't bother them much in terms of technology and hardware, they still look forward to the opportunity to work face-to-face with their colleagues in a physical office as a way to facilitate the collision of ideas and professional growth.
 
 ![](https://s2.loli.net/2023/08/20/tzMXnyC6bSxGYrm.png)
 
-2. 让工作空间充满人性化的温暖
-尽管Z世代并不希望远程工作完全取代传统的实体办公室，但他们也并不喜欢那种拘束在一人一张办公桌的工作模式。在规划办公空间时，隐私和灵活性是Z世代最关心的事项。他们希望能在办公室里保有自由度，可以根据自身需求随时变换工作岗位。近年来兴起的“第三空间”和共享办公空间，正是为了满足员工对更加人性化工作环境的渴望。
+2. Fill the workspace with humanized warmth
+While Gen Z doesn't expect remote work to completely replace the traditional brick-and-mortar office, they also don't like the idea of being confined to one person at one desk. Privacy and flexibility are Gen Z's top concerns when planning an office space. They want to have freedom in the office and can change jobs at any time according to their needs. In recent years, the rise of the "third space" and shared office space is to meet the desire of employees for a more humanized work environment.
 
-3. 混合出工作的新模式
-作为追求灵活的一部分，Z世代通常希望能够自由选择工作地点。每周在家工作2-3天的混合工作模式更符合Z世代希望在居家办公和办公室办公之间找到平衡的需求。Z世代普遍认为，拥有选择自己工作地点的自由，可以让他们找到更适合自己的工作节奏，从而取得更好的工作成效。
+3. Mixing up the workplace
+As part of their quest for flexibility, Gen Zers often want the freedom to choose where they work. The hybrid work model of working from home 2-3 days a week is more in line with Gen Z's desire to find a balance between working from home and working in an office, and Gen Z generally believes that having the freedom to choose their own workplace allows them to find a work pace that suits their needs, and thus achieve better work results.
 
-4. 工作与生活，和谐并存
-大多数Z世代的生活都离不开手机，但这并不意味着他们希望下班后还要处理工作事务。Z世代更强烈的自我意识表现在他们对私人生活的态度上。灵活的工作空间和时间安排并不意味着工作时间可以无限延长。Z世代有快速响应工作需求的能力，但也需要界限明确的工作与私人时间，并有充足的私人时间来滋养个人兴趣的发展。
+4. Harmonizing work and life
+Most Gen Zers can't live without their cell phones, but that doesn't mean they want to deal with work after work; Gen Z's stronger sense of self is reflected in their attitude towards their private lives. Flexible workspace and scheduling doesn't mean that work hours can be extended indefinitely; Gen Z has the ability to respond quickly to work demands, but they also need to have clear boundaries between work and private time, and enough private time to nourish the development of their personal interests.
 
-5. 管理，请多倾听
-好的管理者懂得如何倾听员工的想法和意见，尤其对于Z世代员工，他们更加重视自己的意见能够被重视和回应。这就需要管理者们采取更多元的沟通方式，不仅要注重正式的沟通渠道，也不能忽视非正式的沟通方式，要让员工们感觉到自己的声音被听到，自己的意见被尊重。
+5. Management, listen more
+Good managers know how to listen to their employees' ideas and opinions, especially to Gen Z employees, who value having their opinions valued and responded to. This requires managers to adopt more diverse communication methods, not only focusing on formal communication channels, but also not neglecting informal communication methods, so that employees feel that their voices are heard and their opinions are respected.
 
 ![](https://s2.loli.net/2023/08/20/MefoO3vClQyBALS.png)
 
-社交媒体时代，阶层变得扁平化，只要有才华，每个人都有渠道成为下一个KOL。这样的环境让Z世代更敢于表达自己的意见，也希望管理层有能力认真倾听。对于Z世代来说，年龄和地位不再是阶级区分因素。他们更加注重平等权利，希望公司的每一位员工都有机会表达自己的意见。
+In the age of social media, hierarchy has become flattened, and as long as one has talent, everyone has a channel to become the next KOL. such an environment has made Gen Z more bold in expressing their opinions, and hopefully, management has the ability to listen carefully. For Generation Z, age and status are no longer class differentiators. They are more interested in equal rights and want every employee in the company to have the opportunity to express his or her opinion.
 
-## 如何打造 Z 世代友好的工作场所?
+## How to create a Gen Z-friendly workplace?
 
-根据上述Z世代首选的五种工作模式，企业可以通过以下方法改变现有的办公和运营模式，打造更符合后代需求的工作环境：
+Based on the above five preferred work patterns of Generation Z, companies can change their existing office and operational models to create a workplace that is more in line with the needs of future generations by doing the following:
 
-1. 创建灵活的工作空间
+1. creating flexible workspaces
 
 ![](https://s2.loli.net/2023/08/20/n1f6wJ5GTtWxpMy.png)
 
-灵活办公已经是未来不可阻挡的趋势。企业可以实施混合工作模式，以减少所需的工作空间，并允许员工轮流使用办公室。此外，企业还可以借此机会重新规划空间布置，根据运营需要设置更多的公共工作空间，或者设置根据功能设计的头脑风暴区、休息区、会议区等空间，以便员工不仅可以不用单一的办公桌，还可以享受更有利于工作绩效的空间规划。
+Flexible working is already an unstoppable trend for the future. Organizations can implement hybrid work models to reduce the amount of workspace required and allow employees to rotate their offices. In addition, companies can take this opportunity to re-plan the space arrangement by setting up more public workspaces according to operational needs, or setting up spaces such as brainstorming zones, rest areas, meeting areas, etc. designed according to functionality, so that employees can not only do away with a single desk, but also enjoy a space planning that is more conducive to work performance.
 
-2. 增加更人性化的空间设计
+2. Add more humanized space design
 
-Z世代希望在办公室里实现隐私和团队沟通之间的平衡。传统的数十人共享无隔间办公室的空间设计显然不能满足需求。针对新的办公空间需求，室内设计行业也在不断创新，提出了许多现代、私密和开放的空间设计，比如可以根据当前需求灵活移动的模块化隔断系统，或者壁龛式的半开放式个人工作空间。值得企业考虑的新型办公空间设计。
+Generation Z wants to achieve a balance between privacy and team communication in the office. The traditional space design of dozens of people sharing a cubicle-less office obviously cannot meet the demand. In response to the new office space needs, the interior design industry is also innovating and proposing many modern, private and open space designs, such as modular partition systems that can be flexibly moved according to the current needs, or niche-style semi-open personal workspaces. A new type of office space design worth considering for your business.
 
 ![](https://s2.loli.net/2023/08/20/SoA2pBldb1YUQFc.png)
 
-3. 建立扁平化的工作架构
+3. Establish a flat work structure
 
-Z世代非常重视自己在公司的价值。为了让目前担任初级职位的Z一代感受到被重视，从而愿意不断提升自己的能力，为公司做出贡献，公司需要建立更加扁平化的工作架构，让初级员工有更多的交流机会直接与高级管理层沟通。有了这样的架构，公司也能更好地了解新一代员工的思想，使公司的发展能够不断顺应时代潮流。
+Generation Z places great importance on their value in the company. In order to make Gen Z employees who are currently in junior positions feel valued and willing to continuously improve their abilities and contribute to the company, companies need to establish a flatter work structure so that junior employees have more opportunities to communicate directly with senior management. With such a structure, companies can also better understand the thinking of the new generation of employees, so that the company's development can continue to follow the trend of the times.
 
-总体而言，Z世代追求的并不是逃离办公室，而是拥有更加灵活、人性化的工作空间和模式。通过创造这种工作环境，公司还可以提高灵活性并持续吸引年轻的创意人才。
+Overall, what Generation Z seeks is not to escape the office, but to have a more flexible and humanized workspace and model. By creating this type of work environment, companies can also increase flexibility and continue to attract young creative talent.
 
-## 总结与一些职场小技巧
+## Summarize with some workplace tips
 
-在职场这片丛林中，有几个方面是需要你特别留意的，包括：
+In the jungle that is the workplace, there are several areas that you need to pay special attention to, including:
 
-专业素养：像个职业猎人一样，保持良好的职业道德和行为规范。尊重其他“动物”，不去参与办公室的政治斗争。保持你的职业形象，并且秉持高尚的职业道德。
+Professionalism: Act like a professional hunter and maintain a good work ethic and behavior. Respect the other "animals" and stay out of office politics. Maintain your professional image, and act ethically.
 
-沟通能力：在猎场上，学会倾听猎物的声音，瞄准目标，一击必杀。用你的话语和他人有效沟通，避免误会和冲突，让你的“猎物”对你另眼相看。
+Communication skills: In the hunting field, learn to listen to your prey, aim for your target, and kill it. Use your words to communicate effectively with others, avoid misunderstandings and conflicts, and make your "prey" look at you differently.
 
-团队合作：在猎人的世界里，没有独行侠。与同伴们建立坚实的合作关系，一起分享猎物，一起对抗困难。只有团结一致，才能更好地完成狩猎。
+Teamwork: In the world of hunters, there are no lone rangers. Establish a solid cooperative relationship with your companions, share the prey together, and fight against difficulties together. Only by working together can you accomplish your hunt better.
 
-自我管理：狩猎不仅需要勇气和智慧，更需要计划和条理。管理好你的时间，安排好你的任务，让工作生活有序进行，这样可以提高你的工作效率，让你更专注在重要的“猎物”上。
+Self-management: Hunting requires not only courage and wisdom, but also planning and organization. Manage your time well, arrange your tasks, make work and life in order, which can improve your work efficiency, so that you can focus more on the important "prey".
 
-持续学习：猎场的情况千变万化，只有不断学习、不断进步，你才能适应这个快速变化的环境。提升你的知识和技能，让自己成为全能型的猎人。
+Continuous learning: The hunting field situation is ever-changing, only by continuous learning and progress, you can adapt to this fast-changing environment. Enhance your knowledge and skills to become an all-round hunter.
 
-解决问题能力：面对难题和挑战时，你需要迅速分析情况，找出最佳解决方案，积极主动地采取行动，展现出你的能力和担当。
+Problem solving ability: When facing difficult problems and challenges, you need to quickly analyze the situation, find the best solution, and proactively take action to show your ability and commitment.
 
-自我营销：打猎不仅仅是要瞄准猎物，还要懂得展示自己的成果。在合适的时机，将你的成果展现出来，提升你在他人眼中的价值和知名度。
+Self-marketing: Hunting is not only about aiming at the prey, but also knowing how to show your results. At the right time, show your results to enhance your value and popularity in the eyes of others.
 
-总的来说，职场狩猎有许多需要注意的事项，但以上的几点是引领你走向成功的关键。通过不断地学习和实践，你必定能在职场这片丛林中打下属于自己的一片天地！
+Overall, there are many things to keep in mind when hunting in the workplace, but the above points are key to leading you to success. Through continuous learning and practice, you will surely be able to make your own place in the jungle of the workplace!
 
 
 

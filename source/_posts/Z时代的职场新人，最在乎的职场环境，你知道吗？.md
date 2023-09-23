@@ -16,7 +16,7 @@ tags:
   
 description: How do newcomers to the workplace in Era Z adapt to the trends of the times, and what are their requirements for the work environment?
 
-cover: https://s2.loli.net/2023/08/20/lrDZnMCw6zmRH85.png
+cover: https://s2.loli.net/2023/08/20/tzMXnyC6bSxGYrm.png
 
 ---
 

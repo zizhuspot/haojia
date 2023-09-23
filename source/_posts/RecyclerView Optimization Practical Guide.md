@@ -9,7 +9,7 @@ tags:
   - RecyclerView
   - Android development
   
-description: RecyclerView is a frequently used component in Android development, which can help us display a large amount of data. However, if not properly optimized, RecyclerView may lead to problems such as insufficiently smooth UI and even memory leaks. Therefore, this article will introduce some optimization tips to help you use RecyclerView better.
+description: RecyclerView is a frequently used component in Android development, which can help us display a large amount of data, this article will introduce some optimization tips to help you use RecyclerView better.
 
 cover: https://s2.loli.net/2023/09/23/jZWpArfghJqYOUk.png
 

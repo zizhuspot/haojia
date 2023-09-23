@@ -1,98 +1,100 @@
 ---
-title: AI时代,设计师如何找到自己的出路？
+title: AI era, how designers find their way out?
 date: 2023-07-25 18:05:37
-categories:
-  - 设计师工具
-tags:
-  - AI时代
-  - 深度学习
-  - 设计师工具
-  - 人工智能
-  - 设计艺术
-  - 创意设计
-  - Ai工具
-  - 字体设计
-  - 颜色搭配
-  - 自动化
-description: 本文分享了5个好用的设计师工具，助力设计师更好的理解创作工具，对于未来设计师何去何从提供了建议。
+categories：
+  - Designer Tools
+tags: 
+  - AI Era
+  - Deep Learning
+  - Designer Tools
+  - Artificial Intelligence
+  - Art of Design
+  - Creative Design
+  - Ai Tools
+  - Fonts
+  - Color Matching
+  - Automation
+description: This article shares 5 great designer tools to help designers better understand the creative tools, and offers suggestions on where designers should go in the future.
 
 cover: https://s2.loli.net/2023/07/30/bOzCPk8sQMNDIiu.png
 
 ---
-## 以深度学习为驱动力的创新的、自动化设计工具：
+## Innovative, automated design tools driven by deep learning:
 
-1. [Colormind](http://colormind.io/)：色彩搭配的魔术师
+1. [Colormind](http://colormind.io/): the color matching magician!
 
 ![](https://s2.loli.net/2023/07/30/9AbrSoq14RKzpL3.png)
 
-抛开乏味的色彩搭配，让你的设计焕发新的生命力。从艺术感还是商业价值，Colormind都能为你提供最合适的色彩方案。
+Throw away boring color schemes and give your designs a new lease of life. From artistic sense to commercial value, Colormind can provide you with the most suitable color scheme.
 
-2. [Fontjoy](https://fontjoy.com/)：字体的乐园
+2. [Fontjoy](https://fontjoy.com/): A paradise of fonts!
 
 ![](https://s2.loli.net/2023/07/30/MjwfPKs6hOxpmJF.png)
 
-还在为选择哪款字体而纠结吗？Fontjoy为你提供丰富的字体组合建议，让你的设计作品焕然一新。但记住，它只是一个建议，不要全盘照搬哦！
+Still struggling with which font to choose, Fontjoy offers you a wealth of suggestions for font combinations that will give your design work a new look. But remember, it's just a suggestion, don't copy it wholesale!
 
-3. [Google autodraw](https://www.autodraw.com/)：绘图小能手
+3. [Google autodraw](https://www.autodraw.com/): Drawing small can do!
 
 ![](https://s2.loli.net/2023/07/30/rso1qGPenxjZIWt.png)
 
-Google AutoDraw是你创意的绘图助手。告别单调的文字描述，AutoDraw为你生成丰富插图，让你的图文作品更加生动有趣。
+Google AutoDraw is your creative drawing assistant. Say goodbye to monotonous text descriptions, AutoDraw generates rich illustrations for you, making your graphic works more vivid and interesting.
 
-4. [Brandmark](https://brandmark.io/)：LOGO设计师的福音
+4. [Brandmark](https://brandmark.io/): A boon for logo designers!
 
 ![](https://s2.loli.net/2023/07/30/QUtAZ58ITO4YVma.png)
 
-Brandmark为你的LOGO选择提供一站式服务。不仅适用于商业用途，还能帮助消费者更好地记住你的品牌，为你的公司定位找到最佳的视觉呈现。
+Brandmark is a one-stop shop for your logo choices. Not only suitable for business use, but also help consumers remember your brand better and find the best visual presentation for your company's positioning.
 
-5. [Adobe sensei](https://www.adobe.com/sensei.html)：设计小助手
+5. [Adobe sensei](https://www.adobe.com/sensei.html): Design Assistant Jr.
 
 ![](https://s2.loli.net/2023/07/30/lrLoupWQIwM5vVH.png)
 
-Adobe Sensei是设计师们的得力助手。它简化了繁琐的任务，让你能够专注于设计工作，提高效率。
+Adobe Sensei is a handy assistant for designers. It simplifies tedious tasks so you can focus on your design work and increase efficiency.
 
-## 深度学习分析
+## Deep Learning Analytics
 
-大多数深度学习工具的共同点是，在设计过程中消除了繁琐的部分，可以在原型设计和测试过程中加速不同的组合。这些工具虽然有功能，但无法判断什么设计是有效正确的选择，即使看起来不错的设计也都是不错的。设计师仍需在设计过程中筛选深层学习的结果。
+What most deep learning tools have in common is that they eliminate the tedious part of the design process and can accelerate different combinations during prototyping and testing. These tools, while functional, can't tell what designs are valid and correct choices, even if the designs that look good are all good. Designers still need to sift through the results of deep learning during the design process.
 
-目前我们面临的情况与33年前的出版业相似。与当时电脑和排版技术迅速发展的情况相似。数字化排版技术开始淘汰传统的活字印刷技术。
+The situation we currently face is similar to that of the publishing industry 33 years ago. Similar to the time when computers and typesetting technology were rapidly evolving. Digital typesetting technology is beginning to phase out traditional movable type printing technology.
 
 ![](https://s2.loli.net/2023/07/30/BvXej26CrEk8AzW.png)
 
-## 虽然深度学习还未到达完美，但我们很清楚地看到正在发生变化。
+## While deep learning hasn't reached perfection yet, it's clear to see that change is occurring.
 
-单调繁琐的平面设计方法和传统的杂志排版方式，新技术和新工具的冲击中，面临着濒临灭绝，仅把它数字印刷技术的设计师，字体可以不改变秒活字往返运输也不再具有破坏性影响，调整配置和编辑设计在电脑前就可以快速解决的事情。
+Monotonous and cumbersome methods of graphic design and traditional magazine typesetting, the impact of new technology and new tools, facing extinction, only to put it digital printing technology designers, fonts can not change seconds of the movable type back and forth transport also no longer have a devastating impact, adjust the configuration and editing the design in front of the computer can be a quick solution to the matter.
 
-工具减少了设计过程中的时间消耗，甚至消除了一些原来存在的物理磨损。更灵活的工具提供更自由的创作过程，但人们仍然需要遵循设计原则和规范来计算出正确的结果。
-深入学习也是如此。
+Tools reduce the time consumption in the design process, and even eliminate some of the physical wear and tear that originally existed. More flexible tools provide more freedom in the creative process, but one still needs to follow design principles and specifications to compute the right results.
+The same is true for deep learning.
 
-现在让我们来谈谈一个引人入胜的话题 - 如何利用人工智能进行设计。虽然这看似是一个崭新且充满挑战的领域，但这个话题已经反复提出，却仍面临许多挑战。这些挑战不仅来自技术的限制，还来自用户和设计师对于更高标准和更快速度的追求。
+Now let's talk about a fascinating topic - how to design with artificial intelligence. While this may seem like a new and challenging area, the topic has been raised over and over again, yet it still faces many challenges. These challenges come not only from the limitations of the technology, but also from users' and designers' quest for higher standards and faster speeds.
 
-想象一下，如果你可以让电脑像人一样学习新的知识，或者让设计工具像人一样理解并回应你的每一个需求，那将会是怎样的场景？随着时间的推移和技术的进步，这种设想正逐渐接近现实。用户对于这项技术的期待也会水涨船高，他们希望看到更为智能、精细甚至有时令人惊叹的设计。
+Imagine what it would be like if you could make computers learn new things like people do, or design tools understand and respond to your every need like people do. With the passage of time and the advancement of technology, this vision is getting closer to reality. Users' expectations of this technology will also rise, and they will want to see smarter, more refined and even sometimes amazing designs.
 
 ![](https://s2.loli.net/2023/09/14/A8RqdygFN24tLuz.png)
 
-看看近年来的科技巨头们，例如苹果和谷歌，他们已经开始在移动终端设备中融入图像、视频编辑功能以及AI辅助功能。这些功能的目标都是为了满足消费者对于更智能、更便捷、更高效的产品体验的追求。可以预见，随着技术的不断发展，自动化和智能化将成为许多消费者眼中的产品应有的基本功能。
+Look at the tech giants in recent years, such as Apple and Google, who have begun to incorporate image and video editing features as well as AI-assisted features in their mobile devices. The goal of all these features is to fulfill consumers' pursuit of a smarter, more convenient and efficient product experience. It is foreseeable that as technology continues to evolve, automation and intelligence will become the basic functions that many consumers believe products should have.
 
-然而，这也带来了新的挑战。产品和体验的设计将变得更加活跃，设计师们需要调整自己的设计工具、工作流程甚至设计思维来应对这种变化。非响应式设计已经不能满足用户的需求，设计师们需要定义问题，并以真实、动态的数据为基础，设计出更加柔软、兼容性强的产品。
+However, this also brings new challenges. The design of products and experiences will become more dynamic, and designers will need to adapt their design tools, workflows and even design thinking to cope with this change. Non-responsive design can no longer meet the needs of users, and designers will need to define problems and design softer, more compatible products based on real, dynamic data.
 
-那么，这是否意味着设计师需要寻找新的工作方法呢？答案是肯定的。更快、更聪明的工具将使设计师更加聚焦于用户和产品本身。尽管设计看起来越来越容易，但创造出优秀的创意并使其所有要素和功能完美运转仍然是一件复杂而困难的事情。
+So, does this mean that designers need to find new ways of working? The answer is yes. Faster, smarter tools will allow designers to focus more on the user and the product itself. While design seems to be getting easier, creating great ideas and making all their elements and functions work perfectly is still a complex and difficult task.
 
-那么，作为设计师的我们应如何应对未来呢？首先，设计师需要理解和掌握技术与设计之间的关系，理解它们是如何与人类联系和工作的。这将是你立足未来的基础。其次，作为一名设计师，你必须能够发现问题并解决问题，使整个系统合理化。
+So how should we as designers respond to the future? First and foremost, designers need to understand and grasp the relationship between technology and design, and how they connect and work with humans. This will be your foundation for the future. Secondly, as a designer you must be able to identify problems and solve them to rationalize the whole system.
 
-那么，AI能否取代设计师的角色呢？这个问题并非你我所关心的。设计师并不需要寻找新的工作（除非你的工作仅仅是文案或机械性的工作）。相反，设计师需要开始深入研究并思考整个系统和规则，以便更好地利用自动化系统和深度学习技术的新世界。
+So, can AI replace the role of the designer? This question is not one that concerns you or me. Designers don't need to look for a new job (unless your job is merely clerical or mechanical). Instead, designers need to start digging deeper and thinking about the entire system and rules in order to better utilize the new world of automated systems and deep learning technologies.
 
-## 那么，AI设计师应如何才能发挥最大的才能呢？他们可以通过几种方式来实现：
+## So how should AI designers be able to maximize their talents? They can do so in several ways:
 
-熟练掌握AI设计工具，如Adobe Illustrator、InDesign、Photoshop等。此外，他们还需要了解各种算法和模型，例如GAN、AutoEncoder等，以便生成更高质量的图像和多样化的创意。
+![](https://s2.loli.net/2023/09/23/ATskt8qnVWZ4UdO.png)
 
-提高数据处理能力。AI设计师需要具备一定的数据处理能力，例如数据清洗、数据预处理等，以便为模型训练提供更加准确、高效的数据输入。
+Become proficient in AI design tools such as Adobe Illustrator, InDesign, Photoshop, and so on. In addition, they need to understand various algorithms and models, such as GAN, AutoEncoder, etc., in order to generate higher-quality images and diverse ideas.
 
-增强创新思维能力。AI设计师需要不断拓展自己的创新思维能力以便为生成更有创意、多样化的设计方案提供更多的灵感。
+Enhance data processing skills.AI designers need to have certain data processing skills, such as data cleaning, data preprocessing, etc., in order to provide more accurate and efficient data input for model training.
 
-培养审美能力。AI设计师需要具备一定的审美能力以便为生成更优美、个性化的设计方案提供更多的灵感。可以通过多欣赏优秀的作品、关注时尚潮流等方式来提高自己的审美能力。
+Enhance creative thinking ability: AI designers need to continuously expand their creative thinking ability to provide more inspiration for generating more creative and diversified design solutions.
 
-不断学习和探索新的技术和趋势以便不断提高自己的设计水平和能力。可以通过参加培训、阅读专业书籍、关注行业动态等方式来保持自己的竞争力。
+Cultivate aesthetic ability: AI designers need to have certain aesthetic ability in order to provide more inspiration for generating more beautiful and personalized design solutions. You can improve your aesthetic ability by appreciating excellent works and paying attention to fashion trends.
 
-总的来说，AI设计师需要不断学习和提高自己的技能和素质以便更好地发挥自己的才能和价值。面对未来，设计师们需要拥抱变革，与时俱进，不断探索和创新以满足用户日益增长的需求和期待。
+Continuously learn and explore new technologies and trends in order to improve your design level and ability. You can maintain your competitiveness by attending trainings, reading specialized books, and paying attention to industry trends.
+
+Overall, AI designers need to keep learning and improving their skills and qualities in order to better utilize their talents and values. In the face of the future, designers need to embrace change, keep pace with the times, and continue to explore and innovate to meet the growing needs and expectations of users.
 

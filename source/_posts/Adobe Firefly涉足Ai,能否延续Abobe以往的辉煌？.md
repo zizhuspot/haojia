@@ -1,99 +1,99 @@
 ---
-title: Adobe Firefly涉足Ai,能否延续Abobe以往的辉煌？
+title: Adobe Firefly into Ai, can continue the past glory of Abobe?
 date: 2023-09-8 19:42:39
 categories:
-  - Ai工具
+  - Ai Tools
 tags:
   - Ai
-  - 人工智能
-  - Ai工具
+  - Artificial Intelligence
+  - Ai Tools
   - Adobe
   - Adobe Firefly
   
-description: 本文着重介绍了Adobe旗下新的创新，生产力工具加持Ai会有什么化学反应？AIGC的竞争是否进入白热化阶段？
+description: This article highlights new innovations under the Adobe umbrella, what will be the chemistry of productivity tools plus Ai, and is the competition for AIGC entering a white-hot stage?
 
 cover: https://s2.loli.net/2023/09/08/cT1WDZXSNYHr9AF.png
 
 ---
 
-年初的时候，[Adobe](https://www.adobe.com/)公司宣布旗下产品加入AI功能，adobe公司相信大家都耳熟能详了，旗下的photoshop、after effect等知名软件的开发公司，这次这些产品加入ai功能，能擦出什么样的火花？让我们拭目以待。
+At the beginning of the year, [Adobe](https://www.adobe.com/) company announced that its products to join the AI function, adobe company believe that we are all familiar with the company, its photoshop, after effect and other well-known software development company, this time these products to join the ai function, can rub what kind of spark? Let us wait and see.
 
-目前大热的ai产品例如chatgpt、stable diffusion、midjourney都已经融到了很大的资本，adobe公司作为设计行业的鼻祖之一，肯定也不会袖手旁观，因为财大气粗的adobe公司才收购了figma，所以不太可能继续收购midjourney。
+Currently hot ai products such as chatgpt, stable diffusion, midjourney have been financed to a great capital, adobe as one of the originators of the design industry, certainly will not stand idly by, because of the rich and powerful adobe company just acquired figma, so it is unlikely to continue to acquire midjourney. The company is not likely to continue to acquire midjourney because adobe has just acquired figma.
 
 ![](https://s2.loli.net/2023/09/08/iS9WKHxtugpUFh7.png)
 
-国外产品都开始扎堆更新与发布新的内容，比如百度的文心一言，midjourney v5引擎，adobe顺势而为发布了Firework，显然有一种竞争白热化的感觉。
+Foreign products are beginning to pile up updates and release of new content, such as Baidu's Wenxin Yiyin, midjourney v5 engine, adobe homeopathic release of Firework, obviously there is a feeling of competition white-hot.
 
-Adobe 旗下分管 AIGC 和 Sensei 的高级副总裁 Alexandru Costin 在接受采访时说道:“我们不惧怕变化，正在拥护这种变化”。
+Adobe's division of the AIGC and Sensei's senior vice president Alexandru Costin said in an interview: "We are not afraid of change, are embracing this change."
 
-## Adobe Firefly功能简介
+## Adobe Firefly feature profile
 
 ![](https://s2.loli.net/2023/09/08/JDsw2ClbT9MkjNt.jpg)
 
-如果你仔细观察今天Firefly生成的产品，你会发现今天Adobe的人工智能生成的内容质量还没有与当前主流的Midjourney和Stable Diffusion拉开距离。
+If you take a closer look at today's Firefly-generated products, you'll see that the quality of today's Adobe AI-generated content hasn't yet distanced itself from the current mainstream of Midjourney and Stable Diffusion.
 
-然而，Adobe作为设计界的主导者的背景怎么强调也不为过。 Adobe作为业界乃至全球最著名的设计工具服务商，在工具的研发方面确实拥有得天独厚的先发优势。
+However, Adobe's background as a dominant player in the design world cannot be overemphasized. Adobe as the industry and even the world's most famous design tools service provider, in the development of tools does have a unique first-mover advantage.
 
-Adobe Firefly 目前仍处于测试阶段。收到邀请后，您将能够在网络上使用此服务。目前，Firefly有2个基本功能，其中之一是“文本转图像”，其功能与Midjourney类似。输入提示生成对应的图片：
+Adobe Firefly is still in beta. After receiving an invitation, you will be able to use this service on the web. Currently, Firefly has 2 basic functions, one of which is "Text to Image", which is similar to Midjourney. Enter the prompt to generate the corresponding image:
 
 ![](https://s2.loli.net/2023/09/08/BvzsZVJhOoKlHcW.png)
 
-不过，与 Midjourney 不同的是，Adobe 在右侧边栏中提供了更多选项和功能。用户可以更精确地控制生成内容的图像比例、内容特征、风格、色彩风格、色调和光线属性。这些详细的控制使得设计者除了使用提示文本指令之外还可以获得更详细的尺寸。
+However, unlike Midjourney, Adobe offers more options and features in the right sidebar. Users have more precise control over the image scale, content features, styles, color styles, tones, and lighting attributes of the generated content. These detailed controls allow designers to get more detailed dimensions in addition to the prompt text commands.
 
-另一个工具是“文本效果”，它基于字体。 Adobe已经消化了收购的字体服务Typekit，并将其转换为自己的Adobe Fonts服务。因此，在Text Effces服务中，Adobe直接提供字体作为基础。用户可以直接在右侧边栏中选择自己想要使用的字体，然后在页面底部的提示输入字段中写入想要生成的效果，然后控制字体布局、配色、样式和生成效果详细。
+Another tool is Text Effects, which is based on fonts. Adobe has digested the acquisition of the font service Typekit and converted it into its own Adobe Fonts service. Therefore, in the Text Effces service, Adobe directly provides fonts as the basis. Users can directly in the right sidebar to select the fonts they want to use, and then in the bottom of the page in the prompt input field to write the effect you want to generate, and then control the font layout, color scheme, style and generate the effect details.
 
 ![](https://s2.loli.net/2023/09/08/fs3QqLb6AaZp1TJ.png)
 
-此外，还有一个名为“重新着色矢量”的功能即将推出，它将根据您的提示为您的设计作品生成不同的变化。具体功能细节要等上线后才能知道。与稳定扩散和中途相比，目前Firefly提供的效果在细节功能上稍微前进了一步，但并没有拉开差距。
+There is also a feature coming soon called "Recolor Vector" that will generate different variations of your design based on your prompts. Details of this feature will not be available until it goes live. Compared to Stable Diffusion and Midway, the effects currently available in Firefly are a slight step forward in terms of detailed functionality, but they don't close the gap.
 
-值得注意的是，Adobe Firefly提供的功能与介绍视频中的要点有很大不同。
+It's worth noting that the features offered by Adobe Firefly are quite different from the points made in the introductory video.
 
 ![](https://s2.loli.net/2023/09/08/53UkcavtGPl6qIe.png)
 
-## Firefly 将如何与 Adobe Family Bucket 集成？
+## How will Firefly integrate with Adobe Family Bucket?
 
-头部的 Midjourney 和 Stable Diffusion 仍然忙着迭代自己的算法引擎。即使是Adobe这样的大公司，也没有办法在有限的时间内直接将Firefly嵌入到Adobe全家桶中，这些功能既复杂又庞大。
+The head honchos Midjourney and Stable Diffusion are still busy iterating their algorithmic engines. Even a big company like Adobe doesn't have the means to embed Firefly directly into the Adobe Family Bucket for a limited time, these features are complex and large.
 
 ![](https://s2.loli.net/2023/09/08/A8fdPzHSbK2qsle.png)
 
-据报道，Adobe计划逐步将Firefly的功能整合到现有的FamilyMart会员中。例如，提示词可以用来在Photoshop中生成材质。例如，Adobe Illustrator中的手绘内容将能够在人工智能的支持下生成不同的变化。 ，您还可以使用Pr中的提示直接调整特定图片的色彩效果。
+Adobe reportedly plans to gradually integrate Firefly's features into existing FamilyMart members. For example, cue words can be used to generate materials in Photoshop. For example, hand-drawn content in Adobe Illustrator will be able to generate different variations with the support of artificial intelligence. , you can also use the cues in Pr to directly adjust the color effect of a specific image.
 
-结合Adobe官网提供的演示，我们可以一睹未来的设计方式：
+Combined with the demo available on Adobe's website, we can get a glimpse of the future of design:
 
 ![](https://s2.loli.net/2023/09/08/u7Tom5hlx4PHLVc.png)
 
-使用提示命令prompt凭空“创造”设计素材，直接融入视觉内容，快速执行创意。根据现有的简单草图生成自定义矢量文件、画笔和纹理图案，以进行深入编辑。使用提示修改视频内容的视觉内容，甚至完全修改场景的天气效果。
+Use the prompt command prompt to "create" design material out of thin air, directly into the visual content, and quickly execute ideas. Generate custom vector files, brushes and texture patterns from existing simple sketches for in-depth editing. Use prompts to modify the visual content of video content, or even completely change the weather effects of a scene.
 
 ![](https://s2.loli.net/2023/09/08/RJZ9pTMns8u1Ovo.png)
 
-您甚至可以上传整个情绪板材料，并使用提示命令为社交媒体生成原始的、可直接使用的图形和文本布局。这些内容可以准确匹配横幅、海报等物质形式。
+You can even upload entire moodboard materials and use the prompt commands to generate original, ready-to-use graphics and text layouts for social media. This content can be accurately matched to banners, posters, and other material forms.
 
 ![](https://s2.loli.net/2023/09/08/pFD9OHek6RKvdta.png)
 
-更富有想象力的是未来的3D设计。在Firefly的支持下，可以直接生成逼真的3D图形，并且可以快速生成3D内容的变体和材质。
+Even more imaginative is the future of 3D design. With Firefly's support, realistic 3D graphics can be generated directly, and variants and materials for 3D content can be generated quickly.
 
 ![](https://s2.loli.net/2023/09/08/63jfCVaSG574Dn2.png)
 
-对比这些演示，有很大的想象空间，但 Adobe 尚未透露升级这些功能的具体时间表。谷歌和百度目前处于类似阶段，先制定计划再实施，拭目以待。
+Comparing these demos, there's a lot of room for imagination, but Adobe has yet to reveal a specific timeline for upgrading these features. Google and Baidu are currently in a similar stage, making plans before implementing them, so we'll see what happens.
 
-## Adobe对于人工智能的态度是什么？
+## What is Adobe's attitude towards AI?
 
-Adobe想要发展人工智能的同时，也站在创作者一边，减少创意工作者对人工智能创作的抵触情绪。
+Adobe wants to develop AI while also siding with creators and reducing the resistance of creative workers to AI creation.
 
-Adobe也是为数不多的真正探索人工智能训练输入源的平台之一。根据Adobe目前披露的信息，Adobe使用的训练数据主要来自于已经过了版权保护期的内容，或者已经获得训练许可并存在于Adobe Stock库中的内容。这些经过授权、属于Adobe自有内容，让Adobe作为创意产业的核心，有信心利用AIGC技术面对艺术设计行业同行的审视。
+Adobe is also one of the few platforms that is really exploring sources of input for AI training. According to Adobe's current disclosure, the training data used by Adobe mainly comes from content that has passed the copyright protection period, or content that has been licensed for training and exists in the Adobe Stock library. This licensed, Adobe-owned content gives Adobe, as the core of the creative industry, the confidence to use AIGC technology to face the scrutiny of their peers in the art and design industry.
 
 ![](https://s2.loli.net/2023/09/08/1d954MtWVBo6CRE.png)
 
-科斯汀在接受采访时表示：“我们正在设计生成式人工智能，让创作者能够从他们的技能和创造力中受益。
-Adobe 还计划向贡献培训数据的艺术家付费。具体补偿方案将在测试版本正式结束前公布。
+We're designing generative AI so that creators can benefit from their skills and creativity," Kostin said in an interview.
+Adobe also plans to pay artists who contribute training data. The exact compensation plan will be announced before the beta version officially ends.
 
-另一方面，Adobe正在制定一项名为“Do Not Train”的协议。设计师和艺术家可以将拒绝使用作品作为训练数据的声明嵌入到作品的元数据中。不过，目前该协议对 Adobe 来说仍然是单方面的。该计划尚未收到其他 AIGC 服务提供商的反馈。
+On the other hand, Adobe is working on a protocol called "Do Not Train". Designers and artists will be able to embed a statement of refusal to use their work as training data in the metadata of their work. For now, however, the agreement remains unilateral for Adobe. The program has not yet received feedback from other AIGC service providers.
 
-## 总结：
+## Summary:
 
 ![](https://s2.loli.net/2023/09/08/cT1WDZXSNYHr9AF.png)
 
-Adobe的加入是不可避免的，但Adobe Firefly仍处于早期阶段。想要像宣传视频中那样使用Adobe全家桶的设计师可能要等待很长时间。我们仍需继续观察Adobe的产品（以及其他AIGC服务）如何保护创作者的权利。
+Adobe's inclusion was inevitable, but Adobe Firefly is still in its early stages. Designers who want to use the Adobe family bucket like in the promotional video may have to wait a long time. We still need to continue to see how Adobe's products (and other AIGC services) protect creators' rights.
 
 
 

@@ -1,90 +1,90 @@
 ---
-title: 干货分析！目前市面上哪个Ai智能图像生成工具最强？
+title: Dry Analysis! Which Ai Smart Image Generator is the strongest on the market today?
 date: 2023-08-05 17:49:21
 categories:
-  - Ai绘图
+  - Ai Drawing
 tags:
-  - Ai绘图
-  - 人工智能
-  - 机器学习
-  - Ai工具
-  - 艺术创作
-  - 创意设计
-description: 本文对目前市面上的主流Ai智能图像生成器做了全面对比，方便你使用最适合自己的工具，提高你的创作效率。
+  - Ai drawing
+  - Artificial Intelligence
+  - Machine Learning
+  - Ai Tools
+  - Artistic Creation
+  - Creative Design
+description: This article makes a comprehensive comparison of the mainstream Ai intelligent image generators currently on the market, so that you can use the most suitable tool for yourself and improve your creative efficiency.
 cover: https://s2.loli.net/2023/08/05/SRpuAG3b15qzCmM.png
 ---
 
-干货分析！目前市面上哪个Ai智能图像生成工具最强？
+Dry Analysis! Which Ai Intelligent Image Generator tool is the strongest on the market today?
 
-直接下结论，我认为 [Bing Image Generator](https://www.bing.com/create) 是最好的 AI智能图像生成器，但其他 AI智能图像生成器可以为您的特定需求提供更好的性能。
+To jump straight to the conclusion, I think [Bing Image Generator](https://www.bing.com/create) is the best AI Intelligent Image Generator, but other AI Intelligent Image Generators can provide better performance for your specific needs.
 
 ![](https://s2.loli.net/2023/08/05/ibUNxEcuMTK9YkP.png)
 
-例如，如果您在业务中专业使用 AI智能图像生成器，您可能需要像 [Midjourney](https://www.midjourney.com/showcase/recent/) 这样的工具来提供一致、可靠和高质量的输出。
+For example, if you use AI Smart Image Generator professionally in your business, you may need a tool like [Midjourney](https://www.midjourney.com/showcase/recent/) to provide consistent, reliable, and high-quality output.
 
 ![](https://s2.loli.net/2023/08/05/MxquWAOFcKe3tJN.png)
 
-另一方面，如果您只是为了好玩而想尝试人工智能艺术生成，[Craiyon](https://www.craiyon.com/)可能是您的最佳选择，因为它是免费且无限制的。
+On the other hand, if you want to try AI art generation just for fun, [Craiyon](https://www.craiyon.com/) may be your best choice as it is free and unlimited.
 
 ![](https://s2.loli.net/2023/08/05/SRpuAG3b15qzCmM.png)
 
-下面的表格将市场上主流的Ai智能图像生成器做了全面对比：
+The table below provides a comprehensive comparison of the leading Ai Smart Image Generators on the market:
 
-| Ai智能图像生成器       | 价格 |         出图速度 |  运行环境  |   主要特点|   
+| Ai Smart Image Generator | Price | Output Speed | Operating Environment | Key Features|   
 | --------- | -- | ----------- |-------|------- | 
-| **Bing Image Creator** |  免费 | 快| WEB| 由 DALL-E 提供支持，可通过必应聊天工具和浏览器访问，使用简单快捷  |   |
-| **DALL-E 2 by OpenAI**   | 免费+资格|快 | WEB| 精确描绘，详细输入，每个资格生成四个图像 |    
-| **DreamStudio by Stability AI** | 免费+资格| 快 |WEB| 可轻松完全定制的高质量效果图  |    
-| **Dream by WOMBO** |  免费+订阅  |快| 手机+桌面 | 逼真再现、多种模板、混搭你自己的图像  |    
-| **Craiyon** |  免费  | 慢 | WEB| 无限制提示，界面简单明了 |    
-| **Midjourney** |  8美元/月  | 快 |WEB| 最高质量的照片，Discord 社区，创作各种用途的艺术作品 |    
-| **MyHeritage's AI Time Machine** | 免费 | 慢 |WEB| 为您创建历史肖像，输出精确，非常适合制作个人资料照片表  | 
+| **Bing Image Creator** | Free | Fast | WEB | Powered by DALL-E, accessible via Bing Chat and Browser, easy and fast to use | |
+| **DALL-E 2 by OpenAI** | Free + Qualification | Fast | WEB| Accurate depiction, detailed input, four images generated per qualification |    
+| **DreamStudio by Stability AI** | Free+Qualification| Fast | WEB| High-quality renderings that can be easily fully customized |    
+| **Dream by WOMBO** | Free+Subscription | Fast | Mobile+Desktop | Realistic reproduction, multiple templates, mix and match your own images |    
+| **Craiyon** | Free | Slow | WEB | Unlimited tips, simple and clear interface |    
+| **Midjourney** | $8/month | Fast |WEB| Highest quality photos, Discord community, create art for all purposes |    
+| **MyHeritage's AI Time Machine** | Free | Slow |WEB| Creates historical portraits for you with accurate output, great for profile photo sheets | 
 
-## 关于Ai智能图像生成器，你需要知道这些...
+## All you need to know about Ai Smart Image Generator...
 
 ![](https://s2.loli.net/2023/08/05/nwkmDWMVEgGhvi5.png)
 
-| Ai智能图像生成器       | 如果你想... |
+| Ai Smart Image Generator | If you want to... | Ai
 | --------- | -- |
-| **Bing Image Creator** | 最佳的AI艺术生成器.如果您可以访问Bing Chat，您可以在与机器人聊天并得到所有问题的答案的同时满足所有艺术生成需求.该艺术生成器可靠、快速、易用. |
-| **DALL-E 2 by OpenAI** | 最佳AI艺术生成器，它结合了准确性、速度和成本效益.它允许用户快速轻松地生成高质量的图像，是艺术家、设计师和任何想要创建独特和原创内容的人的理想工具.  |
-| **DreamStudio by Stability AI** | 最佳可定制的AI艺术生成器，包括UI中的工具，使您轻松获得所需的精确版本.字段包括大小、风格、负面提示、图像提示等.  |
-| **Dream by WOMBO** | 最适合手机的AI艺术生成器，具有多个模板、逼真的再现和移动应用程序.它还有一个免费的有限访问版本，是那些不想花太多钱的人的绝佳选择.  |
-| **Craiyon** | 最佳地完全免费的AI艺术生成器，具有无限提示和简单直观的界面.  |
-| **Midjourney**  | 最好的人工智能艺术生成器，可实现高质量渲染和清晰图像。它有 Discord 社区，您可以在其中共享和查看其他用户的结果。 |
-| **MyHeritage's AI Time Machine** | 最好的人工智能自画像艺术生成器。无论您的年龄如何，您都可以创建准确的图像。等待的时间很长，但结果非常适合我的个人资料图片。 |
+| **Bing Image Creator** | Best AI Art Generator. If you have access to Bing Chat, you can fulfill all your art generation needs while chatting with a bot and getting all your questions answered. The art generator is reliable, fast and easy to use. |The art generator is reliable, fast and easy to use.
+| **DALL-E 2 by OpenAI** | The best AI art generator that combines accuracy, speed and cost-effectiveness. It allows users to generate high quality images quickly and easily and is the ideal tool for artists, designers and anyone who wants to create unique and original content.  |It is the ideal tool for artists, designers and anyone who wants to create unique and original content.
+| **DreamStudio by Stability AI** | The best customizable AI art generator, including tools in the UI that make it easy to get the exact version you need. Fields include Size, Style, Negative Tips, Image Tips and more.  |
+| **Dream by WOMBO** | The best AI art generator for cell phones with multiple templates, realistic reproductions and a mobile app. It also has a free limited access version, perfect for those who don't want to spend too much money.  |Craiyon
+| **Craiyon** | The best completely free AI art generator with unlimited tips and a simple intuitive interface.  | **Midjourney
+| **Midjourney** | The best AI art generator for high quality rendering and clear images. It has Discord community where you can share and view other users' results. |
+| **MyHeritage's AI Time Machine** | The best Artificial Intelligence self-portrait art generator. You can create accurate images regardless of your age. The wait is long, but the results are perfect for my profile picture. |
 
-## **-更多问题？**
+## ** - More questions? **
 
-### - *我们如何选择这个人工智能图像生成器？*
+### - **How did we choose this AI image generator? | ## ### - #### How do we choose this AI image generator?
 
-为了寻找最佳的ai图像生成器，我测试了列表中的每个生成器，并比较了它们的性能。测试性能的元素包括用户界面/用户体验、图像、成本、速度和可用性。每个ai图像生成器都有不同的优点和缺点，因此每个生成器都非常适合不同的人，这一点在我的选择列表旁边。
+To find the best ai image generator, I tested each generator in the list and compared their performance. Elements tested for performance include UI/UX, images, cost, speed and usability. Each ai image generator has different pros and cons, so each generator is perfect for different people, which is next to my list of choices.
 
-### - *什么是人工智能图像生成器？*
+### - * What is an AI image generator? *
 
-人工智能艺术生成器(ai arts generator)是一种使用人工智能从用户输入的文本中生成图像的软件，通常只需几秒钟。图像风格根据软件的功能有所不同，但通常可以显示三维、二维、电影、现代、文艺复兴等所有类型的图像。
+An AI art generator (ai arts generator) is a type of software that uses artificial intelligence to generate images from user-entered text, usually in a matter of seconds. Image styles vary depending on the features of the software, but all types of images such as 3D, 2D, cinematic, modern, renaissance, etc. can usually be displayed.
 
-### - *人工智能图像生成器是如何工作的？*
+### - *How does an AI image generator work? *
 
-与其他所有人工智能模型一样，人工智能艺术生成器也以所学数据为基础进行训练。通常，这些模型会对数十亿图像进行训练，并分析图像的特征。模型利用这种洞察力创造新的形象。
+Like all other AI models, AI art generators are trained on learned data. Typically, these models are trained on billions of images and analyze the features of the images. The models use this insight to create new images.
 
-### - *人工智能图像生成器有伦理问题吗？*
+### - * Is there an ethical problem with AI image generators? *
 
-人工智能图像生成器可以训练网络上的数十亿张图像。这些图像通常是特定艺术家的艺术作品，被人工智能艺术重新想象和重复使用，以生成你的图像。虽然不是同一张照片，但包含着不是作者所有的元素。
+Artificial intelligence image generators train billions of images on a network. These images, often works of art by specific artists, are reimagined and reused by AI art to generate your image. It's not the same photo, but it contains elements that are not owned by the author.
 
-### - *有可以代替dall-e 2的产品吗？*
+### - *Are there alternatives to dall-e 2? *
 
-和你想象的不一样，除了dall-e 2之外，还有很多人工智能的艺术生成器。有些生成器比openai的软件运行得更好。如果你想尝试不同的方法，请查看上面列出的方案中的一个，或者确认下面的三个追加选项。
+Contrary to what you might think, there are many art generators with artificial intelligence other than dall-e 2. Some generators run better than openai's software. If you want to try something different, check out one of the options listed above, or check out the three add-on options below.
 
-### 作为10年从业者，我对于ai工具的使用感悟：
+### My insights on the use of ai tools as a 10-year practitioner:
 
-在人工智能（AI）的广阔天地里，我浸淫了整整10年，与各种各样的AI工具结下了不解之缘。在此过程中，我不仅积累了丰富的实操经验，也深刻洞察了AI工具的灵魂。今天，我想和你分享这些宝贵的感悟，希望能为你在AI的旅程中提供指引。
+In the vast world of Artificial Intelligence (AI), I have immersed myself in it for 10 whole years, and have formed a bond with a wide variety of AI tools. In the process, I have not only accumulated rich hands-on experience, but also gained a deep insight into the soul of AI tools. Today, I'd like to share these valuable insights with you, in the hope that they can guide you on your AI journey.
 
-首先，AI工具的潜力几乎无穷无尽。想象一下，自然语言处理（NLP）就像一个魔法棒，能将浩如烟海的文本数据自动分类和标注，为机器学习算法的训练提供强大的支持。同时，AI工具还能化身为天才艺术家，通过图像识别创造独一无二的作品，或是在智能推荐系统中为我们推荐心仪的商品。更神奇的是，AI还能让语音识别变得像人与人之间的对话一样自然。
+First, the potential of AI tools is almost endless. Imagine Natural Language Processing (NLP) as a magic wand that can automatically classify and annotate vast amounts of text data, providing powerful support for the training of machine learning algorithms. At the same time, AI tools can also be transformed into talented artists, creating one-of-a-kind works of art through image recognition, or suggesting our favorite products in an intelligent recommendation system. Even more amazingly, AI can also make voice recognition as natural as a human-to-human conversation.
 
-然而，每个硬币都有两面，AI工具也不例外。在享受它们带来的便利的同时，我也深感它们的局限。一方面，AI工具可以自动化处理大量数据，提高工作效率，这是它们的巨大优势。另一方面，它们的效果在很大程度上受到数据质量和数量的限制。如果数据不足或质量差，AI工具的效果就会大打折扣，甚至可能得出错误的结果。此外，一些AI工具的性能稳定性还有待提高，使用时需要我们密切关注和调试。
+However, every coin has two sides, and AI tools are no exception. While enjoying the convenience they bring, I also deeply feel their limitations. On the one hand, AI tools can automate the processing of large amounts of data and improve work efficiency, which is their great advantage. On the other hand, their effectiveness is largely limited by the quality and quantity of data. If the data is insufficient or of poor quality, the effectiveness of AI tools will be greatly reduced, and they may even produce wrong results. In addition, the performance stability of some AI tools still needs to be improved, and we need to pay close attention and debug when using them.
 
-在我看来，要想更好地应用和发展AI工具，有几个关键点需要注意。首先，我们需要明确使用AI工具的目的和场景。只有当AI工具能够真正解决实际问题并提高工作效率时，我们才值得投入时间和精力去研究和应用。其次，关注AI工具的性能和稳定性至关重要。如果一个AI工具经常出现问题或运行缓慢，那么使用它所带来的效率提升就会大打折扣。最后，我们还需要关注AI工具的安全性和隐私保护。随着AI技术的不断发展，我们的个人信息和隐私也面临着越来越大的风险。因此，我们需要采取有效的措施来确保AI工具的安全性和隐私保护。在享受AI带来的便利的同时，我们也不能忽视对个人信息的保护。
+In my opinion, there are several key points to pay attention to in order to better apply and develop AI tools. First, we need to clarify the purpose and scenarios of using AI tools. Only when AI tools can really solve real problems and improve work efficiency is it worth investing our time and energy to study and apply them. Second, it is crucial to pay attention to the performance and stability of AI tools. If an AI tool often has problems or runs slowly, the efficiency gains from using it will be greatly reduced. Finally, we also need to focus on the security and privacy protection of AI tools. As AI technology continues to evolve, our personal information and privacy are at increasing risk. Therefore, we need to take effective measures to ensure the security and privacy protection of AI tools. While enjoying the convenience brought by AI, we should not neglect the protection of personal information.
 
 
 

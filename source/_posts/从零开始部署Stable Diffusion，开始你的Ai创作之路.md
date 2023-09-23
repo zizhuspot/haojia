@@ -56,7 +56,7 @@ Enter the SD installation folder, double click **webui-user.bat**, load it and u
 
 ## V. Step 5: Chinese Stable Diffusion
 
-If you need Chinese language pack, you can download the following Chinese language pack extension, the download interface URL: [https://github.com/VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/) stable-diffusion-webui-chinese)
+If you need Chinese language pack, you can download the following Chinese language pack extension, the download interface URL: [https://github.com/VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/) stable-diffusion-webui)
 
 ***Method: Installation via WebUI extension*** 1.
 

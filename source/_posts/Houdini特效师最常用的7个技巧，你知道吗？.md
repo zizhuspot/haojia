@@ -1,116 +1,115 @@
 ---
-title: Houdini特效师最常用的7个技巧，你知道吗？
+title: The 7 most common tricks used by Houdini effects artists.
 date: 2023-05-24 18:14:36
 categories:
-  - 设计师工具
-tags:
-  - Houdini使用技巧
-  - Houdini模拟
-  - Houdini渲染
-  - 特效软件
-  - 视觉设计
-  - 艺术设计
-  - 特效师
-  - 特效制作
-  - 设计师工具
-description: 7个特效师必会的节省时间技巧，学完节省您的工作时间，提高效率。
+  - Designer Tools
+tags: 
+  - Houdini Tips
+  - Houdini Simulation
+  - Houdini Render
+  - Special effects software
+  - Visualization
+  - Artistic Design
+  - Special Effects Artist
+  - Special Effects
+  - Designer Tools
+description: 7 time-saving tips for special effects artists to save you time and increase your efficiency.
 
 cover: https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png
 
 ---
 
-## 优化缓存和属性
+## Optimizing Caches and Properties
 
-Houdini是由多伦多的SideFX公司开发的3D动画软件程序，它其实就是一个魔法工具集，由神奇的Prisms重新组合而成。这些神奇的工具，可是专为产生各种神奇效果而生的哦，例如打造复杂的反射效果、魔法般的动画以及梦幻般的粒子系统。而且，从1987年开始，这些神奇的特性就一直在Houdini中闪闪发光哦。
+Houdini is a 3D animation software program developed by Toronto-based SideFX, which is actually a magical toolset made up of magical prisms. These magical tools are designed to produce a variety of magical effects, such as creating complex reflections, magical animations and fantastic particle systems. And they've been in Houdini since 1987.
 
-记住，在创建所有模拟时，务必使用魔法般的缓存哦。一旦使用了缓存，模拟就会变成Houdini的默认文件类型，存储为神秘的bgeo格式。这样，你就可以随时查看你缓存的模拟作品，更快地进行魔法编辑，时间也就自然而然节省下来啦。更重要的是，使用缓存可以让你更准确地观察模拟的所有部分，仿佛打开了魔法之眼。
+Remember, when creating all your simulations, be sure to use the magic cache. Once the cache is used, the simulation becomes Houdini's default file type, stored in the mysterious bgeo format. This way, you can view your cached simulations at any time and make magic edits faster, saving you time naturally. What's more, using the cache allows you to look at all parts of the simulation more accurately, as if opening your magical eye.
 
 ![](https://s2.loli.net/2023/07/26/oCMRun4bjZQODWv.png)
 
-接下来，你需要施展一个魔法，添加一些特殊的属性。在缓存文件前的神秘节点上做些调整，你就可以删除那些推迟模拟缓存时间的魔法属性了。那样的话，你的模拟将会更加流畅、自如哦。
+Next, you need to cast a spell and add some special properties. With a few tweaks to the mystic node in front of the cache file, you can remove the magical attributes that delay the simulation's cache time. That way, your simulation will be smoother and more comfortable.
 
-## 了解网络文件夹
+## Understanding network folders
 
-网络节点是Houdini中的一种神奇的类型，它们若隐若现，拥有各种不同的功能。如果你不清楚每个节点是做什么的，以及在何时何地需要用它，那么你就很难表达自己是如何创造一些东西，或是找到那个魔法般的特定节点。
+Network nodes are a magical type of node in Houdini that are invisible and have a variety of different functions. If you don't know what each node does and when and where you need to use it, it's hard to articulate how you create something or find that magic specific node.
 
-Houdini里藏着十种主要的节点类型，如同神秘的生物，它们各有各的特点和功能。有SOP、DOP、VOP、CHOP、ROP、COP、CVEX、SHOP和Objects等类型，每一种都有其独特的魔力。例如，SOP，这是一种表面水平操作符，它存在于对象内部，负责管理模拟表面上的任何变化。如果你想改变几何形状或属性，或者想保存模拟，就必须请SOP来帮忙。
+There are ten main types of nodes tucked away in Houdini, like mysterious creatures that each have their own characteristics and functions. There are SOP, DOP, VOP, CHOP, ROP, COP, CVEX, SHOP, and Objects types, each with its own unique magic. For example, SOP, which is a surface level operator, exists inside the object and is responsible for managing any changes on the surface of the simulation. If you want to change geometry or properties, or if you want to save the simulation, you have to ask the SOP to help.
 
-所以，了解每个节点的作用是多么重要！这样你就能在恰当的时间和地点，用正确的方式使用它们！
+That's why it's so important to understand what each node does! So you can use them in the right way, at the right time and place!
 
 ![](https://s2.loli.net/2023/07/26/fbvt5qYujmnyXDs.png)
 
-## 参考几何电子表格
+## Reference Geometry Spreadsheet
 
-几何电子表格标签是解开Houdini模拟实验奥秘的关键要素。这些标签就像是一个个小窗口，将隐藏的重要信息一览无余地展现在你的眼前，比如几何图形中每个属性的位置、它们如何随着时间的推移发生改变，以及这些属性的具体数值。这些信息就像是一把瑞士军刀，为解决问题提供了无数的可能。万一模拟实验中出现任何异常情况，你都可以通过查看几何表格来寻找藏匿的线索，从而揪出问题的根源。
+The Geometry Spreadsheet tabs are a key element in unlocking the mysteries of Houdini simulation experiments. These tabs are like little windows that reveal hidden important information at a glance, such as the location of each attribute in the geometry, how they change over time, and the specific values of those attributes. This information is like a Swiss army knife, offering countless possibilities for problem solving. In the unlikely event that anything out of the ordinary happens in a simulation, you can look at the geometry tables to find hidden clues to the root cause of the problem.
 
-每当你在网络视图中选择一个节点时，一个神奇的“宝盒”就会在模拟过程中逐一展示节点所统领的所有属性。你可以打开这个“宝盒”，观察其中的内容，比如属性的起始点或中途需要调整的地方。这些珍贵的信息就像是贴心的指南，帮助你调整和优化工作的每一个环节。让这个工具成为你工作中的得力助手，为你的创作之旅增添无尽的乐趣和惊喜！
+When you select a node in the network view, a magic "box" displays all the attributes of the node one by one during the simulation. You can open the box and observe its contents, such as the starting point of a property or where it needs to be adjusted in the middle of the process. This valuable information acts as a handy guide to help you adjust and optimize every aspect of your work. Let this tool be your right-hand man on the job, adding endless fun and surprises to your creative journey!
 
-## 选择渲染引擎
+## Choosing a rendering engine
 
-Houdini拥有一款名为mantra的强大渲染器，它宛如魔法之镜，能够将你的想象力以令人惊叹的视觉效果呈现出来。使用mantra，你可以在各种渲染引擎之间自由切换，但前提是你必须挑选出最适合你的具体情况的引擎。
+Houdini has a powerful renderer called mantra, which is a magic mirror that can bring your imagination to life with stunning visual effects. With mantra, you can freely switch between rendering engines, but only if you pick the one that best suits your specific situation.
 
-比如说，如果你希望在真实世界的照明环境下渲染出如照片般的栩栩如生，那么物理基础引擎就如同魔法一般，能够帮助你实现这个目标。这种引擎能够精确模拟光线在现实世界中的行为，带来极其逼真的视觉效果。
+For example, if you want to render photo-realistic lifelike renderings in real-world lighting environments, a physics-based engine works like magic to help you achieve that goal. This engine accurately simulates the behavior of light in the real world, resulting in extremely lifelike visual effects.
 
-而如果你需要渲染如云朵般轻盈且形状变化的体积，那么微多边形物理基础引擎则像是魔术师，能够以微妙而精准的方式塑造和渲染这些复杂的形状。
+If you need to render light and shapely volumes like clouds, then the Micropolygon Physics Base Engine is a magician, shaping and rendering these complex shapes with subtlety and precision.
 
-然而，最重要的是，你要懂得选择最适合你的渲染引擎来执行模拟。这样才能够将性能发挥到极致，呈现出最令人惊叹的图像。让魔法与科技共舞，创造出属于你的视觉盛宴吧！
+Most importantly, however, you need to know how to choose the best rendering engine for your simulation. This is how you can maximize performance and render the most stunning images. Let magic and technology dance together and create your own visual feast!
 
 ![](https://s2.loli.net/2023/07/26/SuwgdkWzh9q5HrT.png)
 
-## 将烘焙模式设置为手动
+## Setting Bake Mode to Manual
 
-烘焙，这是一个多么神秘而又诱人的过程啊！它就像是评估模拟网络中的节点以编织出一幅当前框架的场景之画。那么，你还在等什么呢？让我们一起揭开Houdini的烘焙控制的面纱，它在时间线的右上角等待着你的探索。
+Baking, what a mysterious and tantalizing process it is! It's like evaluating the nodes in a network of simulations in order to weave a picture of the scene in its current frame. So, what are you waiting for? Let's unveil Houdini's bake control, which is waiting to be explored in the upper right corner of the timeline.
 
-你可以通过调整Houdini烘焙控制的设置来巧妙地缩短模拟时间，这就像是一个魔法按钮，让你轻松驾驭时间。比如说，当你自己设定烘焙模式时，不必重新创建时间线，也不必在变更之间更新Houdini，你还可以随心所欲地调整关键帧和它的价值。如果你选择切换到自动更新模式，你会发现在模拟过程中变更如此一目了然。
+You can subtly shorten the simulation time by tweaking the settings of Houdini's bake control, which is like a magic button that lets you easily navigate the time. For example, you don't have to recreate the timeline or update Houdini between changes when you set the bake mode yourself, and you can tweak the keyframe and its value as you go. If you choose to switch to auto-update mode, you'll find that changes are so readily apparent during the simulation.
 
-这种手动除冰模式可不仅仅是为了节省时间，特别是当你面对沉重的工作时，它简直就像是一个守护天使，为你拂去疲惫，让你在创作的道路上永不止步。那么，你还在等什么呢？快来探索Houdini的烘焙控制，一起感受这个神秘而又诱人的过程吧！
+This manual de-icing mode can be more than just a time saver, especially when you're dealing with heavy workloads, it's literally like a guardian angel, whisking away your fatigue so you never stop on your creative path. So, what are you waiting for? Come and explore Houdini's baking controls and experience this mysterious and tantalizing process together!
 
-## 为模拟片加贴片广告
+## Add patch ads to the mockumentary
 
 ![](https://s2.loli.net/2023/07/26/FzS8e5AOmUowqyD.png)
 
-您可以提前开始模拟，并添加预补丁，在您想要的框架内调整工作时间。如果添加事先补丁，将值动画化需要很长时间。否则按一定的帧长度设定值需要时间。
-在时间线左侧的全局移动框中调整时间线的长度。决定何时使用dop网络开始模拟，准备好了吗？
+You can start the simulation early and add pre-patches to adjust the working time within the frame you want. If you add a pre-patch, it takes a long time to animate the values. Otherwise setting values by a certain frame length takes time.
+Adjust the length of the timeline in the global move box to the left of the timeline. Decide when to start the simulation using the dop network, ready?
 
-## 学习Hotkeys
-几乎所有关于软件效率的提示文章中都会出现一个热键提示，原因是：因为它有效！热键将改善您的整体创建时间。
+## Learning the Hotkeys
+A hotkey tip appears in almost all tip articles about software efficiency for a reason: because it works! Hotkeys will improve your overall creation time.
 
-Houdini 有几个热键适用于您将在场景中操作的不同视口和视图。在我看来，其中一些最有用的是：
+Houdini has several hotkeys for the different viewports and views you will be manipulating in your scene. In my opinion, some of the most useful ones are:
 
-***Space + G：重新定位您的视口。***
+***Left Click + Alt: Delete keyframes. ***
 
-***左键单击 + Alt：删除关键帧。***
+***Y + Mouse Drag: Hold and move in one direction to sever node connections. ***
 
-***Y + 鼠标拖动：按住并朝一个方向移动以切断节点连接。***
+***Ctrl + Left click: press the camera icon to drop the camera. ***
 
-***Ctrl + 左键单击：按下相机图标以放下相机。***
+You can also navigate to the drop-down hotkey manager and customize the hotkeys to your liking.
 
-您还可以导航到下拉热键管理器并根据您的喜好自定义热键。
-
-## 总结
+## Summary
 
 ![](https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png)
 
-希望这些技术能减少您制作复杂的houdini模拟所必需的绝对时间，以上内容向大家介绍胡迪尼的使用技术，想要学习houdini技术的人一定不要错过。
+Hopefully, these techniques will reduce the absolute time necessary for you to create complex houdini simulations. The above content introduces you to the techniques used in Houdini, and should not be missed by anyone who wants to learn houdini techniques.
 
-## Houdini设计师最需要学习什么技术？
+## What are the most important techniques for Houdini designers to learn?
 
-作为一名Houdini设计师，你需要修炼以下绝世技艺：
+As a Houdini designer, you need to practice the following great skills:
 
-首先，你要学会“练代码”。Houdini是一个以编程为主要功能的神器，很多地方都可以通过编写代码来定制自己的需求。其VOP（Vector Oriented Programming）系统犹如神秘的魔法语言，将你引入深邃的编程世界。掌握Python和C语言的基础，你将能更好地进行节点连接和编程，让你的创意成为现实。
+First of all, you need to learn to "practice code", Houdini is a tool that is mainly programmable, and there are many places where you can customize your own needs by writing code. Its VOP (Vector Oriented Programming) system is like a mysterious magic language that introduces you to the deep world of programming. By mastering the basics of Python and C, you will be better able to connect nodes and program your ideas.
 
-其次，你要懂得“模拟之道”。在动画和特效制作中，数值模拟就像魔法一样。你需要掌握诸如粒子系统、流体模拟等高端技术，为你的作品增添逼真的视觉效果。
+Secondly, you'll need to know the "way of simulation". Numerical simulation is like magic in animation and special effects. You need to master high-end techniques such as particle systems and fluid simulation to add realistic visual effects to your work.
 
-第三，你需要精通“渲染大法”。Houdini支持多种渲染器，如SOFTIMAGE、V-Ray和LuxRender等。掌握这些渲染器的使用方法，你就能轻松地在各种光线环境下制作出精美的作品。
+Third, you need to master the art of rendering; Houdini supports a variety of renderers, such as SOFTIMAGE, V-Ray, and LuxRender. Master the use of these renderers, you can easily in a variety of light environment to produce beautiful works.
 
-第四，你要成为“建模大师”。Houdini支持制作多边形、曲线、曲面等多种类型的模型。制作这些模型的技巧和编辑方法，都是你要掌握的重要技能。
+Fourth, you need to become a "master modeler", Houdini supports the creation of polygons, curves, surfaces and other types of models. The techniques and editing methods for creating these models are important skills to master.
 
-第五，你要学会“动画秘术”。Houdini支持多种动画技术，如骨骼绑定、形变动画和表达式动画等。掌握这些技术的使用方法，你将能制作出生动、流畅的动画效果。
+Fifth, you need to learn the "secret art of animation", Houdini supports a variety of animation techniques, such as bone binding, deformation animation and expression animation, etc. To master the use of these techniques, you need to know how to use Houdini. By mastering the use of these techniques, you will be able to create vivid and smooth animation effects.
 
-第六，你要懂得“合成之道”。Houdini支持轨道合成、时间重映射和运动跟踪等多种合成技术。掌握这些技术的使用方法，你将能制作出令人惊叹的视觉效果。
+Sixth, you need to know the "way of compositing", Houdini supports a variety of compositing techniques such as track compositing, time remapping and motion tracking. Master the use of these techniques, you will be able to create amazing visual effects.
 
-最后，你要成为“特效达人”。Houdini支持粒子特效、光效、流体特效等多种特效技术。掌握这些特效的制作技巧，你的作品将更加生动有趣。
+Finally, you have to become a "special effects master", Houdini supports particle effects, light effects, fluid effects and other special effects technology. Master these effects production skills, your work will be more vivid and interesting.
 
-总之，Houdini设计师需要修炼多种技艺，并要能够灵活运用它们来完成各种类型的动画和特效制作。此外，成为一名优秀的Houdini设计师还需要不断学习和探索新技术。让我们一起踏上这个神秘而有趣的旅程吧！
+In short, Houdini designers need to cultivate a variety of skills, and to be able to flexibly use them to complete a variety of types of animation and special effects production. In addition, to become a good Houdini designer also need to constantly learn and explore new technologies. Let's embark on this mysterious and interesting journey together!
+
 
 

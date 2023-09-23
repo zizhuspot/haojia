@@ -2,7 +2,7 @@
 title: Houdini特效师最常用的7个技巧，你知道吗？
 date: 2023-05-24 18:14:36
 categories:
-  - Houdini
+  - 设计师工具
 tags:
   - Houdini使用技巧
   - Houdini模拟
@@ -12,6 +12,7 @@ tags:
   - 艺术设计
   - 特效师
   - 特效制作
+  - 设计师工具
 description: 7个特效师必会的节省时间技巧，学完节省您的工作时间，提高效率。
 
 cover: https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png

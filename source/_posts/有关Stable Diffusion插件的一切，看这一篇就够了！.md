@@ -3,7 +3,7 @@ title: 有关Stable Diffusion插件的一切，看这一篇就够了！
 date: 2023-05-16 18:19:25
 
 categories:
-  - Stable Diffuse插件
+  - Ai工具
 tags:
   - Stable Diffusion
   - Ai绘图

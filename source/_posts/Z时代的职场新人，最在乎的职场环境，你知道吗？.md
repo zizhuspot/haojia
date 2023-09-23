@@ -16,7 +16,7 @@ tags:
   
 description: How do newcomers to the workplace in Era Z adapt to the trends of the times, and what are their requirements for the work environment?
 
-cover: https://s2.loli.net/2023/08/20/LjgG9OpalWPizSC.png
+cover: https://s2.loli.net/2023/08/20/lrDZnMCw6zmRH85.png
 
 ---
 
@@ -36,8 +36,6 @@ So how do you, as a business, attract great Gen Z talent? The answer is to meet 
 So let's take a look at the five work patterns preferred by Gen Z and offer suggestions on how companies can create work environments that attract Gen Z talent. These suggestions will not only help attract talented people in the long run, but also help make corporate culture more adaptable to future changes in the industrial environment, and promote the formation of workplaces with cross-generational collaboration, bringing more benefits and value to the company.
  
 ## Z Five Preferred Work Models for Generation Workplace Newcomers
-
-![](https://s2.loli.net/2023/08/20/LjgG9OpalWPizSC.png)
 
 The Generation Z crowd, who know the Internet and technology products like the back of their hand, and the fast-paced work patterns of the network era have made them a fish out of water. Their positive embrace of change, constant challenge to established frameworks and enthusiasm to fully utilize their creative potentials have resulted in a marked difference in workplace attitudes from previous generations. Below are five workstyles that they generally recognize as allowing them to perform at their best.
 

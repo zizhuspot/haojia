@@ -1,18 +1,18 @@
 ---
-title: 如何使用Bic图像生成器?
-date: 2023-08-5 14:23:34）
+title: How to use Bic Image Generator?
+date: 2023-08-5 14:23:34)
 categories:
-  - Ai绘图
-tags:
-  - Ai绘图
-  - 微软bing
+  - Ai Drawing
+tags: 
+  - Ai Drawing
+  - Microsoft bing
   - Bic
   - dall-e 2
-  - openai
+  - dall-e 2
   - chatgpt
-  - 人工智能
+  - Artificial Intelligence
   - Ai
-description: 本文深入讲解如何使用微软bing image creator生成图像，与dall-e 2的不同使用方式，可以让大家更好的理解Ai对于图像艺术创作。
+description: This article explains how to use Microsoft bing image creator to generate images, and dall-e 2 different ways to use, can let you better understand Ai for image art creation.
 
 cover: https://s2.loli.net/2023/08/05/yk1V4IOwgpumALR.webp
 
@@ -20,106 +20,109 @@ cover: https://s2.loli.net/2023/08/05/yk1V4IOwgpumALR.webp
 
 ![](https://s2.loli.net/2023/08/05/XOhmBxMK8zntuIj.webp)
 
-它是免费的，没有等候名单，不用[microsoft edge](https://en.wikipedia.org/wiki/Microsoft_Edge)也可以访问。以下是开始使用微软的ai艺术生成器所需的其他信息。
-近几个月来，各种[人工智能](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)工具的使用暴增，我们看到生成人工智能在完全不可能发展的地方萌芽。
+It is free, has no waiting list, and can be accessed without [microsoft edge](https://en.wikipedia.org/wiki/Microsoft_Edge). Here's the rest of the information you need to get started with Microsoft's ai art generator.
+In recent months, the use of various [artificial intelligence](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD) tools has skyrocketed, and we've seen generative AI sprout up in places where it would be completely impossible to develop.
 
-这一切都始于去年秋天openai推出的交互式人工智能聊天机器人[chatgpt](https://openai.com/chatgpt)开始，其自然的语气、使用便利性和实用性让用户大吃一惊。
+It all started with the launch of openai's interactive AI chatbot [chatgpt](https://openai.com/chatgpt) last fall, which surprised users with its natural tone, ease of use, and utility.
 
-## bic与dall-e 2有很多不同
+## bic differs from dall-e 2 in many ways
 
-接下来，谷歌和微软这两大科技巨头分别推出了名为“bard”和“bing chat”的自主人工智能聊天机器人，这些机器人掀起了一股人工智能热潮。然而，这股热潮也带来了许多安全、伦理和经济问题。
+The next two tech giants, Google and Microsoft, launched autonomous AI chatbots called "bard" and "bing chat" respectively, and these bots kicked off a wave of AI craze. However, the boom has also raised many safety, ethical and economic issues.
 
-微软在bing搜索引擎上发布了一款人工智能图像生成器，这款生成器采用了openai另一个名为[dall-e 2](https://openai.com/dall-e-2)的更加先进的版本。要想了解更多关于dall-e 2图像生成器的信息，您可以直接访问openai的官方网站。在这里，您只需在文本区域内输入提示，然后静静等待人工智能为您创建图像即可。
+Microsoft has released an AI image generator on its bing search engine that utilizes a more advanced version of another openai called [dall-e 2](https://openai.com/dall-e-2). To learn more about the dall-e 2 image generator, you can visit openai's official website directly. Here, you can simply enter the prompt in the text field and wait quietly for the AI to create the image for you.
 
-虽然dall-e 2和bing image creator都能通过人工智能创造出别具一格的图像，但它们在工作方式上存在着很大的差异。为了让您更好地了解这两款工具的异同，我们将详细探讨它们的特点以及哪种人工智能工具才是艺术创造领域的翘楚。
+While both dall-e 2 and bing image creator are capable of creating distinctive images through artificial intelligence, there are significant differences in the way they work. To give you a better understanding of the similarities and differences between these two tools, we're going to explore their features in detail and which AI tool is the leader in art creation.
 
-首先，我们要深入探讨一下如何使用全新的bing image creator。
+First, we're going to dive into how to use the new bing image creator.
 
-## 如何使用新的Bic图像生成器
+## How to use the new Bic image creator
 
 ![](https://s2.loli.net/2023/08/05/yk1V4IOwgpumALR.webp)
 
-想象一下，你走进了一间华丽的宫殿，四周是深蓝色的墙壁，仿佛置身于浩瀚的海洋之中。金色的窗帘在微风中轻轻摇曳，闪烁着耀眼的光芒。在房间的角落，一个懒惰的斑马悠闲地躺在那里，似乎在享受这美好的时刻。而现在，你可以通过bing image creator，把这一美妙的景象带入你的世界！
+Imagine you walk into a magnificent palace surrounded by deep blue walls, as if you were in the middle of a vast ocean. The golden curtains sway gently in the breeze, glittering brightly. In the corner of the room, a lazy zebra lies leisurely, seemingly enjoying this wonderful moment. And now you can bring this wonderful scene into your world with bing image creator!
 
-想要尝试？不需要dall-e 2或openai账号，只需打开你的浏览器，访问你的microsoft账户，然后前往bing.com。在网站上找到“.bing.com/create”，点击它，就可以开始你的艺术创作之旅了！
+Want to try it? No need for a dall-e 2 or openai account, just open your browser, visit your microsoft account, and head to bing.com. Find ".bing.com/create" on the site, click on it, and you're ready to begin your journey of artistic creation!
 
-### 1. 访问必需的图像生成工具并登录
+### 1. Access the required image creation tools and log in
 
 ![](https://s2.loli.net/2023/08/05/9UnYTbqFaASKpkD.webp)
 
-与bing聊天不同，访问bing图像生成工具不需要microsoft edge访问.[https://www.bing.com/create](https://www.bing.com/create) 点击“**join create**”，
+Unlike bing chat, access to bing image builder does not require microsoft edge access. [https://www.bing.com/create](https://www.bing.com/create) Click on "**join create**".
 
-登录微软账号并访问图像生成器即可。
+Just log in to your Microsoft account and access the image generator.
 
-### 2. 输入提示
+### 2. Enter the prompt
 
 ![](https://s2.loli.net/2023/08/05/kw27HPXSV1QUizN.webp)
 
-此时，请输入要生成提示的图片的说明。就像使用人工智能聊天机器人一样，请尽可能明确地描述结果是否正确。
+At this point, please enter a description of the image for which you want to generate a hint. Just like with an AI chatbot, please be as explicit as possible in describing whether the result is correct or not.
 
-在文本区域输入提示，然后点击“**创建**”。
+Enter the prompt in the text area and click "**Create**".
 
-为了这个提示，我要求：“天鹅躺在用金色装饰的皇室客厅里的照片”。点击“**制作**”，等待图片。
+For this prompt, I asked for: "A picture of a swan lying in a royal parlor decorated in gold." Click on "**Create**" and wait for the picture.
 
-### 3. 结果视图
+### 3. Result view
 
 ![](https://s2.loli.net/2023/08/05/4FrDc31LMguWbl7.webp)
 
-一旦那令人振奋的图片准备就绪，你就能马上看到精彩纷呈的结果啦。值得一提的是，DALL-E 2和Bing的图像生成器常常会展示每个小贴子的四幅图像，让人眼前一亮。
+As soon as the exciting picture is ready, you can see the wonderful result. It's worth noting that DALL-E 2 and Bing's image generator often show four images per posting, making for a great look.
 
-那么，DALL-E 2这个人工智能魔法师是如何将瑰丽的想象力化为一件件艺术佳作的呢？
+So how does DALL-E 2, the AI wizard, turn magnificent imagery into a work of art?
 
-老实说，很多免费的人工智能图像生成器并不那么精致，它们生成的图片可能并不真实，在手指位置、眼睛部位、电脑键盘上的按键等细节上经常会出现一些小差错，颇为有趣。
+Honestly, many free AI image generators are not that sophisticated, and the images they generate may not be real, and there are often small errors in details such as finger positions, eye areas, keys on the computer keyboard, and other details that are quite interesting.
 
-你瞧，这张由我召唤出的图像生成器创作的天鹅图，简直美丽得让人印象深刻，我对其结果甚是满意。
+You see, this picture of a swan, created by the image generator I summoned, is simply beautiful and impressive, and I'm very pleased with the result.
 
-接下来，让我们进入关键步骤——图片下载！浏览完所有生成的图片后，我决定将下面这幅图收藏起来。你只需轻轻一点，就可以展开图片，随即展示出一系列的选项供你选择：分享、保存到账户、下载或者提供反馈。值得注意的是，你可以按照自己的喜好选择下载一张、全部或者根本不下载任何图片哦。
+Next, let's move on to the crucial step - image download! After browsing through all the generated images, I decided to bookmark the one below. With a single click, you can expand the image, which then shows you a series of options to choose from: share, save to account, download, or provide feedback. It's worth noting that you can choose to download one, all, or none of the images at all, depending on your preference!
 
 ![](https://s2.loli.net/2023/08/05/1GhzJUaw6AScH9W.webp)
 
-***FAQ：***
+***FAQ:****
 
-1.  我可以使用新的必应聊天工具创建图片吗？
-使用必应图片创建工具有两种方法。您可以访问 Bing.com/Create（如上所述）生成图片，也可以通过必应聊天工具直接创建图片。
+1. Can I use the new Bing Chat tool to create images?
+There are two ways to use the Bing image creation tool. You can either visit Bing.com/Create (as described above) to generate an image, or you can create an image directly through the Bing Chat tool.
 
 ![](https://s2.loli.net/2023/08/05/3ugsi9JHZVp4DAN.webp)
 
-下面是如何让新版必应在聊天窗口中直接创建图像的方法：
+Here's how to get the new version of Bing to create images directly in the chat window:
 
-***1. 打开 Microsoft Edge***
+***1. Open Microsoft Edge***.
 
-***2. 转到 Bing.com***
+***2. Go to Bing.com***
 
-***3. 点击聊天***
+***3. Click on Chat ****.
 
-写下你的提示，可以以 "创建图片 "或 "生成照片 "这样的短语开头，但并非必须。必应聊天通常能识别你的意图。
+Write down your prompt, which can start with a phrase like "Create an image" or "Generate a photo", but it's not required. Bing Chat usually recognizes your intent.
 
-还有 如何使用新版必应（以及它与 ChatGPT 的不同之处）
+And How to use the new version of Bing (and how it differs from ChatGPT)
 
-2. 什么是DALL-E 2?
+2. What is DALL-E 2?
 
-DALL-E 2 是 OpenAI 开发的人工智能语言模型，可以根据文字描述生成图像。它是 2021 年 1 月首次推出的 DALL-E 模型的第二个版本。该模型能够根据各种输入，包括动物、物体甚至抽象概念，创建独特而有创意的图像。
+DALL-E 2 is an AI language model developed by OpenAI that generates images from textual descriptions. It is the second version of the DALL-E model, which was first introduced in January 2021. The model is capable of creating unique and creative images based on a variety of inputs, including animals, objects, and even abstract concepts.
 
-3. bard和bing chat孰强孰弱？
+3. Which is stronger, bard or Bing Chat?
 
-Bard 和 Bing Chat 都是聊天机器人平台，各有优缺点。
+Bard and Bing Chat are both chatbot platforms with their own strengths and weaknesses.
 
-Bard 是一个开源聊天机器人框架，允许开发者使用各种编程语言创建自定义聊天机器人。它具有很强的可定制性，可以根据特定用例进行定制，对于有独特需求的企业或组织来说是个不错的选择。
+Bard is an open source chatbot framework that allows developers to create custom chatbots using various programming languages. It is highly customizable and can be tailored to specific use cases, making it a good choice for businesses or organizations with unique needs.
 
-另一方面，Bing Chat 是一个预建的聊天机器人平台，与 Microsoft Teams 集成。它的设计易于使用，可以快速回答常见问题或执行简单任务，如安排会议或查找信息。
+On the other hand, Bing Chat is a pre-built chatbot platform that integrates with Microsoft Teams. It's designed to be easy to use and can quickly answer common questions or perform simple tasks like scheduling a meeting or finding information.
 
-最终，在 Bard 和必应聊天之间做出选择取决于你的具体需求和技术专长。如果你有一个可以创建自定义聊天机器人的开发团队，那么 Bard 可能是更好的选择。如果你正在寻找一种快速、简单的方式来实现聊天机器人，Bing Chat 可能是你的不二之选。
+Ultimately, choosing between Bard and Bing Chat depends on your specific needs and technical expertise. If you have a team of developers who can create custom chatbots, then Bard may be the better choice. If you're looking for a quick and easy way to implement a chatbot, Bing Chat may be the way to go.
 
-## 关于bard,分享一下我的使用感受
+## About Bard, share my experience with it.
 
-谷歌的AI工具Bard是一款非常有趣和实用的在线工具体，它能够帮助用户快速地处理和整理大量数据。下面，我将分享一下我使用Bard的感受和体验。
+Google's AI tool, Bard, is a very interesting and useful body of online tools that help users quickly process and organize large amounts of data. Below, I will share my feelings and experience of using Bard.
 
-首先，Bard的功能非常强大，它能够处理各种类型的数据，包括文本、图像和数值等，而且它的操作非常简单，只需要几步就可以完成数据处理任务。比如，我曾经使用Bard来处理一份包含大量数据的Excel表格，通过Bard的在线处理功能，我能够快速地整理出需要的数据，大大节省了时间和精力。
+First of all, Bard is very powerful, it can handle various types of data, including text, images and numerical values, etc. Moreover, it is very easy to operate, and it only needs a few steps to complete the data processing task. For example, I once used Bard to process an Excel sheet containing a large amount of data. Through Bard's online processing function, I was able to quickly organize the data I needed, which greatly saved me time and energy.
 
-在使用Bard的过程中，我还发现它有一些其他的优点。比如，Bard的并行计算功能让我在短时间内完成了大量的数据处理任务，而且它的数据可视化功能也让我更加直观地了解数据。此外，Bard还提供了多种数据源的连接方式，可以轻松地连接各种数据源，让我可以轻松地获取数据。
+In the process of using Bard, I also found that it has some other advantages. For example, Bard's parallel computing feature allowed me to complete a large number of data processing tasks in a short period of time, and its data visualization feature allowed me to understand the data more intuitively. In addition, Bard provides a variety of ways to connect to various data sources, so I can easily connect to various data sources, so that I can easily access the data.
 
-当然，Bard也有一些不足之处。比如，有时候它的界面会出现一些小bug，需要等待修复。但是总体来说，这些问题并不影响我使用Bard的体验和效率。
-在使用Bard的过程中，我还能够使用它来处理各种领域的数据。比如，在智能客服领域，Bard可以帮助我快速地处理客户的问题和反馈；在图像处理领域，Bard可以帮助我进行图像识别和处理。这些应用场景让我更加深入地了解了Bard的功能和应用范围。
+Of course, Bard has some shortcomings. For example, sometimes it has minor bugs in its interface that need to wait for fixes. But overall, these problems do not affect my experience and efficiency in using Bard.
+In the process of using Bard, I was also able to use it to process data in various fields. For example, in the field of intelligent customer service, Bard can help me quickly handle customer questions and feedback; in the field of image processing, Bard can help me with image recognition and processing. These application scenarios give me a deeper understanding of Bard's functions and application scope.
 
-总之，谷歌的AI工具Bard是一款非常实用的在线工具体，它可以帮助用户快速地处理和整理大量数据。它的优点包括操作简单、功能强大、支持并行计算和数据可视化等。虽然它也有一些小不足之处，但总体来说这些问题并不影响我使用Bard的体验和效率。未来，我期望Bard能够继续优化界面和完善功能，为更多的用户带来更多的便利。
+In short, Google's AI tool Bard is a very useful body of online tools that help users quickly process and organize large amounts of data. Its strengths include simplicity of operation, power, support for parallel computing and data visualization. Although it also has some minor shortcomings, overall these issues do not affect my experience and efficiency in using Bard. In the future, I expect Bard to continue to optimize its interface and improve its functions to bring more convenience to more users.
+
+
+
 

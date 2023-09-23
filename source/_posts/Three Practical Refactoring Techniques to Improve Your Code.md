@@ -14,7 +14,8 @@ tags:
   
 description: Three Practical Refactoring Techniques to Improve Your Code,This article will take you through how to refactor your code more efficiently and increase your productivity.
 
-cover: 
+cover: https://s2.loli.net/2023/09/23/9CpSds8b24fuXjO.png
+
 ---
 
 

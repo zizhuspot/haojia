@@ -32,7 +32,7 @@ The table below provides a comprehensive comparison of the leading Ai Smart Imag
 
 | Ai Smart Image Generator | Price | Output Speed | Operating Environment | Key Features|   
 | --------- | -- | ----------- |-------|------- | 
-| **Bing Image Creator** | Free | Fast | WEB | Powered by DALL-E, accessible via Bing Chat and Browser, easy and fast to use | |
+| **Bing Image Creator** | Free | Fast | WEB | Powered by DALL-E, accessible via Bing Chat and Browser, easy and fast to use | 
 | **DALL-E 2 by OpenAI** | Free + Qualification | Fast | WEB| Accurate depiction, detailed input, four images generated per qualification |    
 | **DreamStudio by Stability AI** | Free+Qualification| Fast | WEB| High-quality renderings that can be easily fully customized |    
 | **Dream by WOMBO** | Free+Subscription | Fast | Mobile+Desktop | Realistic reproduction, multiple templates, mix and match your own images |    

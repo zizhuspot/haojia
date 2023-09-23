@@ -4,13 +4,14 @@ title: Three Practical Refactoring Techniques to Improve Your Code
 date: 2023-09-15 08:10:17
 
 categories:
-  - code
+  - program
 tags:
   - code
   - python
   - javascript
   - c
   - code refactoring
+  - program
   
 description: Three Practical Refactoring Techniques to Improve Your Code,This article will take you through how to refactor your code more efficiently and increase your productivity.
 

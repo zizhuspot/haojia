@@ -1,198 +1,197 @@
 ---
-title: Midjourney出图实战案例与超实用关键词分享
+title: Midjourney out of the picture of the actual case and super practical keywords to share
 date: 2023-06-02 17:24:13
 categories:
-  - Ai绘图
+  - Ai Drawing
 tags:
-  - Midjourney
-  - 创意艺术
-  - Ai绘图
-  - Midjourney 咒语
-  - Midjourney 关键词
-  - 艺术创意
-  - Ai工具
-  - 艺术创作
-  - 人工智能
-  - 艺术设计
-  - Midjourney模式
-  - Midjourney常用指令
-  - Midjourney常用后缀
-  - 图标设计
-description: 本文使用Midjourney进行实战出图，后文对Midjourney常用咒语和材质关键词进行分享。
+  - AiDrawing
+  - Creative Art
+  - Ai drawings
+  - Midjourney spell
+  - Midjourney Keywords
+  - Creative Art
+  - Ai tools
+  - Artistic creativity
+  - Artificial Intelligence
+  - Art Design
+  - Midjourney Mode
+  - Midjourney common commands
+  - Midjourney common suffix
+  - Icon Design
+
+description: This article uses Midjourney to make a practical picture, after the article on Midjourney commonly used spells and material keywords to share.
 
 cover: https://s2.loli.net/2023/07/27/8HiUmzMhVexWS7Z.jpg
 
 ---
 
-相信大家对于Midjourney这款神奇的工具都不再陌生，但是你知道吗？它不仅在制作海报、运营banner、IP等图像方面被广泛使用，而且在UI设计的工作流程中也有着无限的可能性。最近，我对这个话题进行了深入的研究，并发现Midjourney的背景和图标已经可以成熟地应用到我们的工作流程中。
+I'm sure you are no longer unfamiliar with the amazing tool Midjourney, but did you know? Not only is it widely used in creating posters, running banners, IPs, and other images, but it also has endless possibilities in the UI design workflow. Recently, I dug deeper into this topic and realized that Midjourney's backgrounds and icons are ripe for application in our workflow.
 
-在这个充满惊喜的探险过程中，我深入了解了Midjourney的各项功能，从精细的滤镜效果到别致的图标设计。我甚至还尝试使用它来制作一些极具创意的UI元素。经过一系列的尝试和探索，我发现Midjourney不仅可以轻松创建出令人惊叹的图像，而且还能帮助我们快速实现复杂的UI设计。
+During this adventure, which was full of surprises, I delved into Midjourney's features, from fine filter effects to chic icon designs. I even tried to use it to create some highly creative UI elements. After a series of attempts and explorations, I found that Midjourney can not only easily create stunning images, but also help us quickly realize complex UI designs.
 
-当然了，在探索的过程中，我也遇到了许多挑战，但每当我成功地解决一个问题，我就会感到无比的满足和快乐。在这个过程中，我也收获了许多宝贵的经验。现在，我想和你分享这一切，希望我的经历能激发你去探索Midjourney更多的可能性！
+Of course, I encountered a lot of challenges in the process of exploration, but every time I successfully solved a problem, I felt immense satisfaction and joy. In the process, I also gained a lot of valuable experience. Now, I would like to share all of this with you, and hope that my experience will inspire you to explore more possibilities of Midjourney!
 
-## 一、Midjourney基础模式
+## I. The Midjourney Foundation Model
 
 ![](https://s2.loli.net/2023/07/27/8HiUmzMhVexWS7Z.jpg)
 
-Midjourney 分为很多模式，如 V4\V5\V5.1\niji4\niji5 等模式。
+Midjourney is divided into many modes, such as V4\V5\V5.1\niji4\niji5 and so on.
 
-- V4：通用模式，适用于各个风格行业，但产出的图质量和细节不是好
+- V4: generalized mode, applicable to all styles of industry, but the output of the quality and detail of the figure is not good
 
-- V5：写实模式，产出的图更加风格，更加细节，风格偏向写实
+- V5: realistic mode, the output of the figure more style, more detail, style bias realistic
 
-- V5.1：最近刚出的模型，在 v5 基础上产出的图细节更丰富
+- V5.1: the recent model, in v5 based on the output of the figure more rich in detail
 
-- niji4/5：产出的图基本就是二次元风格，当然加一些特殊词也可以生产3D图
+- niji4/5: the output of the map is basically the secondary style, of course, plus some special words can also produce 3D map
 
-## 二、Midjourney出图方式
+## Second, Midjourney way out of the map
 
-Midjourney这款神奇的工具有两种模式：生图和喂图，让我在工作流中如鱼得水，尽展风采。现在，我将为你揭开这两种模式的神秘面纱，带你领略它们的独特魅力！
+Midjourney this amazing tool has two modes: produce and feed diagrams, let me in the workflow like a fish out of water, show off. Now, I will unveil the mystery of these two modes for you, and take you to enjoy their unique charm!
 
-首先，让我们来看看生图。顾名思义，生图就是将关键词像扔进魔法世界一样输入到Midjourney中，然后静待美妙的图像诞生。虽然这种方式出图快，但是成果往往像是一堆随机拼贴，难以达到我们的期望。就像左侧的B端图标示例一样，结构与色彩都显得混乱无章，宛如一个半成品。
+First, let's take a look at Raw Chart. As the name suggests, Raw Image is to input keywords into Midjourney like throwing them into the magical world, and then wait for the wonderful image to be born. While this is a fast way to produce images, the results often look like a bunch of random collages that struggle to live up to our expectations. Like the B-side icon example on the left, the structure and colors are chaotic, like a half-baked product.
 
-而喂图，则是一种更加精细、个性化的出图方式。通过将已有的图像喂给Midjourney，你可以获得一个干净整洁的图标。看看右侧的图标，是不是比生图更加精美呢？
+Feeding images, on the other hand, is a more refined and personalized way to produce images. By feeding an existing image to Midjourney, you can get a clean and tidy icon. Take a look at the icon on the right, isn't it more polished than the raw image?
 
-总的来说，Midjourney的生图和喂图各有特点。生图适合快速出图，而喂图则更适合对细节有严格要求的情况。在实际的工作流中，你可以根据自己的需求来选择合适的出图方式。相信我，经过这样一番探索和尝试之后，你对Midjourney的使用技巧一定会有全新的认识！
+Overall, Midjourney's raw and fed images have their own characteristics. Raw charts are good for quick charts, while fed charts are better suited for situations where you have strict requirements on details. In the actual workflow, you can choose the right way of charting according to your needs. Believe me, after some exploration and experimentation, you will have a new understanding of Midjourney's techniques!
 
 ![](https://s2.loli.net/2023/07/27/9lnpWLJIdXM2NxE.png)
 
-## 三、常用的指令/后缀
+## III. Commonly used directives/suffixes
 
-- **常用指令：**
+- **Commonly used commands: **
 
-/imagine 要求画图
+/imagine Requests to draw a diagram
 
-/describe 用于喂图提取关键词
+/describe for feeding diagrams to extract keywords
 
-/settings 设置参数
+/settings Setting parameters
 
-- **常用后缀：**
+- **Common suffixes: ** --s 700
 
---s 700 数值越高，越偏离描述
+--s 700 Higher values deviate from the description.
 
---q 2.5 越小出图越快，细节也越少
+--q 2.5 The smaller the value, the faster the drawing and the less detail.
 
--- iw 1 数值越大越偏离你喂的图
+-- iw 1 The higher the value, the more it deviates from the picture you're feeding.
 
---ar 16:9 控制比例
+--ar 16:9 control ratio
 
-:: geed 4.5 图片权重，让生成的图侧重哪些关键词
+:: geed 4.5 image weights, so the resulting image focuses on which keywords
 
---no geed 加什么不会出现什么
+--no geed Add what won't appear
 
-## 四、前期设置
+## 4. Pre-setup
 
-### -使用niji模式生成UI图标
+### -Using niji mode to generate UI icons
 
 ![](https://s2.loli.net/2023/07/27/uyzLOj1g5pdPoVk.png)
 
-- 第一行：使用 niji5 模式
+- First line: use niji5 mode
 
-- 第二行：默认风格化也就是 --s 值
+- Second line: default stylization aka --s value
 
-- 第三行：默认风格第
+- Third line: default stylization
 
-- 四行：默认
+- Line 4: default
 
 
-### -使用V5模式生成UI图标
+### - Generate UI icons using V5 mode
 
 ![](https://s2.loli.net/2023/07/27/7rQg9CmbuNGT6wj.png)
 
-- 第一行：使用 v5 模式
+- First line: use v5 mode
 
-- 第二行：默认
+- Second line: default
 
-- 第三行：默认
+- Third line: default
 
-## midjourney优势劣势分析
+## midjourney strengths and weaknesses analysis
 
-Midjourney的三大亮点和两点待提升：
+Midjourney has three highlights and two points to be improved:
 
-首先，Midjourney的“超能力”不容小觑。它就像一个实力派演员，集合了语音助手、日历提醒、实时天气播报和新闻资讯等功能于一身。有了它，用户们可以轻松完成各种任务，节省时间的同时还大大提高了工作效率。
+First of all, Midjourney's "super power" should not be underestimated. It is like a powerful actor, combining voice assistant, calendar reminder, real-time weather broadcasting and news information and other functions. With it, users can easily complete a variety of tasks, saving time and greatly improving work efficiency.
 
-再来看看它的建模能力。Midjourney犹如一位艺术大师，在建模时融入了高雅艺术性，用户们可以通过它获取各种风格的图片。当然，Midjourney还是一位特别会聊天的助手，只需简单的提示词，就能获得令人满意的图像和风格化词语。
+Midjourney is like a master of art in modeling, and it can be used to get various styles of pictures. Of course, Midjourney is also a particularly chatty assistant, with simple prompts for satisfying images and stylized words.
 
-不过，Midjourney也有两个小小的不足。首先是初始设置。尽管Midjourney有着丰富的功能，但在初次设置时，用户们可能需要在语言偏好、个人信息等方面进行一些调整。对于一些技术小白来说，这可能会带来一些困扰。
+However, Midjourney has two minor shortcomings. The first is the initial setup. Despite Midjourney's rich feature set, users may need to make some adjustments in language preferences, personal information, and more during initial setup. For some techies, this may cause some trouble.
 
-另外一点是语音辨识的准确性。Midjourney的语音辨识功能是值得称赞的，但在面对一些特殊口音或语速较快的人时，它可能会出现辨识不准确的情况。这可能会影响到用户们的指令接收和使用体验。
+Another point is the accuracy of the voice recognition, Midjourney's voice recognition is commendable, but it may not be accurate when dealing with people who have a particular accent or speak at a fast pace. This may affect the users' experience of receiving and using the commands.
 
-总的来说，Midjourney就像一位拥有十八般武艺的助手，功能强大且审美度高。虽然有着一些小挑战，但相信在未来的优化中，它定会为用户们带来更多惊喜！
+Overall, Midjourney is like an assistant with 18 skills, powerful and aesthetic. Although there are some small challenges, we believe that it will bring more surprises to users in the future optimization!
 
-## 五、实践技巧
+## V. Practice Tips
 
-- **step 1：**
+- **Step 1: **
 
-在/imagine 内输入下面咒语
+Inside /imagine, type the following incantation
 
-*A UI interface gift box, icon design, UI, Disney, Clay material, bright color, 3d art, clean background, Oc rendering, The background is black, c4d, blender, 3d, 8k, HD -niji 5 --style expressive --s 180*
+*A UI interface gift box, icon design, UI, Disney, Clay material, bright color, 3d art, clean background, Oc rendering, The background is black, c4d. blender, 3d, 8k, HD -niji 5 --style expressive --s 180* !
 
 ![](https://s2.loli.net/2023/07/27/1k9HyhVwO3p2u5D.png)
 
-- **step 2：**
+- **Step 2:**
 
-U1-U4 对应四张图，可以选择自己满意的图进行放大，如果不满意可以使用 V 指令，针对某一张图在进行生成。
+U1-U4 corresponds to four images, you can choose the one you are satisfied with to zoom in, if you are not satisfied, you can use the V command to generate the image for a certain image.
 
-![](https://s2.loli.net/2023/07/27/NRO2QuxLUDGEloJ.png)
+If you are not satisfied, you can use the V command to generate a new image for a particular image. [](https://s2.loli.net/2023/07/27/NRO2QuxLUDGEloJ.png)
 
 - **step 3：**
 
-使用ps软件进行扣图
+Snapshot using ps software
 
 ![](https://s2.loli.net/2023/07/27/ZXLfMSYhqr4I7JT.png)
 
-- **step 4：**
+- **step 4:**
 
-进行色彩调整与页面融合
+Make color adjustments to blend with the page
 
 ![](https://s2.loli.net/2023/07/27/bYLpJgUMixWle9s.png)
 
-## 六、咒语与关键词
+### VI. Mantras and Keywords
 
-### - 咒语：
+### - Mantra:
 
 ![](https://s2.loli.net/2023/07/27/FIT9zDYynGJfcSM.png)
 
-### - 风格词语：
+### - Style words:
 
 ![](https://s2.loli.net/2023/07/27/NIgvfHyWemCKrDM.jpg)
 
-### - 材质词语：
+### - Material words:
 
 ![](https://s2.loli.net/2023/07/27/qp9CoL4EOFN1QI2.jpg)
 
-### - 光线词：
+### - Light words:
 
-#### 光线词1：
+#### Light word 1:
 
 ![](https://s2.loli.net/2023/07/27/4LxrU8SinMcD2Po.jpg)
 
-#### 光线词2：
+#### Light Word 2:
 
 ![](https://s2.loli.net/2023/07/27/Q527PuY1Ld3TAC8.jpg)
 
-## midjourney使用技巧？
+## midjourney Tips for using midjourney?
 
-探索Midjourney的奇妙世界：
+Once you've mastered these tips, you'll be able to roam freely through the world of Midjourney like a wizard and create amazing wonders!
 
-一旦你掌握了这些技巧，你就能像魔法师一样在Midjourney的世界中自由驰骋，创造出令人惊叹的奇迹！
+**1. Explore the mysterious command codes:**
 
-一、探索神秘的指令密码：
+To unleash the unique features of Midjourney, you must first learn the mysterious commands. Enter "settings" and you will embark on an amazing journey of settings. Here you can choose from a variety of models, fine-tune details, and even control rendering speed. Moreover, you can activate the Blend Mode function to make your image more colorful.
 
-想要释放Midjourney的独特功能，你必须先学会神秘指令。输入“settings”，你将踏上一场奇妙的设置之旅。在这里，你可以选择各种模型，细致地调整细节，甚至控制渲染速度。而且，你还可以激活混合模式功能，让你的画面更加丰富多彩。
+**2. activate the magic power of Blend Mode:**
 
-二、激活混合模式的神奇力量：
+Blend Mode, this mysterious function, can create a thousand different new images based on your original command-generated images. To unlock this feature, first enter "settings" to adjust the settings, select the "remix mode" remix mode button. Then, in the dialog box that pops up, type in a mantra-like command and a new picture will be generated. Choose your favorite picture from the generated picture, click "make variations" button, the new picture will be shown like magic.
 
-混合模式，这个神秘的功能，可以在你原有指令生成图片的基础上，制作出千变万化的新图片。想要解锁这个功能，先输入“settings”调整设置，选中“remix mode”混合模式按钮。然后，在弹出的对话框中输入咒语般的指令，就会生成一幅新的图片。从生成的图片中选择你最喜欢的，点击“make variations”按钮，新的画面将会如魔法般展现。
+**3. trigger the chaos magic of creative thinking:**
 
-三、引爆创意思维的混沌魔力：
+Midjourney has a special "chaos" command, which can inject endless creativity into the AI creation process. Just type "chaos" and attach your unique value (e.g. 0-100, support decimal), the larger the value, the more changes in the generated picture, the effect will be more stunning.
 
-Midjourney有一个特别的“chaos”指令，它能为AI创作过程注入无尽的创意。只需输入“chaos”并附上你的独特数值（例如：0-100，支持小数），数值越大，生成的图片变化越多，效果也将更加惊艳。
+**4. master more advanced skills:**
 
-四、掌握更多高级技巧：
+In addition, there are many practical operating skills for you to explore. Use the padding function to provide more references for your creations; adjust the SEED value to keep the consistency of the picture; use the auto-generated prompt function to easily realize your unique style; you can also use the auxiliary website to improve the efficiency of the creation of Midjourney's wide range of applications, whether it's in the poster design, miniatures, multi-frame comics/split-scene scripts, or in the concept of UI design, etc. can make a big difference; Midjourney's application areas. In terms of style, you can imitate Chinese painting style, illustration, 3D illustration and many other styles.
 
-此外，还有许多实用的操作技巧等你来探索。使用垫图功能为你的创作提供更多参考；调整SEED值来保持画面的一致性；利用自动生成prompt功能轻松实现你的独特画风；还可以借助辅助网站提高创作效率。Midjourney的应用领域广泛，无论是在海报设计、微缩模型、多格漫画/分镜脚本，还是在UI设计概念稿等方面都能大放异彩；在风格方面，你可以模仿国画风、插画、3D插画等多种风格。
-
-总的来说，Midjourney具有丰富多样的使用技巧，灵活运用它们能让你在创作过程中如鱼得水，激发出Midjourney的最大潜能！
+In general, Midjourney has a rich variety of skills, and their flexible use will help you to be a fish out of water in the creative process, and inspire the greatest potential of Midjourney!
 
 

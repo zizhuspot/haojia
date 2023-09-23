@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 家豪的博客
-subtitle: 编程技术，软件应用，人工智能
-description: 欢迎来到家豪的博客！欢迎来到我们的编程与软件应用网站，这是一个为程序员和软件开发者精心打造的在线社区。在这里，您可以找到详尽的编程教程、实时更新的软件应用资讯、各类热门编程语言和开发工具的学习资源以及丰富的代码库和示例。
+title: Jiahao's Blog
+subtitle: Programming techniques, software applications, artificial intelligence
+description: Welcome to Jiahao's blog! Welcome to our Programming & Ai Applications website, an online community crafted for programmers and software developers. Here you can learning resources for various popular programming languages and development tools, and rich code libraries and examples.
 keywords:
-  - 编程教程
-  - 软件应用
-  - 人工智能
-  - 开发工具
-  - 生活技巧
-author: 家豪
+  - Programming Tutorials
+  - Software Applications
+  - Artificial Intelligence
+  - Development Tools
+  - Life Skills
+author: Jiahao
 language: zh-CN
 timezone: Asia/Hong_Kong
 

@@ -1,17 +1,18 @@
 ---
-title: Midjourney完美出图的5个技巧，快来get吧！
+title: Midjourney's 5 Tips for a Perfect Picture, get it now!
 date: 2023-05-17 24:02:47
 categories:
-  - Ai绘图
-tags:
-  - Midjourney
-  - 艺术创意
-  - Ai绘图
-  - Ai工具
-  - 艺术创作
-  - 人工智能
-  - 艺术设计
-description: 5个Midjourney出图实用技巧，学会它让你的创作如鱼得水。
+  - Ai Drawing
+tags: 
+  - AiDrawing
+  - Art
+  - Ai Drawing
+  - Ai Tools
+  - Artistic Creation
+  - Artificial Intelligence
+  - Art & Design
+Description: 5 practical tips for Midjourney drawing, learn it and make your creations like a fish out of water.
+
 cover: https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png
 
 ---
@@ -22,115 +23,125 @@ ai制作的作品虽然视觉效果很好，但很容易出现任何人都会遇
 
 使用较长的描述，很容易让用户信服。那么，怎样才能尽可能少地解释，让人工智能知道你想要什么呢？本文就给你介绍midjourney 出图最有效的6种技巧!
 
-## tips 1 -使用肯定的指令，不要模糊的指令
+ai production works although the visual effect is very good, but it is very easy to appear anyone will encounter the problem: the brain envisioned the effect and the ai production effect will often be very different, although repeated many times, but still can not get the desired effect.
 
-midjourney现在不是很了解否定的描述词，所以不要使用not, but, except, without等否定词。
-因为如果在单词中提到某个单词，ai很有可能会无视否定的逻辑关系来画画。
+![](https://s2.loli.net/2023/07/27/7veSyGsU1Hl5BLK.png)
 
-例如，想要生成猫的照片时，要避开“不是黑猫(not black cat)”而使用“粉红猫(pink cat)”。
+It is easy to convince the user by using longer descriptions. So how can you explain as little as possible and let the AI know what you want? In this article, we'll give you the 6 most effective tips for midjourney out of the picture!
+
+## tip 1 - Use affirmative commands, not vague ones
+
+midjourney doesn't understand negative descriptors very well right now, so don't use negatives like not, but, except, without, etc.
+This is because if a word is mentioned in the word, ai will most likely ignore the logic of the negation to draw a picture.
+
+For example, if you want to create a picture of a cat, avoid "not black cat" and use "pink cat".
 ![](https://s2.loli.net/2023/07/27/o6WyzEN8nTxFPd9.png)
 
-例如，想生成像兔子的猫，使用（**a rabbit like-cat**）比（a cat but looks like a rabbit）更准确。
+For example, if you want to create a cat that looks like a rabbit, it is more accurate to use (**a rabbit like-cat**) than (a cat but looks like a rabbit).
 
 ![](https://s2.loli.net/2023/07/27/iTeU1mc47dER3ft.png)
 
-## tips 2-使用具体的描述词代替抽象的描述词
+## tip 2-use concrete descriptors instead of abstract ones
 
-当我们尝试用文字来描述一幅图像时，抽象的描述词往往会使画面变得模糊不清，甚至超出我们的预期，从而难以精准地控制。因此，我们需要尽可能使用具体的描述，以便更加准确地传达我们的想法。
+When we try to describe an image in words, abstract descriptors tend to make the picture blurry and even more than we expect, making it difficult to control accurately. Therefore, we need to use concrete descriptions whenever possible in order to convey our ideas more accurately.
 
-让我们来看一个例子。如果我们想要生成一张关于猫在开会的图片，我们可能不希望出现人类在会议室里，只有一只猫的情况。因此，避免使用“cat in meeting”这样的抽象描述，而是使用更加具体的“3 cats chatting”来代替。这样，生成的图片将会是一群猫在开会，而不是人类在会议室里有一只猫的情况。
+Let's look at an example. If we want to generate an image of a cat in a meeting, we probably don't want a situation where humans are in the room and there is only one cat. Therefore, instead of using an abstract description like "cat in meeting", we can use the more concrete "3 cats chatting" instead. In this way, the generated image will be a group of cats in a meeting instead of a human with one cat in the meeting room.
 
-因此，我们应尽量避免使用抽象的描述词，如期望、梦想、效用、概念、意义、想象、经验、记忆、论证、叙述等。相反，我们应该更多地使用具体的描述来表达我们的想法，以帮助我们更加准确地控制生成的图片。
+Therefore, we should try to avoid using abstract descriptors such as expectation, dream, utility, concept, meaning, imagination, experience, memory, argument, narrative, etc. Instead, we should use more concrete descriptors. Instead, we should use more concrete descriptions to express our ideas to help us control the generated pictures more accurately.
 
 ![](https://s2.loli.net/2023/07/27/DSHou3AfOYTsI4r.png)
 
-## tips 3-太多的细节可能会使Midjourney更容易混淆
+## tip 3- Too much detail can make Midjourney more confusing
 
-Ai不一定理解描述之间的关系，更多的描述与用词可能会让Ai混淆你的意思，从而导致出图质量不尽如人意。
+Ai doesn't always understand the relationship between descriptions, and more descriptions and wordings may confuse Ai about what you mean, resulting in a less-than-perfect quality image.
 
-比如你想生成一群跳舞的猫，使用（**3 black cats in tutus dancing on the top floor**）比（3 black cats in tutus dance around the altar on the top floor of a sun-baked building to pray for rain）会更好的出图。
+For example, if you want to generate a group of dancing cats, it would be better to use (**3 black cats in tutus dancing on the top floor**) than (3 black cats in tutus dance around the altar on the top floor of a sun-baked building). to pray for rain) would come out better.
 
 ![](https://s2.loli.net/2023/07/27/8q3OdWeA1TDlJjS.png)
 
-## tips 4-使用特定的数量代替不确定的数量
+## Tip 4- Use specific quantities instead of indeterminate quantities
 
-就如上文所说，具体大于模糊/抽象，具体的数字大于（many/few/much...）。
+As stated above, concrete is greater than vague/abstract, and concrete numbers are greater than (many/few/much...) .
 
-（8 cats playing together）> (many cats)
+(8 cats playing together) > (many cats)
 
 ![](https://s2.loli.net/2023/07/27/xMHkLTh5o9nubNO.png)
 
-## tips 5-避免使用让人深入幻想的词
+## tip 5- Avoid using words that make people delve into fantasies
 
-需要检查自己写的描述词是否会让人深入幻想。因为不管输入什么关键词，Midjourney 都能出图，但生成的图像可能会跟自己想要的图片相差甚远，所以避免使用让人遐想的词语。
+You need to check whether the descriptors you write will make people delve into fantasies. Because Midjourney will produce images no matter what keywords you enter, but the images produced may be far from what you want, so avoid using words that make you fantasize.
 
-如（Alien Cultures in the Multiverse）<（**Sci-fi Alien Workstation**）
+For example (Alien Cultures in the Multiverse) <(**Sci-fi Alien Workstation**)
 
 ![](https://s2.loli.net/2023/07/27/puAetFhPWnLUbTJ.png)
 
-## 另外的使用技巧
+## Additional tips for use
 
-使用Midjourney的方法有很多，也有下面这些技巧可以帮助你：
+There are many ways to use Midjourney, and there are also these tips below to help you:
 
-设定指令：你可以输入“settings”指令来调出设置内容，选择模型的种类、不同的质量细节、渲染速度等。
+Settings commands: You can type in the "settings" command to bring up the settings, selecting the type of model, different quality details, rendering speed, etc.
 
-混合调整：在“remix mode”混合模式中，你可以生成图片并选择一张最满意的生成高质量版本。这时候图片下方就会出现“make variations”按钮，点击它可以生成基础性补充操作的不同版本图片。
+Mixing and adjusting: In the "remix mode" you can generate images and choose the one you are most satisfied with to generate a high quality version. The "make variations" button will appear below the image, click on it to generate different versions of the image for basic additional operations.
 
-混乱参数：使用“chaos”参数，可以让AI增加更多自己的想法。
+Chaos parameter: Use the "chaos" parameter to give the AI more of your own ideas.
 
-提示权重：你可以为不同的提示语添加“ ::+数值”，系统会根据数值调整此提示指令的权重。
+Cue weights: You can add " ::+ value" for different cues and the system will adjust the weight of this cue according to the value.
 
-负面参数：添加“--no+内容”即可删除你不希望在图片中出现的元素。
+Negative parameter: add "--no+content" to remove elements you don't want to appear in the image.
 
-固定设置：你可以使用“prefer suffix”指令来设定宽高比、渲染质量等参数，这样在后续生成图片时，这些基础设定会自动添加上。
+Fixed settings: You can use the "prefer suffix" command to set the aspect ratio, rendering quality and other parameters, so that in the subsequent generation of images, these basic settings will be automatically added.
 
-种子参数的使用：通过使用“seed”参数，可以生成构图、颜色、细节均相似的系列图片。
+Use of seed parameters: By using the "seed" parameter, you can generate a series of images with similar composition, color and details.
 
-图像权重：“iw”参数可以调整生成图片与参考图之间的相似程度，数值范围是 0.5-2，数值越大越接近原图的样子。
+Image weight: The "iw" parameter can adjust the similarity between the generated image and the reference image, the value range is 0.5-2, the larger the value the closer to the original image.
 
-Midjourney还有许多高级功能，比如3D生成、多图合成等，具体操作可以查看Midjourney官方发布的使用技巧或者相关教程。
+Midjourney also has many advanced features, such as 3D generation, multi-picture compositing, etc. For specific operations, you can check the official Midjourney tips or related tutorials.
 
-开启Midjourney魔法世界的钥匙，它能够让你的构想在画布上灵动起舞。而当你掌握另一个秘诀——巧妙运用翻译软件，那么你的创作水平将如同乘风破浪般节节攀升。最后，祝愿每一位创作者都能驾驭AI的强大力量，将无限创意转化为令人惊艳的作品。
+The key to unlocking the magic world of Midjourney is its ability to make your ideas dance on the canvas. And when you master another secret - the skillful use of translation software - your level of creativity will rise like the wind and the waves. In the end, I wish every creator could harness the power of AI and turn their unlimited creativity into amazing works.
 
-## midjourney实用的关键词
+## midjourney practical keywords
 
-Midjourney的多元魔法世界：
+![](https://s2.loli.net/2023/09/23/HfMGUkaOgKpbvPR.png)
 
-想象一下，你是一个魔法师，手中掌握着一支魔法棒。Midjourney就是那支魔法棒，让你轻松驾驭各种奇妙元素，创造出令人惊艳的作品。
+*The multifaceted magical world of Midjourney:*
 
-一、细节控的福音——精致入微的描绘
+Imagine you are a wizard with a magic wand in your hand. midjourney is that magic wand, allowing you to easily harness all kinds of marvelous elements to create amazing creations.
 
-Midjourney能将你脑海中的“细节控建筑”或“精细装饰物”等转化为现实。这些细节丰富、精致的图片仿佛拥有魔力，吸引你的目光深入其中，流连忘返。
+First, the gospel of detail control - the delicate depiction of the subtle
 
-二、色彩狂欢——生动活泼的色彩
+Midjourney brings to life the "detail-oriented architecture" or "fine decorations" that you have in your mind. These richly detailed, delicate pictures seem to have the magic power to attract your eyes deep into them and linger.
 
-Midjourney还能引爆你的视觉感官，创造出色彩鲜艳、富有表现力的图片。想象一下，“色彩鲜艳的日落”或“彩霞满天的星空”，这些极致色彩都将为你所有。
+*Color Mania - Vibrant and Lively Colors*
 
-三、梦幻光影——如梦似幻的照明
+Midjourney also triggers your visual senses to create colorful and expressive images. Imagine a "brightly colored sunset" or a "starry sky filled with color" - the ultimate in color will be all yours.
 
-这个魔法棒也能为你带来如梦似幻的光影效果。只需想象“阳光从云层中洒落”或“明亮阳光照耀大地”的场景，Midjourney就能帮你实现。
+Third, the dreamy light and shadow - like a dreamy lighting
 
-四、纯净背景——简洁至美的画面
+This magic wand can also bring you a dreamy light effect. Just imagine "sunlight falling from the clouds" or "bright sunlight shining on the earth" and Midjourney will help you realize it.
 
-Midjourney也可以帮你生成背景简单、纯净的图片。比如“一朵花在草地中绽放”或“一个勇者在海边漫步”，这些画面都让人心生宁静。
+Four, pure background - simple and beautiful picture
 
-五、细节狂魔——细致入微的纹理之谜
+![](https://s2.loli.net/2023/09/23/Ppc21FUwSr7L8C4.png)
 
-这个魔法棒还有一个特殊魔力，就是能生成具有令人难以置信的高水平细节和错综复杂的纹理的图片。比如“精细的机械零件”或“复杂的花朵结构”，都能被Midjourney完美呈现。
+Midjourney can also help you generate a simple background, pure pictures. For example, "a flower blooming in the grass" or "a brave man walking on the beach", all these images make people feel peaceful.
 
-六、自然元素狂欢——生机勃勃的画卷
+Fifth, the devil of the details - the mystery of the texture of the nuanced
 
-Midjourney还能帮你勾勒出自然元素如动物、植物、山水等自然景观的图片。想象一下，“一棵大树在森林中生长”或“一群野鹿在草地上奔跑”，这些画面都让人感受到大自然的奇妙。
+Another special magic of this wand is the ability to generate images with incredibly high levels of detail and intricate textures. For example, "fine mechanical parts" or "complex flower structures" can be perfectly rendered by Midjourney.
 
-七、城市景观再现——繁华与古老交织
+Natural Element Carnival -*Vibrant Paintings*
 
-城市元素也是Midjourney的擅长领域。借助Midjourney，你可以轻松生成城市景观的图片，如“一座古老的建筑在城市中矗立”或“一辆汽车在高速公路上飞驰”，这些都将带你领略城市的繁华与魅力。
+Midjourney can also help you outline natural elements such as animals, plants, landscapes and other natural landscape pictures. Imagine "a big tree growing in the forest" or "a group of wild deer running in the grass", all these images make people feel the wonder of nature.
 
-八、幻想狂想曲——天马行空的创意
+*Cityscape reproduction* - bustling and ancient intertwined
 
-Midjourney还能帮你实现那些异想天开、梦幻般的可爱动物或人物形象。比如“一个精灵在森林中跳跃”或“一个天使在云端飞翔”，这些奇妙的幻想元素都能在你的掌控之中。
+*Urban elements are also Midjourney's specialty*. With Midjourney, you can easily generate cityscape pictures, such as "an old building standing in the city" or "a car speeding on the highway", which will take you to appreciate the prosperity and charm of the city.
 
-综上所述，Midjourney就像一支魔法棒，让你随心所欲地创造出各种精彩绝伦的图片。掌握好这些关键词，你也能成为一名掌控Midjourney的魔法师！
+Eight, fantasy rhapsody - the sky is the limit of creativity!
+
+Midjourney can also help you realize those whimsical, fantastic cute animals or characters. For example, "an elf jumping in the forest" or "an angel flying in the clouds", these wonderful fantasy elements can be under your control.
+
+To summarize, Midjourney is like a magic wand that allows you to create all kinds of wonderful images as you wish. By mastering these keywords, you can also become a wizard who controls Midjourney!
 
 
 

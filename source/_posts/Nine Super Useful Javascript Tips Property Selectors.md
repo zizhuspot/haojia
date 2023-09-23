@@ -4,7 +4,7 @@ date: 2023-08-05 08:14:48
 
 categories:
 
-  - javascript
+  - program
   
 tags:
   - javascript

@@ -2,7 +2,7 @@
 title: How to Configure SSH with Multiple Github Accounts
 
 date: 2023-09-23 15:20:17
-categories :
+categories:
 
   - development tool
 tags :
@@ -12,7 +12,7 @@ tags :
 
 description: 
 
-I need to temporarily switch to another GitHub account for development. While I can use either HTTPS or SSH to clone the code, the most recommended way is to use SSH.This leads to a problem: I need to configure SSH for multiple GitHub accounts on my computer.Here's how to solve this problem.
+ While I can use either HTTPS or SSH to clone the code, the most recommended way is to use SSH.This leads to a problem: Here's how to solve this problem.
 
 cover: https://s2.loli.net/2023/09/23/e3LHsqUna2ZDYMW.png
 
@@ -92,6 +92,7 @@ The domain name of a GitHub repository is usually `github.com`, but in some case
 ### Multiple github accounts config Configuration
 
 - The domain name is different
+
 ```javascript
 
 Host github.com

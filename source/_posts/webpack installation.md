@@ -12,7 +12,7 @@ tags:
   
 description: With the continuous development of front-end technology, Webpack has gradually become the standard for front-end engineering,It can handle not only JavaScript, but also CSS, images or other resources. It can package these resources into a single file, thus improving the performance and loading speed of the application.
 
-cover: https://s2.loli.net/2023/09/24/m8XBZnz94LwTMEV.webp
+cover:https://s2.loli.net/2023/09/24/61YKaFpoRXcjhm8.jpg
 
 ---
 

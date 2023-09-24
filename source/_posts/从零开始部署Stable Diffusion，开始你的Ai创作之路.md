@@ -17,7 +17,7 @@ tags:
   
 description: Teach you how to deploy Stable Diffusion from scratch, and start your way to create paintings, with Chinese tutorials in the back.
 
-cover: https://s2.loli.net/2023/07/27/cn157qIGZH9wEOm.png
+cover: https://s2.loli.net/2023/09/24/aY914SZkBX3Ftvp.jpg
 
 ---
 

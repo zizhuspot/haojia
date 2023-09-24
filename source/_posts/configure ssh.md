@@ -10,9 +10,7 @@ tags :
   - program
   - github
 
-description: 
-
- While I can use either HTTPS or SSH to clone the code, the most recommended way is to use SSH.This leads to a problem: Here's how to solve this problem.
+description: While I can use either HTTPS or SSH to clone the code, the most recommended way is to use SSH.This leads to a problem: Here's how to solve this problem.
 
 cover: https://s2.loli.net/2023/09/23/e3LHsqUna2ZDYMW.png
 

@@ -11,7 +11,7 @@ tags:
   
 description: This article introduces Rustup, a useful management tool that simplifies the process of installing and updating the Rust toolchain. With Rustup installed, you can seamlessly switch between stable, beta, and nightly versions of Rust.
 
-cover: https://sm.ms/image/W5UkgeGP8pmdYIR
+cover: https://s2.loli.net/2023/09/23/3pnQxHhke6wWyK7.png
 
 ---
 

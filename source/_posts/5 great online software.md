@@ -1,20 +1,20 @@
 ---
-title: Very sincere.5 great online collaborative document software.
+title: 5 great online collaborative document software.
+date: 2023-05-14 19:23:48
 
-date: 2023-08-12 05:47:37
 categories:
   - development tool
-tags:
+tags: 
   - development tool
   - program
   - telecommuting
   - boardmix
-  - Google Docs
   - Microsoft Office 365
   - Quip
+  - Special effects
   - Notion
-  
-description: Experienced a variety of document collaboration software, from which a selection of five to share with you, I hope to help those who are confused about which collaborative editing software for multi-person friends!
+
+description: Experienced a variety of document collaboration software
 
 cover: https://sm.ms/image/c78n9fkCpDBQgdP
 

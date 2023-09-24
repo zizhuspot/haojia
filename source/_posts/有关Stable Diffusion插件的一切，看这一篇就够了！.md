@@ -18,7 +18,7 @@ tags:
 
 description: This article describes the installation/update/uninstallation of the Stable Diffusion plugin in detail, so that practitioners with no basic knowledge of the tool can also be updated and used with ease.
 
-cover: https://s2.loli.net/2023/07/27/IRDMANqGWBtxHiv.png
+cover: https://s2.loli.net/2023/09/24/7qINDJk3n9greSU.jpg
 
 ---
 

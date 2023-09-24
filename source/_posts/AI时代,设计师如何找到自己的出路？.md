@@ -17,7 +17,7 @@ tags:
   - Automation
 description: This article shares 5 great designer tools to help designers better understand the creative tools, and offers suggestions on where designers should go in the future.
 
-cover: https://s2.loli.net/2023/07/30/bOzCPk8sQMNDIiu.png
+cover: https://s2.loli.net/2023/09/24/grIeobPzSVtq37s.jpg
 
 ---
 ## Innovative, automated design tools driven by deep learning:

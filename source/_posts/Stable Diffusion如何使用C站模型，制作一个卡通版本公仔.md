@@ -11,7 +11,7 @@ tags:
   - Ai Tools
   
 description: This article will show you how to use Stable Diffusion to download a model of Station C and materialize the whole process of AIGC creation by actually creating a cute cartoon doll.
-cover: https://s2.loli.net/2023/07/27/rezFAto3pB7VPCm.jpg
+cover: https://s2.loli.net/2023/09/24/nT1WChzsau5AHYI.jpg
 
 ---
 

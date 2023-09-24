@@ -13,7 +13,7 @@ tags:
   
 description: Let me introduce you to a mysterious free AI image generation tool website! With a daily limit of 300, it may not sound like much, but it's actually enough to fulfill your daily needs. This site is a must-have productivity tool for those creative masters! Hurry up to try it!
 
-cover: https://s2.loli.net/2023/08/13/UPNYsk7ptnMV2GO.png
+cover: https://s2.loli.net/2023/09/24/ypiYFQLeZU137Sn.jpg
 
 ---
 

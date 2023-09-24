@@ -12,7 +12,7 @@ tags:
 
 description: C4D and Maya comprehensive comparative analysis, this article all-round comparison and analysis of the use of these two software scenarios for you to understand more.
 
-cover: https://s2.loli.net/2023/07/26/5KXawpAizx7OYHs.png
+cover: https://s2.loli.net/2023/09/24/2KXHMB7xrIERs6g.jpg
 
 ---
 

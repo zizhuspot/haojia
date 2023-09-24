@@ -15,7 +15,7 @@ tags:
   - Designer Tools
 description: 7 time-saving tips for special effects artists to save you time and increase your efficiency.
 
-cover: https://s2.loli.net/2023/07/26/b4vk2xBPIg7HzVd.png
+cover: https://s2.loli.net/2023/09/24/tVc6BP4prulfEYX.jpg
 
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Special Effects Artist
   - special effects production
 description: PSD file for creating realistic lighting effects with NUKE.
-cover: https://s2.loli.net/2023/07/26/qWuQtOEC73rUJ1e.png
+cover: https://s2.loli.net/2023/09/24/La3PqZMpFEfgSVJ.jpg
 ---
 
 The magical world of NUKE goes beyond just importing models; it recognizes a variety of file formats such as abc, fbx, obj, etc., allowing us to easily bring our designs into 3D space. But imagine if we could continue this visual feast without these preset models? The answer is yes! Let's reveal this wonderful secret: how does NUKE achieve 3D lighting simulation effects with only psd drawings provided by the art? It's like looking for endless possibilities out of nothing!

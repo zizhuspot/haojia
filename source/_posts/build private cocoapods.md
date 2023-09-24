@@ -11,7 +11,7 @@ tags:
   
 description: A step-by-step guide to creating a private remote repository for Spec Repo
 
-cover: https://sm.ms/image/I2MXDZ4rfv9Khox
+cover: https://s2.loli.net/2023/09/23/I2MXDZ4rfv9Khox.png
 
 ---
 

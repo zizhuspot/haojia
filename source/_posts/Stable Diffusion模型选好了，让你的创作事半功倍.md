@@ -16,7 +16,7 @@ tags:
   - Art & Design
 description: Stable Diffusion model selection and model recommendation to make your work more efficient and quality.
 
-cover: https://s2.loli.net/2023/07/27/X28Y5kEWjsAOnau.jpg
+cover: https://s2.loli.net/2023/09/24/7WnhsJfBSjCGY9H.jpg
 
 ---
 

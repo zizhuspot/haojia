@@ -11,7 +11,7 @@ tags:
   
 description: RecyclerView is a frequently used component in Android development, which can help us display a large amount of data, this article will introduce some optimization tips to help you use RecyclerView better.
 
-cover: https://s2.loli.net/2023/09/23/jZWpArfghJqYOUk.png
+cover: https://s2.loli.net/2023/09/24/8EXeaOuQ4Iq1LkC.webp
 
 ---
 

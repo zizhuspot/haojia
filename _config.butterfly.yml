@@ -231,10 +231,9 @@ aside:
   card_author:
     enable: true
     description: Programming techniques, development tools, artificial intelligence (AI)
-      enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/zizhuspot/www.touzi87.top
+    icon: fab fa-github
+    text: Follow Me
+    link: https://github.com/zizhuspot/www.touzi87.top
   card_announcement:
     enable: true
     content: Artificial intelligence is changing the world.

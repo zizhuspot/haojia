@@ -14,7 +14,7 @@ tags:
   - Designer Tools
 description: The 10 best renderers for Houdini, with recommended computer configurations.
 
-cover: https://s2.loli.net/2023/07/26/67dXvmPRzelp8Mq.png
+cover: https://s2.loli.net/2023/09/24/K6sXgU1OSdqiLJh.jpg
 
 ---
 

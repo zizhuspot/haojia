@@ -11,7 +11,7 @@ tags:
   - Artistic Creation
   - Creative Design
 description: This article makes a comprehensive comparison of the mainstream Ai intelligent image generators currently on the market, so that you can use the most suitable tool for yourself and improve your creative efficiency.
-cover: https://s2.loli.net/2023/08/05/SRpuAG3b15qzCmM.png
+cover: https://s2.loli.net/2023/09/24/75FMhty1npOu3zW.jpg
 ---
 
 Dry Analysis! Which Ai Intelligent Image Generator tool is the strongest on the market today?

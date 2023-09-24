@@ -12,7 +12,7 @@ tags:
   
 description: This article highlights new innovations under the Adobe umbrella, what will be the chemistry of productivity tools plus Ai, and is the competition for AIGC entering a white-hot stage?
 
-cover: https://s2.loli.net/2023/09/08/cT1WDZXSNYHr9AF.png
+cover: https://s2.loli.net/2023/09/24/dsiuFBKASgpXPah.jpg
 
 ---
 

@@ -1,25 +1,25 @@
 ---
-title: 关于
+title: About
 date: 2023-07-16 15:54:03
 ---
 
-## 我是谁
+## Who am I?
 
-你好，我是jiahao。我是一名视觉设计从业者，热爱视觉设计与电影特效。我在这里分享我的经验和见解，也希望能够与更多人交流和学习。
+Hi, I'm jiahao. i'm a visual design practitioner and love visual design and movie special effects. I am here to share my experience and insights, and hope to communicate and learn from more people.
 
-## 我的经历
+## My Experience
 
-我在影视后期与电影特效方面有着丰富的经验。在这段时间里，我学到了很多，也遇到了很多挑战。但正是这些经历让我成长并塑造了我的个性和价值观。
+I have a lot of experience in post-production and movie special effects. During this time I have learned a lot and encountered many challenges. But it is these experiences that have allowed me to grow and shape my personality and values.
 
-## 我的使命
+## My Mission
 
-我相信技术改变生活，专注代表专业是我们每个人都应该追求的。我的使命是通过我的工作和生活方式来实现这些价值观，并帮助更多的人找到自己的使命和价值。
+I believe that technology changes lives and that focus means professionalism is something we should all strive for. My mission is to realize these values through my work and lifestyle, and to help as many people as possible to find their own mission and values.
 
-## 联系我
+## Contact Me
 
-如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
+If you have any questions or suggestions, please feel free to contact me. You can find me in the following ways:
 
-- 电子邮件：wongjop9@gmail.com
-- 社交媒体：[twitter:@touzi666](https://twitter.com/touzi666)
+- Email: wongjop9@gmail.com
+- Social Media: [twitter:@touzi666](https://twitter.com/touzi666)
 
-感谢您访问我的网站！
+Thank you for visiting my website!

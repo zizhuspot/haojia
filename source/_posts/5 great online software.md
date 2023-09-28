@@ -16,7 +16,7 @@ tags:
 
 description: Experienced a variety of document collaboration software
 
-cover: https://s2.loli.net/2023/09/23/2MgxkhywHq9LK4t.png
+cover: https://s2.loli.net/2023/09/28/D7i5fjQIRln2Ho1.jpg
 
 ---
 
